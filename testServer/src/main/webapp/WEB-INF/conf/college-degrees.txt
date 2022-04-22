@@ -1,0 +1,1156 @@
+Associate of Arts	DEGREE
+Associate of Engineering	DEGREE
+Associate in Electronics Engineering Technology	DEGREE
+Associate of Science in Nursing	DEGREE
+Associate of Science	DEGREE
+Associate of Science in Accounting	DEGREE
+Associate of Forestry	DEGREE
+Associate of Technology	DEGREE
+Associate of Applied Arts	DEGREE
+Associate of Applied Business	DEGREE
+Associate of Applied Science	DEGREE
+Associate of Arts and Sciences	DEGREE
+Associate of Arts in Teaching	DEGREE
+Associate of Business Administration	DEGREE
+Associate of Baccalaureate Studies	DEGREE
+Associate in Nursing	DEGREE
+Associate of Engineering Science	DEGREE
+Associate in Engineering Technology	DEGREE
+Associate of Fine Arts	DEGREE
+Associate of General Studies	DEGREE
+Associate of Industrial Technology	DEGREE
+Associate of Occupational Studies	DEGREE
+Associate in Occupational Technology	DEGREE
+Associate of Pre-Engineering	DEGREE
+Associate of Political Science	DEGREE
+Associate of Public Service	DEGREE
+Associate in Physical Therapy	DEGREE
+Bachelor of Architecture	DEGREE
+Bachelor of Design	DEGREE
+Bachelor of Arts	DEGREE
+Bachelor of Applied Arts	DEGREE
+Bachelor of Applied Arts and Science	DEGREE
+Bachelor of Engineering	DEGREE
+Bachelor of Technology	DEGREE
+Bachelor of Engineering Technology	DEGREE
+Bachelor of Business Administration	DEGREE
+Bachelor of Maths	DEGREE
+International Business Economics	DEGREE
+Bachelor of Science	DEGREE
+Bachelor of Science in Business	DEGREE
+Bachelor of Management Studies	DEGREE
+Bachelor of Administrative Studies	DEGREE
+Bachelor of International Business Economics	DEGREE
+Bachelor of Commerce	DEGREE
+Bachelor of Business	DEGREE
+Bachelor of Management and Organizational Studies	DEGREE
+Bachelor of Business Science	DEGREE
+Bachelor of Accountancy	DEGREE
+Bachelor of Comptrolling	DEGREE
+Bachelor of Economics	DEGREE
+Bachelor of Arts in Organizational Management	DEGREE
+Bachelor of Computing	DEGREE
+Bachelor of Computer Science	DEGREE
+Bachelor of Science in Information Technology	DEGREE
+Bachelor of Computer Application	DEGREE
+Bachelor of Computer Applications	DEGREE
+Bachelor of Applied Science in Information Technology	DEGREE
+Bachelor of Business Information Systems	DEGREE
+Intercalated Bachelor of Science	DEGREE
+Bachelor of Medical Science	DEGREE
+Bachelor of Medical Biology	DEGREE
+Doctorate of Dental Surgery	DEGREE
+Bachelor of Science in Nursing	DEGREE
+Bachelor of Science in Public Health	DEGREE
+Bachelor of Health Science	DEGREE
+Bachelor of Science in Human Biology	DEGREE
+Bachelor of Kinesiology	DEGREE
+Bachelor of Aviation	DEGREE
+Bachelor of Divinity	DEGREE
+Bachelor of Theology	DEGREE
+Bachelor of Religious Studies	DEGREE
+Bachelor of Religious Education	DEGREE
+Bachelor of Fine Arts	DEGREE
+Bachelor of Film and Television	DEGREE
+Bachelor of Integrated studies	DEGREE
+Bachelor of Journalism	DEGREE
+Bachelor of Landscape Architecture	DEGREE
+Bachelor of Liberal Arts	DEGREE
+Bachelor of General Studies	DEGREE
+Bachelor of Applied Studies	DEGREE
+Bachelor of Liberal Studies	DEGREE
+Bachelor of Professional Studies	DEGREE
+Bachelor of Library Science	DEGREE
+Bachelor of Library and Information Science	DEGREE
+Bachelor of Music	DEGREE
+Bachelor of Art in Music	DEGREE
+Bachelor of Music Education	DEGREE
+Bachelor of Mortuary Science	DEGREE
+Bachelor of Philosophy	DEGREE
+Bachelor of Arts in Psychology	DEGREE
+Bachelor of Science in Psychology	DEGREE
+Bachelor of Science in Education	DEGREE
+Bachelor of Science in Finance	DEGREE
+Bachelor of Arts for Teaching	DEGREE
+Bachelor of Science and/with education	DEGREE	DEGREE
+Bachelor of Science in Forestry	DEGREE
+Bachelor of Applied Science	DEGREE
+Bachelor of Science in Law	DEGREE
+Bachelor of Social Science	DEGREE
+Bachelor of Arts in Social Work	DEGREE
+Bachelor of Talmudic Law	DEGREE
+Bachelor of Tourism Studies	DEGREE
+Bachelor of Mathematics	DEGREE
+Bachelor of Mathematical Sciences	DEGREE
+Bachelor of Urban and Regional Planning	DEGREE
+Bachelor of Public Affairs and Policy Management	DEGREE
+Bachelor of Hotel Management	DEGREE
+Doctor of Applied Science	DEGREE
+Doctor of Basic Science	DEGREE
+Doctor of Science	DEGREE
+Doctor of Arts	DEGREE
+Doctor of Administration	DEGREE
+Doctor of Chemistry	DEGREE
+Doctor of Informatics	DEGREE
+Doctor of Criminology	DEGREE
+Doctor of Design	DEGREE
+Doctor of Education	DEGREE
+Doctor of Engineering	DEGREE
+Doctor of Law	DEGREE
+Doctor of Literature	DEGREE
+Doctor of Medicine	DEGREE
+Doctor of Music	DEGREE
+Doctor of Philosophy	DEGREE
+Doctor of Physical Education	DEGREE
+Doctor of Psychology	DEGREE
+Doctor of Veterinary Medicine	DEGREE
+Doctor of Social Science	DEGREE
+Doctor of Dental Medicine	DEGREE
+Doctor of philosophy	DEGREE
+Doctor of natural sciences	DEGREE
+Doctor of pharmacy	DEGREE
+Doctor of paedeutics	DEGREE
+Doctor of theology	DEGREE
+Doctor of economy	DEGREE
+Doctor of social sciences	DEGREE
+Honorary Doctorate	DEGREE
+Doctor of Letters	DEGREE
+Doctor of Business Administration	DEGREE
+Doctor of Canon Law	DEGREE
+Doctor of Engineering Science	DEGREE
+Doctor of Fine Arts	DEGREE
+Doctor of Hebrew Letters	DEGREE
+Doctor of Juridical Science	DEGREE
+Doctor of Musical Arts	DEGREE
+Doctor of Music Education	DEGREE
+Doctor of Modern Languages	DEGREE
+Doctor of Nursing Science	DEGREE
+Doctor of Public Health	DEGREE
+Doctor of Sacred Theology	DEGREE
+Doctor of Health Sciences	DEGREE
+Master of Accountancy	DEGREE
+Master of Advanced Study	DEGREE
+Master of Economics	DEGREE
+Master of Applied Science	DEGREE
+Master of Architecture	DEGREE
+Master of Arts	DEGREE
+Master of Arts in Teaching	DEGREE
+Master of Arts in Liberal Studies	DEGREE
+Master of Business Administration	DEGREE
+Master of Business	DEGREE
+Master of Business Informatics	DEGREE
+Master of Chemistry	DEGREE
+Master of City Planning	DEGREE
+Master of Commerce	DEGREE
+Master of Computational Finance	DEGREE
+Master of Computer Applications	DEGREE
+Master of Computer Application	DEGREE
+Master of Computer Science	DEGREE
+Master of Criminal Justice	DEGREE
+Master in Creative Technologies	DEGREE
+Master of Design	DEGREE
+Master of Divinity	DEGREE
+Master of Economics	DEGREE
+Master of Education	DEGREE
+Master of Engineering	DEGREE
+Master of Engineering Management	DEGREE
+Master of Enterprise	DEGREE
+Master of European Law	DEGREE
+Master of Finance	DEGREE
+Master of Financial Economics	DEGREE
+Master of Financial Engineering	DEGREE
+Master of Financial Mathematics	DEGREE
+Master of Fine Arts	DEGREE
+Master of Health Administration	DEGREE
+Master of Health Science	DEGREE
+Master of Humanities	DEGREE
+Master of Industrial and Labor Relations	DEGREE
+Master of International Affairs	DEGREE
+Master of International Business	DEGREE
+Master in International Economics	DEGREE
+Master of International Studies	DEGREE
+Master of Information System Management	DEGREE
+Master of IT	DEGREE
+Master of Information Technology	DEGREE
+Master of Jurisprudence	DEGREE
+Master of Laws	DEGREE
+Master of Studies in Law	DEGREE
+Master of Landscape Architecture	DEGREE
+Master of Letters	DEGREE
+Master of Liberal Arts	DEGREE
+Master of Library and Information Science	DEGREE
+Master of Management	DEGREE
+Master of Mathematical Finance	DEGREE
+Master of Mathematics	DEGREE
+Master of Medical Science	DEGREE
+Master of Music	DEGREE
+Master of Occupational Therapy	DEGREE
+Master of Pharmacy	DEGREE
+Master of Philosophy	DEGREE
+Master of Physician Assistant Studies	DEGREE
+Master of Physics	DEGREE
+Master of Political Science	DEGREE
+Master of Professional Studies	DEGREE
+Master of Public Administration	DEGREE
+Master of Public Affairs	DEGREE
+Master of Public Health	DEGREE
+Master of Public Policy	DEGREE
+Master of Public Management	DEGREE
+Master of Quantitative Finance	DEGREE
+Master of Rabbinic Studies	DEGREE
+Master of Real Estate Development	DEGREE
+Master of Religious Education	DEGREE
+Master of Research	DEGREE
+Master of Sacred Music	DEGREE
+Master of Sacred Theology	DEGREE
+Master of Science	DEGREE
+Master of Science in Education	DEGREE
+Master of Science in Engineering	DEGREE
+Master of Science in Finance	DEGREE
+Master of Science in Human Resource Development	DEGREE
+Master of Science in Information Systems	DEGREE
+Master of Science in Information Systems Management	DEGREE
+Master of Science in Information Technology	DEGREE
+Master of Science in Leadership	DEGREE
+Master of Science in Management	DEGREE
+Master of Science in Nursing	DEGREE
+Master of Science in Project Management	DEGREE
+Master of Science in Supply Chain Management	DEGREE
+Master of Science in Teaching	DEGREE
+Master of Science in Taxation	DEGREE
+Master of Social Science	DEGREE
+Master of Social Work	DEGREE
+Master of Studies	DEGREE
+Master of Surgery	DEGREE
+Master of Theological Studies	DEGREE
+Master of Theology	DEGREE
+Master of Urban Planning	DEGREE
+Master of Veterinary Science	DEGREE
+BE	DEGREE
+B.E	DEGREE
+B.E.	DEGREE
+BTech	DEGREE
+B.Tech	DEGREE
+B.Tech.	DEGREE
+B.Arch.	DEGREE
+B.Arch	DEGREE
+BArch	DEGREE
+B.Des.	DEGREE
+B.Des	DEGREE
+BDes	DEGREE
+B.Pharm	DEGREE
+B.Pharm.	DEGREE
+BPharm	DEGREE
+LL.B	DEGREE
+LL.B.	DEGREE
+LLB	DEGREE
+BSc	DEGREE
+B.Sc.	DEGREE
+B.Sc	DEGREE
+BCom	DEGREE
+B.Com	DEGREE
+B.Com.	DEGREE
+B.COM	DEGREE
+B.COM.	DEGREE
+BBA	DEGREE
+B.B.A	DEGREE
+B.B.A.	DEGREE
+B.Sc. LL.B.	DEGREE
+B.Com. LL.B.	DEGREE
+BBA LL.B.	DEGREE
+BMS	DEGREE
+B.M.S	DEGREE
+B.M.S.	DEGREE
+BHM	DEGREE
+B.H.M	DEGREE
+B.H.M.	DEGREE
+MBA	DEGREE
+M.B.A	DEGREE
+M.B.A.	DEGREE
+BBM	DEGREE
+MBBS	DEGREE
+M.B.B.S	DEGREE
+M.B.B.S.	DEGREE
+BDS	DEGREE
+B.D.S	DEGREE
+B.D.S.	DEGREE
+BAMS	DEGREE
+B.A.M.S	DEGREE
+B.A.M.S.	DEGREE
+BHMS	DEGREE
+B.H.M.S	DEGREE
+B.H.M.S.	DEGREE
+B.Sc. (Agriculture)	DEGREE
+B.Arch.	DEGREE
+B.A.	DEGREE
+B.A.M.S.	DEGREE
+B.B.A.	DEGREE
+B.Com.	DEGREE
+B.C.A.	DEGREE
+B.D.S.	DEGREE
+B.Des.	DEGREE
+B.D.	DEGREE
+B.Ed.	DEGREE
+B.E./B.Tech.	DEGREE
+BFA	DEGREE
+BVA	DEGREE
+B.F.Sc.	DEGREE
+B.Sc. (Fisheries)	DEGREE
+B.A.	DEGREE
+B.Sc.	DEGREE
+B.H.M.S.	DEGREE
+L.L.B.	DEGREE
+B.Lib.	DEGREE
+B.Lib.Sc.	DEGREE
+B.M.C.	DEGREE
+B.M.M.	DEGREE
+M.B.B.S.	DEGREE
+B.Sc. (Nursing)	DEGREE
+B.Pharm.	DEGREE
+B.P.Ed.	DEGREE
+B.P.T.	DEGREE
+B.Sc.	DEGREE
+BSW or B.A. (SW)	DEGREE
+B.V.Sc.	DEGREE
+M.D.	DEGREE
+M.D. (Homoeopathy)	DEGREE
+M.A.	DEGREE
+M.Sc.	DEGREE
+M.Arch.	DEGREE
+M.A.	DEGREE
+M.B.A.	DEGREE
+M.Ch.	DEGREE
+M.Com.	DEGREE
+M.C.A.	DEGREE
+M.D.S.	DEGREE
+M.Des.	DEGREE
+M.Design.	DEGREE
+M.Ed.	DEGREE
+M.E./M.Tech.	DEGREE
+MFA	DEGREE
+MVA	DEGREE
+M.F.Sc.	DEGREE
+M.Sc. (Fisheries)	DEGREE
+L.L.M.	DEGREE
+M.Lib.	DEGREE
+M.Lib.Sc.	DEGREE
+M.M.C	DEGREE
+M.M.M.	DEGREE
+M.Pharm	DEGREE
+M.Phil.	DEGREE
+M.P.Ed.	DEGREE
+M.P.E.	DEGREE
+M.P.T.	DEGREE
+M.Sc.	DEGREE
+M.Sc. (Agriculture)	DEGREE
+M.S.W.	DEGREE
+M.A. (SW)	DEGREE
+M.S.	DEGREE
+M.V.Sc.	DEGREE
+Pharm.D	DEGREE
+Ph.D.	DEGREE
+D.M.	DEGREE
+PGDIS	DEGREE
+D.H.R.M.	DEGREE
+PGDT	DEGREE
+PGDIT	DEGREE
+PGDHRM	DEGREE
+DHCM	DEGREE
+PGDSW	DEGREE
+PGDRM	DEGREE
+PGDHSE	DEGREE
+DIA	DEGREE
+PGDCR	DEGREE
+PGDHM	DEGREE
+PGDEL	DEGREE
+PGDEM	DEGREE
+PGDSM	DEGREE
+PGPFMB	DEGREE
+PGPM	DEGREE
+P.G.D.Ed.M.	DEGREE
+PGDMLM	DEGREE
+PGDMBA	DEGREE
+PGDSLM	DEGREE
+DLL & LW	DEGREE
+PGDBL	DEGREE
+PGDCL	DEGREE
+PGDCCA	DEGREE
+PGDMLE	DEGREE
+PGDTL	DEGREE
+PGDTP	DEGREE
+PGDIPRL	DEGREE
+ADCHN	DEGREE
+APGDCA	DEGREE
+DCHN	DEGREE
+PGDFSQM	DEGREE
+PGDIM	DEGREE
+D.Ed.	DEGREE
+NTT	DEGREE
+DMLT	DEGREE
+DHA	DEGREE
+D.H.L.S.	DEGREE
+DOA	DEGREE
+DRT	DEGREE
+G.N.M.	DEGREE
+D.A.C.	DEGREE
+PGDIS	DEGREE
+D.H.R.M.	DEGREE
+PGDT	DEGREE
+PGDIT	DEGREE
+PGDHRM	DEGREE
+DHCM	DEGREE
+PGDSW	DEGREE
+PGDRM	DEGREE
+PGDHSE	DEGREE
+DIA	DEGREE
+PGDCR	DEGREE
+PGDHM	DEGREE
+PGDEL	DEGREE
+PGDEM	DEGREE
+PGDSM	DEGREE
+PGPFMB	DEGREE
+P.G.D.Ed.M.	DEGREE
+PGDMLM	DEGREE
+PGDMBA	DEGREE
+PGDSLM	DEGREE
+DLL & LW	DEGREE
+PGDBL	DEGREE
+PGDCL	DEGREE
+PGDCCA	DEGREE
+PGDMLE	DEGREE
+PGDTL	DEGREE
+PGDTP	DEGREE
+PGDIPRL	DEGREE
+ADCHN	DEGREE
+APGDCA	DEGREE
+DCHN	DEGREE
+PGDFSQM	DEGREE
+PGDIM	DEGREE
+PGDBM	DEGREE
+PGDAS	DEGREE
+DBJCC	DEGREE
+PGPBM	DEGREE
+PGDCP	DEGREE
+PGSCS	DEGREE
+PGDIFA	DEGREE
+PGDPA	DEGREE
+PGDBFM	DEGREE
+PGDCA	DEGREE
+PGDM	DEGREE
+D.G.O.	DEGREE
+PGDBI	DEGREE
+PGDIB	DEGREE
+PGDJMC	DEGREE
+PGDP	DEGREE
+D.L.O.	DEGREE
+D.I.H.	DEGREE
+DCH	DEGREE
+D.Ortho.	DEGREE
+DPTD.Ed.	DEGREE
+NTT	DEGREE
+DMLT	DEGREE
+DHA	DEGREE
+D.H.L.S.	DEGREE
+DOA	DEGREE
+DRT	DEGREE
+G.N.M.	DEGREE
+D.A.C.	DEGREE
+DOTT	DEGREE
+DMLT	DEGREE
+DHLS	DEGREE
+EEE	DEGREE
+PGDIS	DEGREE
+D.H.R.M.	DEGREE
+PGDT	DEGREE
+PGDIT	DEGREE
+PGDHRM	DEGREE
+DHCM	DEGREE
+PGDSW	DEGREE
+PGDRM	DEGREE
+PGDHSE	DEGREE
+DIA	DEGREE
+PGDCR	DEGREE
+PGDHM	DEGREE
+PGDEL	DEGREE
+PGDEM	DEGREE
+PGDSM	DEGREE
+PGPFMB	DEGREE
+P.G.D.Ed.M.	DEGREE
+PGDMLM	DEGREE
+PGDMBA	DEGREE
+PGDSLM	DEGREE
+DLL & LW	DEGREE
+PGDBL	DEGREE
+PGDCL	DEGREE
+PGDCCA	DEGREE
+PGDMLE	DEGREE
+PGDTL	DEGREE
+PGDTP	DEGREE
+PGDIPRL	DEGREE
+ADCHN	DEGREE
+APGDCA	DEGREE
+DCHN	DEGREE
+PGDFSQM	DEGREE
+PGDIM	DEGREE
+Executive	DEGREE
+D.Ed.	DEGREE
+NTT	DEGREE
+DMLT	DEGREE
+DHA	DEGREE
+D.H.L.S.	DEGREE
+DOA	DEGREE
+DRT	DEGREE
+G.N.M.	DEGREE
+D.A.C.	DEGREE
+Advanced Diploma	DEGREE
+Advanced PG Diploma	DEGREE
+ATD	DEGREE
+B.A.S.L.P	DEGREE
+B.Ed	DEGREE
+D.B.A	DEGREE
+D.B.Ed	DEGREE
+D.C.B.R	DEGREE
+D.E.C.C.E	DEGREE
+D.E.C.S.E	DEGREE
+D.E.E	DEGREE
+D.E.Ed	DEGREE
+D.E.I.E	DEGREE
+D.Ed	DEGREE
+D.Ed.Q	DEGREE
+D.F.Tech	DEGREE
+D.G.P	DEGREE
+D.H.A.R.E.M.T	DEGREE
+D.H.L.S	DEGREE
+D.H.L.S	DEGREE
+D.H.L.S	DEGREE
+D.I.S.L.I	DEGREE
+D.I.T	DEGREE
+D.M.L.T	DEGREE
+D.M.P.B	DEGREE
+D.P.E	DEGREE
+D.P.Ed	DEGREE
+D.P.O	DEGREE
+D.Pharm	DEGREE
+D.R.T	DEGREE
+D.S.E	DEGREE
+D.T.E	DEGREE
+D.T.Ed	DEGREE
+D.T.Ed AI	DEGREE
+D.T.Y	DEGREE
+D.V.R	DEGREE
+D.V.T.E	DEGREE
+D.V.T.E	DEGREE
+D.Y.Ed	DEGREE
+Diploma	DEGREE
+HDFT	DEGREE
+I.D.H.M	DEGREE
+Jr.Diploma	DEGREE
+M.A.S.L.P	DEGREE
+M.B.B.S	DEGREE
+M.Ed	DEGREE
+M.Phil	DEGREE
+MCA	DEGREE
+M.C.A	DEGREE
+M.C.A.	DEGREE
+P. G. Diploma	DEGREE
+P.G.D.B.M	DEGREE
+P.G.D.C.A	DEGREE
+P.G.D.D.R.M	DEGREE
+P.G.D.M	DEGREE
+P.G.D.M	DEGREE
+P.G.D.S.E	DEGREE
+PG Diploma	DEGREE
+PGDCM	DEGREE
+PGDHRM	DEGREE
+PGDM	DEGREE
+Sr.Diploma	DEGREE
+U.G.D.P.Ed	DEGREE
+B.Sc. Agriculture	DEGREE
+B.Sc. Horticulture	DEGREE
+B.Sc. Forestry	DEGREE
+B.Sc. IT	DEGREE
+B.Sc. Computer Science	DEGREE
+B.Sc. Chemistry	DEGREE
+B.Sc. Mathematics	DEGREE
+B.Sc. Physics	DEGREE
+B.Sc. Hotel Management	DEGREE
+B.Sc. Nautical Science	DEGREE
+B.Sc. Electronics	DEGREE
+B.Sc. Electronics and Communication	DEGREE
+B.Sc. Biotechnology	DEGREE
+B.Sc. Geology	DEGREE
+B.Sc. Sports & Health Education	DEGREE
+B.Sc. Animation and Multimedia	DEGREE
+B.Sc. Hospitality	DEGREE
+B.Sc. Mass Communication	DEGREE
+Integrated BBA, MBA	DEGREE
+B.El.Ed.	DEGREE
+Integrated B.Ed. program	DEGREE
+Diploma in Elementary Education	DEGREE
+B.P.Ed.	DEGREE
+BPE	DEGREE
+D.El.Ed.	DEGREE
+D.Ed.	DEGREE
+NTTE	DEGREE
+ECCE	DEGREE
+JBT	DEGREE
+Mass Communication and Journalism	DEGREE
+Animation and Multimedia	DEGREE
+Performing Arts	DEGREE
+Diploma in Retail Management	DEGREE
+Diploma in Education Technology	DEGREE
+Diploma in Hotel Management	DEGREE
+Diploma in Fire Safety and Technology	DEGREE
+Diploma in Film Making and Video Editing	DEGREE
+Diploma in Event Management	DEGREE
+Bachelor of Statistics	DEGREE
+BA	DEGREE
+CMA	DEGREE
+CA	DEGREE
+Actuarial Science	DEGREE
+GNM	DEGREE
+ANM	DEGREE
+DNHE	DEGREE
+Diploma in Nursing Care Assistant	DEGREE
+Diploma in Dairy Technology	DEGREE
+B.Sc. in Operation Theatre Technology	DEGREE
+B.Sc. in X Ray Technology	DEGREE
+B.Sc. in Radiography and Medical Imaging	DEGREE
+B.Sc. in Dialysis Technology	DEGREE
+B.Sc. in Medical Record Technology	DEGREE
+B.Sc. in Medical Laboratory Technology	DEGREE
+B.Sc. in Ophthalmic Technology	DEGREE
+Bachelor of Occupational Therapy	DEGREE
+Bachelor of Physiotherapy	DEGREE
+B.Sc. in Speech Therapy	DEGREE
+BASLP Course	DEGREE
+B.Sc. in Audiology	DEGREE
+B.Sc. in Anaesthesia Technology	DEGREE
+B.Sc. in Audiology and Speech Therapy	DEGREE
+B.Sc. in Optometry	DEGREE
+Diploma in Operation Theatre Technology	DEGREE
+Diploma in X Ray Technology	DEGREE
+Diploma in Radiography and Medical Imaging	DEGREE
+Diploma in ECG Technology	DEGREE
+Diploma in Dialysis Technology	DEGREE
+Diploma in Medical Record Technology	DEGREE
+Diploma in Medical Laboratory Technology	DEGREE
+Diploma in Ophthalmic Technology	DEGREE
+Diploma in Physiotherapy	DEGREE
+Diploma in Anaesthesia Technology	DEGREE
+Diploma in Nursing Care Assistant	DEGREE
+Diploma in Sanitary Inspector	DEGREE
+Diploma in Hearing Language and Speech	DEGREE
+Diploma in Dental Hygienist	DEGREE
+Diploma in Audiometry Technician	DEGREE
+Diploma in Audiology and Speech Therapy	DEGREE
+X-Ray/Radiology Assistant	DEGREE
+X-Ray/Radiology Technician	DEGREE
+Medical Laboratory Assistant	DEGREE
+Operation Theatre Assistant	DEGREE
+Nursing Care Assistant	DEGREE
+ECG Assistant	DEGREE
+Dental Assistant	DEGREE
+Ophthalmic Assistant	DEGREE
+CT Scan Technician	DEGREE
+Dialysis Technician	DEGREE
+MRI Technician	DEGREE
+BA in History and Archaeology	DEGREE
+BA in Hindi	DEGREE
+BA in Humanities	DEGREE
+BA in Finance	DEGREE
+BA in Foreign Languages	DEGREE
+BA in Regional Languages	DEGREE
+BA in Journalism and Mass Communication	DEGREE
+BA in Visual Communication	DEGREE
+BA in Literature	DEGREE
+BA in Philosophy	DEGREE
+BA in Music	DEGREE
+BA in Theatre	DEGREE
+BA in Yoga and Naturopathy	DEGREE
+BA in Tourism and Hospitality Management	DEGREE
+BA in Library Science	DEGREE
+BA in Photography	DEGREE
+BA in Applied Science	DEGREE
+BA in Advertising	DEGREE
+BA in Fine Arts	DEGREE
+BA in Mathematics	DEGREE
+BA in Retail Management	DEGREE
+BA in Fashion Merchandising	DEGREE
+BA in Culinary Sciences	DEGREE
+BA in Anthropology	DEGREE
+BA in Home Science	DEGREE
+BA in Hotel Management	DEGREE
+BA in Computer Applications	DEGREE
+BA in Finance and Insurance	DEGREE
+BA in Interior Designing	DEGREE
+BA in Psychology	DEGREE
+BA in Economics	DEGREE
+BA in Animation and Multimedia	DEGREE
+Diploma in Interior Design	DEGREE
+Diploma in Fashion Design	DEGREE
+Diploma in Jewellery Design	DEGREE
+Diploma in Event Management	DEGREE
+Diploma in Health & Applied Sciences	DEGREE
+Diploma in Web Designing	DEGREE
+Diploma in Software Engineering	DEGREE
+Diploma in Food Technology	DEGREE
+Diploma in Audio Engineering	DEGREE
+Diploma in Beauty Culture	DEGREE
+Diploma in ITES & Management	DEGREE
+Diploma in Office Management & Secretarial Practice	DEGREE
+Diploma in Plastics Mould Technology	DEGREE
+Diploma in Computer Application	DEGREE
+Diploma in Home Science	DEGREE
+Diploma in Hotel Management	DEGREE
+Diploma in Professional Makeup	DEGREE
+Diploma in Fish Products Technology	DEGREE
+Diploma in Tourism Studies	DEGREE
+Diploma in Watershed Management	DEGREE
+Diploma in Hardware & Networking	DEGREE
+Diploma in Computer Hardware Maintenance	DEGREE
+Diploma in Wood and Paper Technology	DEGREE
+Diploma in Agriculture	DEGREE
+Diploma in Hospitality Management	DEGREE
+Diploma in Urdu	DEGREE
+Diploma in Visual Communication	DEGREE
+Diploma in Printing Technology	DEGREE
+Diploma in Architectural Assistantship	DEGREE
+Diploma in Rubber Technology	DEGREE
+Diploma in Electrical and Electronics Engineering	DEGREE
+Diploma in Power Electronics	DEGREE
+Diploma in Ceramic Engineering	DEGREE
+Diploma in Nursing Care Assistant Course in India	DEGREE
+Diploma in Biomedical Engineering	DEGREE
+Diploma in Plastic Engineering	DEGREE
+Diploma in Business Management	DEGREE
+Diploma in Mining Engineering	DEGREE
+Diploma in Metallurgical Engineering	DEGREE
+Diploma in Mechatronics Engineering	DEGREE
+Diploma in Environmental Engineering	DEGREE
+Diploma in Textile Engineering	DEGREE
+Diploma in EC	DEGREE
+Diploma in Mechanical Engineering	DEGREE
+Diploma in Chemical Engineering	DEGREE
+Diploma in Electrical Engineering	DEGREE
+Diploma in Ophthalmic Technology	DEGREE
+Diploma in Aeronautical Engineering	DEGREE
+Diploma in IC	DEGREE
+Diploma in Marine Engineering	DEGREE
+Diploma in Physiotherapy	DEGREE
+Diploma in Civil Engineering	DEGREE
+Diploma in Computer Engineering	DEGREE
+Diploma in Information Technology	DEGREE
+Diploma in Automobile Engineering	DEGREE
+Post Graduate Diploma in Computer Applications	DEGREE
+P.G. Diploma in Information Security	DEGREE
+Diploma in Mechanical Engineering	DEGREE
+Diploma in Business Administration	DEGREE
+Post Graduate Diploma in Bank Management	DEGREE
+Post Graduate Diploma in Accounting Software	DEGREE
+Diploma in Civil Engineering	DEGREE
+Diploma in Management	DEGREE
+Diploma in Information Technology	DEGREE
+Post Graduate Programme in Management	DEGREE
+Post Graduate Diploma in Management	DEGREE
+Diploma in Hotel Management	DEGREE
+Diploma in Taxation	DEGREE
+Commercial Pilot Licence	DEGREE
+Diploma in Photography	DEGREE
+Diploma in Early Childhood Education	DEGREE
+Diploma in English	DEGREE
+Diploma in Fine Arts	DEGREE
+Diploma in Electrical Engineering	DEGREE
+Diploma in Financial Management	DEGREE
+Diploma in Human Resource Management	DEGREE
+Diploma in Computer Engineering	DEGREE
+P.G. Diploma in Child Health	DEGREE
+Post Graduate Diploma in Translation	DEGREE
+Post Graduate Diploma in Information Technology	DEGREE
+Diploma in Interior Design	DEGREE
+Diploma in Dermatology	DEGREE
+Diploma in Electronics	DEGREE
+Diploma in Journalism	DEGREE
+Post Graduate Diploma in Human Resource Management	DEGREE
+Diploma in Aeronautical Engineering	DEGREE
+Diploma in Public Health	DEGREE
+Diploma in Retail Management	DEGREE
+Post Graduate Diploma in Business Administration	DEGREE
+Post Graduate Diploma in Business Management	DEGREE
+Diploma in Hospitality Management	DEGREE
+Diploma in Event Management	DEGREE
+Diploma in Chemical Engineering	DEGREE
+Diploma in Electronics and Communication Engineering	DEGREE
+Diploma in Marine Engineering	DEGREE
+Post Graduate Diploma in Financial Management	DEGREE
+Diploma in Hotel and Catering Management	DEGREE
+E.T.T	DEGREE
+Diploma in Library Science	DEGREE
+Diploma in Theology	DEGREE
+Diploma in Software Engineering	DEGREE
+Diploma in Food Technology	DEGREE
+Diploma in Marketing Management	DEGREE
+Diploma in Insurance	DEGREE
+Diploma in Criminology	DEGREE
+Diploma in Hospital Management	DEGREE
+Diploma in French	DEGREE
+Diploma in Office Management	DEGREE
+Diploma in Child Psychology	DEGREE
+Diploma in Diabetology	DEGREE
+Diploma in Spanish	DEGREE
+Diploma in Yoga	DEGREE
+Diploma in Hospital Administration	DEGREE
+Diploma in Fashion Design	DEGREE
+Post Graduate Diploma in Social Work	DEGREE
+Post Graduate Diploma in Counselling Psychology	DEGREE
+Post Graduate Diploma in Nanotechnology	DEGREE
+Diploma in Occupational Therapy	DEGREE
+Post Graduate Diploma in Rural Management	DEGREE
+Diploma in Web Designing	DEGREE
+Diploma in Aviation Management	DEGREE
+Diploma in Computer Technology	DEGREE
+Diploma in Optometry	DEGREE
+Diploma in Human Rights	DEGREE
+Diploma in Mining Engineering	DEGREE
+Diploma in Petroleum Engineering	DEGREE
+Diploma in Physical Education	DEGREE
+Post Graduate Diploma in Construction Management	DEGREE
+Post Graduate Diploma in Health, Safety and Environment	DEGREE
+Diploma in Mechatronics	DEGREE
+Diploma in Astrology	DEGREE
+P.G. Diploma in Gynaecology & Obstetrics	DEGREE
+Post Graduate Diploma in Clinical Research	DEGREE
+Diploma in Ophthalmology	DEGREE
+Post Graduate Diploma in Bioinformatics	DEGREE
+Diploma in Commercial Practice	DEGREE
+Diploma in Export Management	DEGREE
+Post Graduate Diploma in Financial Planning	DEGREE
+Post Graduate Diploma in International Business	DEGREE
+Post Graduate Diploma in Hospital Management	DEGREE
+Advanced Diploma in Information Technology	DEGREE
+Post Graduate Diploma in Environmental Law	DEGREE
+Diploma in Dance	DEGREE
+Post Graduate Diploma in Economics	DEGREE
+Diploma in Textile Technology	DEGREE
+D.N.B.	DEGREE
+Diploma in Counselling Psychology	DEGREE
+Diploma in Export and Import Management	DEGREE
+Post Graduate Diploma in Environmental Management	DEGREE
+Diploma in Materials Management	DEGREE
+Post Graduate Diploma in Sports Management	DEGREE
+Post Graduate Diploma in Intellectual Property Rights	DEGREE
+Diploma in Dairy Technology	DEGREE
+Diploma in Cyber Security	DEGREE
+Diploma in Secretarial Practice	DEGREE
+Diploma in Cosmetology	DEGREE
+Post Graduate Program in Family Managed Business	DEGREE
+Post Graduate Diploma in Event Management	DEGREE
+Post Graduate Diploma in Export-Import & International Finance	DEGREE
+Post Graduate Diploma in Foreign Trade	DEGREE
+Post graduate Diploma in International Marketing	DEGREE
+Post Graduate Diploma in Education Management	DEGREE
+Post Graduate Diploma in Clinical Data Management	DEGREE
+International Diploma in Hotel Management	DEGREE
+Post Graduate Diploma in Disaster Management	DEGREE
+Post Graduate Diploma in Hospital and Health Management	DEGREE
+Post Graduate Diploma in Operations Management	DEGREE
+Post Graduate Diploma in Personnel Management	DEGREE
+Post Graduate Diploma in Business Finance	DEGREE
+Post Graduate Diploma in Marketing Management	DEGREE
+Post Graduate Diploma in Materials and Logistics Management	DEGREE
+Post Graduate Diploma in Management & Business Administration	DEGREE
+Diploma in Mass Media	DEGREE
+Diploma in Advertising and Public Relations	DEGREE
+Diploma in Film Editing	DEGREE
+Diploma in Business Journalism & Corporate Communication	DEGREE
+Diploma in Mass Communication	DEGREE
+Diploma in Video Editing	DEGREE
+Post Graduate Programme in Business Management	DEGREE
+Post Graduate Diploma in Pharmaceutical Management	DEGREE
+Post Graduate Diploma in Retail Management	DEGREE
+Post Graduate Diploma in Rural Development	DEGREE
+Post Graduate Diploma in Rural Development and Management	DEGREE
+Post Graduate Diploma in School Leadership and Management	DEGREE
+Post Graduate Diploma in Teaching and Research in Management	DEGREE
+Post Graduate Diploma in Advertising	DEGREE
+Executive Post Graduate Diploma in International Business	DEGREE
+Diploma in Aquaculture	DEGREE
+Advanced Diploma in International Business	DEGREE
+Diploma in Agribusiness Management	DEGREE
+Diploma in Business Management	DEGREE
+Diploma in Commodities Market	DEGREE
+Diploma in Computer Management	DEGREE
+P.G. Diploma in Analytical Chemistry	DEGREE
+Post Graduate Diploma in Microbiology	DEGREE
+Post Graduate Diploma in Geo Informatics	DEGREE
+Diploma in Environmental Law	DEGREE
+Diploma in Home Science	DEGREE
+Diploma in Nautical Science	DEGREE
+Post Graduate Diploma in Dietetics	DEGREE
+Diploma in Investment Management	DEGREE
+Diploma in Modern Office Management	DEGREE
+Diploma in Sales and Marketing Management	DEGREE
+Diploma in Insurance and Risk Management	DEGREE
+Diploma in Industrial Relations and Personnel Management	DEGREE
+Diploma in Food Production	DEGREE
+Diploma in Foreign Trade Management	DEGREE
+Diploma in Hotel Management and Catering Technology	DEGREE
+Faculty Development Programme	DEGREE
+Post Graduate Diploma in Embedded Systems	DEGREE
+Diploma in Labour Laws and Labour Welfare	DEGREE
+Diploma in Medical Jurisprudence	DEGREE
+Diploma in Taxation Laws & Practice	DEGREE
+Post Graduate Diploma in Business Law	DEGREE
+Post Graduate Diploma in Corporate Law	DEGREE
+Post Graduate Diploma in Cyber Law	DEGREE
+Post Graduate Diploma in IPR and Patent Law	DEGREE
+Diploma in Cyber Law	DEGREE
+Diploma in Business Law	DEGREE
+Post Graduate Diploma in Computer Commercial Application	DEGREE
+Post Graduate Diploma in Computer Programming	DEGREE
+Post Graduate Diploma in e-Governance	DEGREE
+Post Graduate Diploma in Web Designing	DEGREE
+Post Graduate Diploma in Cyber Security	DEGREE
+Post Graduate Diploma in Medical Law and Ethics	DEGREE
+Post Graduate Diploma in Taxation Law	DEGREE
+Post Graduate Diploma in Taxation Practice	DEGREE
+Diploma in Textile Design	DEGREE
+Post Graduate Diploma in Fashion Designing	DEGREE
+Diploma in Aviation Hospitality and Travel Management	DEGREE
+Advanced Diploma in 3D Animation	DEGREE
+Advanced Diploma in Animation	DEGREE
+Diploma in 3D Animation	DEGREE
+Diploma in Apparel Merchandising	DEGREE
+Advanced Diploma in Interior Design	DEGREE
+Post Graduate Diploma in Intellectual Property Rights Law	DEGREE
+Diploma in Beauty Culture	DEGREE
+Diploma in Mobile Repairing	DEGREE
+Diploma in Videography	DEGREE
+Diploma in Animation Film Making	DEGREE
+Honours Diploma in Computer Application	DEGREE
+Post Graduate Diploma in Journalism	DEGREE
+Post Graduate Diploma in Company Secretaryship	DEGREE
+Post Graduate Diploma in Investment & Financial Analysis	DEGREE
+Post Graduate Diploma in Professional Accounting	DEGREE
+Diploma in Footwear Technology	DEGREE
+Diploma in Gemology	DEGREE
+Diploma in Intellectual Property Law	DEGREE
+Post Graduate Diploma in Banking and Financial Management	DEGREE
+Post Graduate Diploma in Journalism and Mass Communication	DEGREE
+Post Graduate Diploma in Mass Communication	DEGREE
+Diploma in Banking and Insurance	DEGREE
+Advanced Diploma in Taxation	DEGREE
+Diploma in Banking Management	DEGREE
+Diploma in e-Commerce	DEGREE
+Diploma in Tally Software	DEGREE
+Diploma in Visual Merchandising	DEGREE
+Advance Diploma in Computer Hardware and Networking	DEGREE
+Advanced Diploma in Computer Application	DEGREE
+Advanced Post Graduate Diploma in Computer Application	DEGREE
+Diploma in Computer Hardware and Networking	DEGREE
+Diploma in Computer Accounting	DEGREE
+Post Graduate Diploma in Food Safety and Quality Management	DEGREE
+Diploma in Watershed Management	DEGREE
+Diploma in Food Processing	DEGREE
+Post Graduate Diploma in Insurance Management	DEGREE
+Post Graduate Diploma in Management	DEGREE
+Post Graduate Diploma in Photography	DEGREE
+PGDP	DEGREE
+Diploma in Agriculture	DEGREE
+Diploma in Animal Husbandry	DEGREE
+Post Graduate Diploma in Higher Education	DEGREE
+Post Graduate Diploma in Public Administration	DEGREE
+Post Graduate Diploma in Public Relations	DEGREE
+Post Graduate Diploma in Rehabilitation Psychology	DEGREE
+Post Graduate Diploma in Special Education	DEGREE
+Post Graduate Diploma in Travel & Tourism Management	DEGREE
+Post Graduate Diploma in Yoga	DEGREE
+Post Graduate Diploma in Library Automation and Networking	DEGREE
+Post Graduate Diploma in Instructional Design	DEGREE
+Post Graduate Diploma in English	DEGREE
+Post Graduate Diploma in Instrumentation	DEGREE
+P.G. Diploma in Actuarial Science	DEGREE
+Post Graduate Diploma in Archaeology	DEGREE
+Post Graduate Diploma in Clinical Psychology	DEGREE
+Post Graduate Diploma in Distance Education	DEGREE
+Post Graduate Diploma in Educational Technology	DEGREE
+Post Graduate Diploma in Environment and Sustainable Development	DEGREE
+Diploma in Automobile Engineering	DEGREE
+Diploma in Biomedical Engineering	DEGREE
+Diploma in Electrical & Electronics Engineering	DEGREE
+Diploma in Environmental Engineering	DEGREE
+Diploma in Fashion Technology	DEGREE
+Diploma in Fire Engineering	DEGREE
+Diploma in Fire Safety Engineering	DEGREE
+Diploma in Digital Electronics	DEGREE
+Diploma in Architecture Engineering	DEGREE
+Diploma in Automation	DEGREE
+Diploma in Cement Technology	DEGREE
+Diploma in Ceramic Technology	DEGREE
+Diploma in Computer Science and Technology	DEGREE
+Diploma in Computer Science and Engineering	DEGREE
+H.D.C.M	DEGREE
+Advanced Diploma in French	DEGREE
+Diploma in Acting	DEGREE
+Diploma in Art and Craft	DEGREE
+Diploma in Commercial Art	DEGREE
+Diploma in Graphic Design	DEGREE
+Diploma in Graphic and Web Designing	DEGREE
+Diploma in Counseling	DEGREE
+Diploma in Creative Writing in English	DEGREE
+Diploma in Creative Writing in Hindi	DEGREE
+Diploma in Drawing and Painting	DEGREE
+Diploma in Education	DEGREE
+Diploma in Fire and Safety Management	DEGREE
+Diploma in Hindi	DEGREE
+Diploma in HIV and Family Education	DEGREE
+Diploma in Jewellery Design	DEGREE
+Diploma in Library and Information Science	DEGREE
+Diploma in Linguistics	DEGREE
+Diploma in Music	DEGREE
+Diploma in Numerology	DEGREE
+Diploma in Nursery Teacher Training	DEGREE
+Diploma in Philosophy	DEGREE
+Diploma in Police Administration	DEGREE
+Diploma in Rural Development	DEGREE
+Diploma in Sanskrit	DEGREE
+Diploma in Tamil	DEGREE
+Diploma in Tourism Studies	DEGREE
+Diploma in Urdu	DEGREE
+Diploma in Foundry Technology	DEGREE
+Diploma in Industrial Electronics	DEGREE
+Diploma in Instrumentation Engineering	DEGREE
+Diploma in Metallurgical Engineering	DEGREE
+Diploma in Medical Electronics	DEGREE
+Diploma in Modern Office Practice	DEGREE
+Diploma in Petrochemical Engineering	DEGREE
+Diploma in Plastics Technology	DEGREE
+Diploma in Production Engineering	DEGREE
+Diploma in Robotics	DEGREE
+Diploma in Rubber Technology	DEGREE
+Diploma in Telecommunication Engineering	DEGREE
+Diploma in Sugar Technology	DEGREE
+Diploma in Welding Technology	DEGREE
+Post Graduate Diploma in Thermal Power Plant Engineering	DEGREE
+Post Graduate Diploma in Industrial Safety	DEGREE
+Diploma in Anaesthesiology	DEGREE
+Diploma in Medical Laboratory Technology	DEGREE
+Diploma in Vetrinary Pharmacy	DEGREE
+Diploma in Dental Mechanics	DEGREE
+Diploma in Dietetics and Nutrition	DEGREE
+Diploma in Dietetics and Applied Nutrition	DEGREE
+Diploma in E.N.T.	DEGREE
+Diploma in Forensic Medicine	DEGREE
+Diploma in Health Administration	DEGREE
+Diploma in Health Assistant	DEGREE
+Diploma in Hearing Language and Speech	DEGREE
+Diploma in Herbal Medicine	DEGREE
+Diploma in Industrial Health	DEGREE
+Diploma in Industrial Hygiene	DEGREE
+Diploma in Medical Imaging Technology	DEGREE
+Diploma in Medical Record Technology	DEGREE
+Diploma in Nursing Administration	DEGREE
+Diploma in Operation Theatre Techniques	DEGREE
+Diploma in Ophthalmic Assistant	DEGREE
+Diploma in Panchkarma	DEGREE
+Post Graduate Diploma in Paediatrics	DEGREE
+P.G. Diploma in Orthopaedics	DEGREE
+Diploma in Pharmaceutical Management	DEGREE
+Diploma in Psychiatric Nursing	DEGREE
+Diploma in Physiotherapy	DEGREE
+Diploma in Psychological Medicine	DEGREE
+Diploma in Radiological Technology	DEGREE
+Diploma in Veterinary Pharmacy	DEGREE
+Diploma in X-Ray Technology	DEGREE
+Diploma in General Nursing and Midwifery	DEGREE
+Post Graduate Diploma in Clinical Pathology	DEGREE
+Post Graduate Diploma in Pharmacovigilance	DEGREE
+Post Graduate Diploma in Medico Legal Systems	DEGREE
+Post Graduate Diploma in Guidance & Counselling	DEGREE
+Post Graduate Diploma in NGO Management	DEGREE
+Post Graduate Diploma in Tourism	DEGREE
+Post Graduate Diploma in Renewable Energy	DEGREE
+PG Diploma in VLSI Design	DEGREE
+Post Graduate Diploma in Geriatric Medicine	DEGREE
+Post Graduate Diploma in Acupuncture	DEGREE
+Advanced Diploma in Bioinformatics	DEGREE
+Advanced Diploma in Software Development	DEGREE
+Diploma in Food and Nutrition	DEGREE
+Diploma in Advanced Computing	DEGREE
+Advanced Diploma	DEGREE
+Advanced Post Graduate Diploma	DEGREE
+Arts Teacher Diploma	DEGREE
+Bachelor of Arts	DEGREE
+Bachelor of Education	DEGREE
+Diploma in Banking Administration	DEGREE
+Community Based Rehabilitation	DEGREE
+Diploma in Early Childhood Care & Education	DEGREE
+Diploma in Electrical Engineering	DEGREE
+Diploma in Embedded Electronics Design	DEGREE
+Diploma in Electronics & instrumentation Engineering	DEGREE
+Diploma in Education	DEGREE
+Diploma in Film Technology	DEGREE
+Dynamic Graphics Project	DEGREE
+Diploma in Hearing Aid Repair and Ear Mould Technology	DEGREE
+Department of Human Services-Teleconference Mode	DEGREE
+Diploma in Hearing Language and Speech	DEGREE
+Diploma in Hearing, Language and Speech	DEGREE
+Indian Sign lang Interpreting	DEGREE
+Diploma in International Trade	DEGREE
+Diploma in Medical Laboratory Technology	DEGREE
+Diploma in Media Planning and Buying	DEGREE
+Diploma in Primary Education	DEGREE
+Diploma in Physical Education	DEGREE
+Diploma in Prosthetics and Orthotics	DEGREE
+Diploma in Pharmacy	DEGREE
+Drug Rehabilitation Therapy	DEGREE
+Diploma in Special Education	DEGREE
+Diploma in Technical Education	DEGREE
+Diploma in Teacher Education	DEGREE
+Diploma in Hearing Handicapped	DEGREE
+Diploma in Vocational Rehabilitation	DEGREE
+Diploma in Vocational Training and Employment	DEGREE
+Diploma in Yoga Education	DEGREE
+Diploma Courses	DEGREE
+Diploma in Construction Safety and Health	DEGREE
+Diploma in Fire Safety Management	DEGREE
+Diploma in Metallurgy	DEGREE
+Diploma in Ministry of Manpower	DEGREE
+Diploma in SQC and OR	DEGREE
+Diploma in Special Education	DEGREE
+Higher Diploma in Footwear Technology	DEGREE
+International Diploma in Hotel Management	DEGREE
+Junior Diploma	DEGREE
+Master of Arts	DEGREE
+Bachelor of Medicine and Bachelor of Surgery	DEGREE
+Master of Education	DEGREE
+Master of Philosophy	DEGREE
+Post Graduate Diploma in Business Management	DEGREE
+Post Graduate Diploma in Computer Application	DEGREE
+Post graduate diploma in management	DEGREE
+Post Graduate Diploma	DEGREE
+POST GRADUATE DIPLOMA IN COMPUTER AIDED MANAGEMENT	DEGREE
+POST GRADUATE DIPLOMA IN HUMAN RESOURCE MANAGEMENT	DEGREE
+Post graduate diploma in management	DEGREE
+Senior Diploma	DEGREE
+Under Graduate Diploma in Physical Education	DEGREE

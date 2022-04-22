@@ -1,0 +1,444 @@
+Sales & Marketing	SKILLSET
+Marketing	SKILLSET
+Sales, Marketing	SKILLSET
+Communication Skills	SKILLSET
+JAVA	SKILLSSET
+Java	SKILLSET
+java	SKILLSET
+HTML	SKILLSET
+HTML5	SKILLSET
+JSON	SKILLSET
+CSS	SKILLSET
+CSS3	SKILLSET
+VUEJS	SKILLSET
+VUE	SKILLSET
+JAVASCRIPT	SKILLSET
+JS	SKILLSET
+Javascript	SKILLSET
+JavaScript	SKILLSET
+jquery	SKILLSET
+Web Development	SKILLSET
+Business Development	SKILLSET
+Account Management	SKILLSET
+Accounts Management	SKILLSET
+Team Management	SKILLSET
+Core Draw	SKILLSET
+Sharepoint	SKILLSET
+PHP	SKILLSET
+PHP7	SKILLSET
+Photoshop	SKILLSET
+CRM	SKILLSET
+MS Office	SKILLSET
+MS Office Suite	SKILLSET
+C#	SKILLSET
+.Net	SKILLSET
+Python	SKILLSET
+Project Management	SKILLSET
+Visual Studio	SKILLSET
+Angular	SKILLSET
+AngularJS	SKILLSET
+React	SKILLSET
+ReactJS	SKILLSET
+Bootstrap	SKILLSET
+MySQL	SKILLSET
+NodeJS	SKILLSET
+Node	SKILLSET
+AJAX	SKILLSET
+AWS	SKILLSET
+Google Cloud	SKILLSET
+Azure	SKILLSET
+SQL	SKILLSET
+Postgres	SKILLSET
+Postgresql	SKILLSET
+SQL Server	SKILLSET
+ASP.NET	SKILLSET
+ADO.NET	SKILLSET
+UI/UX Design	SKILLSET
+Web Design	SKILLSET
+Android Development	SKILLSET
+App Development	SKILLSET
+Visual Basic	SKILLSET
+C++	SKILLSET
+Illustrator	SKILLSET
+Lightroom	SKILLSET
+Eddy	SKILLSET
+BFlux	SKILLSET
+InDesign	SKILLSET
+Quark Xpress	SKILLSET
+Light Room	SKILLSET
+Trade Marketing	SKILLSET
+Budgeting & Forecasting	SKILLSET
+Strategic Business Planning	SKILLSET
+Brand Management	SKILLSET
+End to End Recruitment	SKILLSET
+Compensation Management & Statutory Compliances	SKILLSET
+Performance Management System (PMS)	SKILLSET
+Grievance Handling	SKILLSET	
+HR Policies and Procedures	SKILLSET
+Benefits/Payroll Administration	SKILLSET		
+HR Administration	SKILLSET
+SEO	SKILLSET
+SEM	SKILLSET
+Search Engine Optimisation	SKILLSET
+Search Engine Marketing	SKILLSET
+SEO/SEM	SKILLSET
+Social Media Marketing	SKILLSET
+Wordpress	SKILLSET
+Google Ads	SKILLSET
+Google Adwords	SKILLSET
+Powerpoint	SKILLSET
+AutoCad	SKILLSET
+CAD	SKILLSET
+AdSense	SKILLSET
+Redux	SKILLSET
+Node.js	SKILLSET
+Springboot	SKILLSET
+Struts	SKILLSET
+Apache	SKILLSET
+Jenkins	SKILLSET
+Selenium	SKILLSET
+Manual Testing	SKILLSET
+Automation Testing	SKILLSET
+Testing Automation	SKILLSET
+RDBMS	SKILLSET
+Video Editing	SKILLSET
+Digital Painting	SKILLSET
+Training and Development	SKILLSET
+Training & Development	SKILLSET
+Quality Assurance	SKILLSET
+Quality Control	SKILLSET
+Vendor Management	SKILLSET
+Campaign Management	SKILLSET
+Digital Marketing	SKILLSET
+Campaign Optimisation	SKILLSET
+Campaign Optimization	SKILLSET
+Campaign Analysis	SKILLSET
+Campaign Execution	SKILLSET
+CorelDraw	SKILLSET
+Employee Screening	SKILLSET
+Employee Engagement	SKILLSET
+Peoplesoft	SKILLSET
+Taleo	SKILLSET
+TYPOGRAPHY	SKILLSET
+PRINT DESIGN	SKILLSET
+DIGITAL DESIGN	SKILLSET
+COLOR THEORY	SKILLSET
+CORPORATE BRANDING	SKILLSET
+SDLC	SKILLSET
+Software Development Life Cycle	SKILLSET
+Black Box Testing	SKILLSET
+Integration Testing	SKILLSET
+Regression Testing	SKILLSET
+GUI Testing	SKILLSET
+Functional Testing	SKILLSET
+Test Case Design	SKILLSET
+J2EE	SKILLSET
+HRM	SKILLSET
+Presentation Skills	SKILLSET
+People Management Skills	SKILLSET
+Relationship Management	SKILLSET
+Reporting	SKILLSET
+Data Management	SKILLSET
+Ad Management	SKILLSET
+Unit Testing	SKILLSET
+Admin & Facilities Managements	SKILLSET
+Building Management System	SKILLSET
+Emergency Response Training	SKILLSET
+Information Security Management System	SKILLSET
+Information Security Management System Training	SKILLSET
+Email Etiquette & MS Outlook Training Program	SKILLSET
+Finance & accounts	SKILLSET
+Financial Accounting	SKILLSET
+Management Accounts	SKILLSET
+Training Program on Finance for Non Finance Managers	SKILLSET
+Appraisal	SKILLSET
+Audit Root Cause Analysis	SKILLSET
+Compensation and Benefits	SKILLSET
+Employee Engagement	SKILLSET
+Employee Induction and On-boarding	SKILLSET
+Employee Relations	SKILLSET
+First Aid Training	SKILLSET
+HR Policies & Procedures	SKILLSET
+HRIS	SKILLSET
+QMS	SKILLSET
+Timesheet & Leave Management	SKILLSET
+Training and Development	SKILLSET
+First Aid	SKILLSET
+POSH	SKILLSET
+Recruitment	SKILLSET
+Business Communication	SKILLSET
+HR Policies	SKILLSET
+Leave Management	SKILLSET
+QMS	SKILLSET
+New Hire Training	SKILLSET
+Employee Life Cycle	SKILLSET
+Performance Management	SKILLSET
+Strategic HRM	SKILLSET
+Business Analysis	SKILLSET
+Cold calling	SKILLSET
+Data Validation	SKILLSET
+Email Marketing Campaigns	SKILLSET
+Lead Generation & management	SKILLSET
+Market research	SKILLSET
+Sales processes	SKILLSET
+Block Chain	SKILLSET
+Business Development	SKILLSET
+CRM Training	SKILLSET
+IT Inside sales	SKILLSET
+Sales	SKILLSET
+Active Directory	SKILLSET
+Cisco Switch and Router Configuration	SKILLSET
+ISA Firewall	SKILLSET
+and 2003 Server	SKILLSET
+AVAYA Vocalcome and NICE Application	SKILLSET
+Azure	SKILLSET
+Communication Skills	SKILLSET
+Customer Service Orientation	SKILLSET
+Email Etiquette	SKILLSET
+Information Security Management System Awareness Training	SKILLSET
+MS-070-640-Windows Server 2008 ADR	SKILLSET
+Dot Net	SKILLSET
+DotNet	SKILLSET
+Windows NT	SKILLSET
+Windows NT 2000	SKILLSET
+Written Communication	SKILLSET
+Agile Metrics Management	SKILLSET
+Lean Six Sigma Black Belt Certification	SKILLSET
+Manual testing	SKILLSET
+SAP B1	SKILLSET
+Microsoft Dynamics CRM	SKILLSET
+On Boarding	SKILLSET
+Statutory Compliance	SKILLSET
+HR Operations	SKILLSET
+Selenium	SKILLSET
+Appium	SKILLSET
+BDD	SKILLSET
+TDD	SKILLSET
+Build Tools	SKILLSET
+Test Management Tools	SKILLSET
+QTP	SKILLSET
+Model Based Testing	SKILLSET
+Functional Testing	SKILLSET
+Integration Testing	SKILLSET
+Perfomance Testing	SKILLSET
+Security Testing	SKILLSET
+Regression Testing	SKILLSET
+API Testing	SKILLSET
+Maven	SKILLSET
+Ant	SKILLSET
+Graphql	SKILLSET
+Microsoft Build (VSTS)	SKILLSET
+fleXive	SKILLSET
+OpenXava	SKILLSET
+Apache Nutch	SKILLSET
+AppFuse	SKILLSET
+Drools	SKILLSET
+jBPM	SKILLSET
+Activiti	SKILLSET
+Akka	SKILLSET
+Apache Accumulo	SKILLSET
+Apache ActiveMQ	SKILLSET
+Apache Avalon	SKILLSET
+Apache Avro	SKILLSET
+Apache Axis	SKILLSET
+Apache Camel	SKILLSET
+Apache Click	SKILLSET
+Apache Cocoon	SKILLSET
+Apache Commons	SKILLSET
+Apache CXF	SKILLSET
+Apache Empire DB	SKILLSET
+Apache Felix	SKILLSET
+Apache Flume	SKILLSET
+Apache Geronimo	SKILLSET
+Apache Giraph	SKILLSET
+Apache Hadoop	SKILLSET
+Apache HBase	SKILLSET
+Apache Hive	SKILLSET
+Apache JackRabbit	SKILLSET
+Apache Jena	SKILLSET
+Apache Kafka	SKILLSET
+Apache Log4j	SKILLSET
+Apache Lucene	SKILLSET
+Apache Mahout	SKILLSET
+Apache Mesos	SKILLSET
+Apache Mina	SKILLSET
+Apache OODT	SKILLSET
+Apache Oozie	SKILLSET
+Apache OpenNLP	SKILLSET
+Apache PDFBox	SKILLSET
+Apache Pig	SKILLSET
+Apache Pivot	SKILLSET
+Apache POI	SKILLSET
+Apache Qpid	SKILLSET
+Apache River (Jini)	SKILLSET
+Apache Samza	SKILLSET
+Apache Shiro	SKILLSET
+Apache Sling	SKILLSET
+Apache Solr	SKILLSET
+Apache Spark	SKILLSET
+Apache Storm	SKILLSET
+Apache Struts	SKILLSET
+Apache Tapestry	SKILLSET
+Apache Tika	SKILLSET
+Apache Tomcat	SKILLSET
+Apache Uima	SKILLSET
+Apache Velocity	SKILLSET
+Apache VXQuery	SKILLSET
+Apache Wicket	SKILLSET
+Apache Wink	SKILLSET
+Apache Xerces	SKILLSET
+Apache Zookeeper	SKILLSET
+Barracuda	SKILLSET
+Birt	SKILLSET
+BioJava	SKILLSET
+BlueCove	SKILLSET
+Bouncy Castle Cryptographic	SKILLSET
+Cascading	SKILLSET
+CodeName One	SKILLSET
+Deeplearning4j	SKILLSET
+DirectWebRemoting	SKILLSET
+EclipseLink	SKILLSET
+EHCache	SKILLSET
+EJML	SKILLSET
+FreeMarker Template	SKILLSET
+GeoApi	SKILLSET
+GeoTools	SKILLSET
+GlassFish	SKILLSET
+Google Gson	SKILLSET
+Google Guava	SKILLSET
+Google Guice	SKILLSET
+Google Web Toolkit (GWT)	SKILLSET
+Hibernate	SKILLSET
+HSQLDB	SKILLSET
+iBatis	SKILLSET
+Infinispan	SKILLSET
+IText	SKILLSET
+Jackson	SKILLSET
+Java Collections Framework	SKILLSET
+Java Media Framework	SKILLSET
+JavAssist	SKILLSET
+JaxP	SKILLSET
+JBoss Seam	SKILLSET
+JDom	SKILLSET
+Jersey	SKILLSET
+Jetty	SKILLSET
+JFreeChart	SKILLSET
+JHipster	SKILLSET
+JMonkeyEngine	SKILLSET
+JProfiler	SKILLSET
+JRockit	SKILLSET
+JSF	SKILLSET
+JSoup	SKILLSET
+JUnit	SKILLSET
+LiquiBase	SKILLSET
+LWJGL	SKILLSET
+Mockito	SKILLSET
+MyBatis	SKILLSET
+ND4J	SKILLSET
+Netty	SKILLSET
+Neuroph	SKILLSET
+OpenCV	SKILLSET
+Oracle WebLogic	SKILLSET
+OrientDB	SKILLSET
+ORMLite	SKILLSET
+Play	SKILLSET
+PrimeFaces	SKILLSET
+Quartz	SKILLSET
+RabbitMQ	SKILLSET
+Sax	SKILLSET
+Selenium	SKILLSET
+SLF4J	SKILLSET
+SonarQube	SKILLSET
+Jasper Reports	SKILLSET
+Spock	SKILLSET
+Spring Integration	SKILLSET
+Spring Roo	SKILLSET
+Spring Security	SKILLSET
+TestNG	SKILLSET
+Thymeleaf	SKILLSET
+Vaadin	SKILLSET
+Vertx	SKILLSET
+VRaptor	SKILLSET
+ZKoss	SKILLSET
+Spring Framework	SKILLSET
+Java 2 Platform Enterprise edition	SKILLSET
+Core Java	SKILLSET
+Advance Java	SKILLSET
+Java Persistence System (JPA)	SKILLSET
+Spring Boot	SKILLSET
+Java Database connectivity(JDBC)	SKILLSET
+Java Enterprise Bean	SKILLSET
+JBOSS	SKILLSET
+Java Virtual Ma	SKILLSET
+Java serverside page(JSP)	SKILLSET
+Java Beans	SKILLSET
+Nashron javascript engine	SKILLSET
+Java Messaing Service	SKILLSET
+Servlet	SKILLSET
+Grails	SKILLSET
+Struts	SKILLSET
+Java Threads	SKILLSET
+Java Concurrency	SKILLSET
+Java Lambda	SKILLSET
+Java Modile Edition (JME)	SKILLSET
+Java Streams	SKILLSET
+Java Development Kit(JDK)	SKILLSET
+Java Virtual Machine(JRE)	SKILLSET
+Resin	SKILLSET
+Microsoft Visual Studio	SKILLSET
+Visual Basic.NET	SKILLSET
+ADO.NET	SKILLSET
+Microsoft Message Queuing Service	SKILLSET
+DCOM	SKILLSET
+COM+ Services	SKILLSET
+Enterprise Library	SKILLSET
+Smart Client Software Factory	SKILLSET
+Architectural Guidance Software Factory	SKILLSET
+LINQ	SKILLSET
+Hibernate	SKILLSET
+Log4Net	SKILLSET
+NLog	SKILLSET
+NUnit	SKILLSET
+IIS Runtime Parameter Optimizations	SKILLSET
+IIS/ Web Application Performance Benchmarking	SKILLSET
+DHTML	SKILLSET
+XML	SKILLSET
+XSLT	SKILLSET
+Microsoft SharePoint Server	SKILLSET
+Microsoft Silverlight	SKILLSET
+.NET Web Forms	SKILLSET
+Microsoft Internet Explorer Compatibility	SKILLSET
+Cross-browser Support	SKILLSET
+Microsoft.NET Framework 3.5	SKILLSET
+Microsoft.NET Framework 3.0	SKILLSET
+Microsoft.NET Framework 2.0	SKILLSET
+Microsoft.NET Framework 1.1	SKILLSET
+.NET enterprise servers	SKILLSET
+.NET	SKILLSET
+Silverlight	SKILLSET
+Visual Basic.NET	SKILLSET
+C#	SKILLSET
+.NET compact framework	SKILLSET
+Web forms	SKILLSET
+web server controls	SKILLSET
+Web services	SKILLSET
+SOAP	SKILLSET
+WSE	SKILLSET
+SOA	SKILLSET
+UDDI	SKILLSET
+Win forms	SKILLSET
+COM interoperability	SKILLSET
+SQL server	SKILLSET
+Windows CE.NET	SKILLSET
+Microsoft Visual Studio .NET	SKILLSET
+Microsoft Visual Studio 2005	SKILLSET
+Microsoft Visual C++	SKILLSET
+Microsoft Visual Basic	SKILLSET
+Borland Delphi with .NET	SKILLSET
+ERP	SKILLSET
+Tally	SKILLSET
+Mongo	SKILLSET
+MongoDB	SKILLSET
+Mongo DB	SKILLSET
+CodeIgniter	SKILLSET
+Zend	SKILLSET

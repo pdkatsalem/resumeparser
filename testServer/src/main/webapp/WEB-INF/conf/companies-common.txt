@@ -1,0 +1,3017 @@
+ICBC	COMPANY_GIVEN
+JPMorgan Chase	COMPANY_GIVEN
+China Construction Bank	COMPANY_GIVEN
+Agricultural Bank of China	COMPANY_GIVEN
+Bank of America	COMPANY_GIVEN
+Apple	COMPANY_GIVEN
+Ping An Insurance Group	COMPANY_GIVEN
+Bank of China	COMPANY_GIVEN
+Royal Dutch Shell	COMPANY_GIVEN
+Wells Fargo	COMPANY_GIVEN
+ExxonMobil	COMPANY_GIVEN
+AT&T	COMPANY_GIVEN
+Samsung Electronics	COMPANY_GIVEN
+Citigroup	COMPANY_GIVEN
+Toyota Motor	COMPANY_GIVEN
+Microsoft	COMPANY_GIVEN
+Alphabet	COMPANY_GIVEN
+Volkswagen Group	COMPANY_GIVEN
+Chevron	COMPANY_GIVEN
+Verizon Communications	COMPANY_GIVEN
+HSBC Holdings	COMPANY_GIVEN
+PetroChina	COMPANY_GIVEN
+Allianz	COMPANY_GIVEN
+BP	COMPANY_GIVEN
+Total	COMPANY_GIVEN
+Berkshire Hathaway	COMPANY_GIVEN
+China Mobile	COMPANY_GIVEN
+Amazon	COMPANY_GIVEN
+Walmart	COMPANY_GIVEN
+Santander	COMPANY_GIVEN
+China Merchants Bank	COMPANY_GIVEN
+UnitedHealth Group	COMPANY_GIVEN
+Comcast	COMPANY_GIVEN
+BNP Paribas	COMPANY_GIVEN
+Sinopec	COMPANY_GIVEN
+Softbank	COMPANY_GIVEN
+Daimler	COMPANY_GIVEN
+Johnson & Johnson	COMPANY_GIVEN
+Bank of Communications	COMPANY_GIVEN
+Gazprom	COMPANY_GIVEN
+RBC	COMPANY_GIVEN
+Nestlé	COMPANY_GIVEN
+Mitsubishi UFJ Financial	COMPANY_GIVEN
+Intel	COMPANY_GIVEN
+Goldman Sachs Group	COMPANY_GIVEN
+TD Bank Group	COMPANY_GIVEN
+Sberbank	COMPANY_GIVEN
+Morgan Stanley	COMPANY_GIVEN
+Boeing	COMPANY_GIVEN
+Petrobras	COMPANY_GIVEN
+Nippon Telegraph & Tel	COMPANY_GIVEN
+Rosneft	COMPANY_GIVEN
+Procter & Gamble	COMPANY_GIVEN
+Pfizer	COMPANY_GIVEN
+Industrial Bank	COMPANY_GIVEN
+General Motors	COMPANY_GIVEN
+BMW Group	COMPANY_GIVEN
+Itaú Unibanco Holding	COMPANY_GIVEN
+Alibaba	COMPANY_GIVEN
+IBM	COMPANY_GIVEN
+Novartis	COMPANY_GIVEN
+Postal Savings Bank Of China (PSBC)	COMPANY_GIVEN
+Facebook	COMPANY_GIVEN
+Siemens	COMPANY_GIVEN
+Shanghai Pudong Development	COMPANY_GIVEN
+Japan Post Holdings	COMPANY_GIVEN
+Sumitomo Mitsui Financial	COMPANY_GIVEN
+Banco Bradesco	COMPANY_GIVEN
+Anheuser-Busch InBev	COMPANY_GIVEN
+Walt Disney	COMPANY_GIVEN
+Reliance Industries	COMPANY_GIVEN
+CITIC	COMPANY_GIVEN
+Sony	COMPANY_GIVEN
+Cisco Systems	COMPANY_GIVEN
+Tencent Holdings	COMPANY_GIVEN
+Honda Motor	COMPANY_GIVEN
+Enel	COMPANY_GIVEN
+United Technologies	COMPANY_GIVEN
+Commonwealth Bank	COMPANY_GIVEN
+China State Construction Engineering	COMPANY_GIVEN
+DowDuPont	COMPANY_GIVEN
+Equinor	COMPANY_GIVEN
+American Express	COMPANY_GIVEN
+MetLife	COMPANY_GIVEN
+AXA Group	COMPANY_GIVEN
+PepsiCo	COMPANY_GIVEN
+Bank of Nova Scotia	COMPANY_GIVEN
+Roche Holding	COMPANY_GIVEN
+ING Group	COMPANY_GIVEN
+Lloyds Banking Group	COMPANY_GIVEN
+Eni	COMPANY_GIVEN
+Oracle	COMPANY_GIVEN
+China Citic Bank	COMPANY_GIVEN
+China Evergrande Group	COMPANY_GIVEN
+UBS	COMPANY_GIVEN
+AIRBUS	COMPANY_GIVEN
+LukOil	COMPANY_GIVEN
+Prudential Financial	COMPANY_GIVEN
+BASF	COMPANY_GIVEN
+SAIC Motor	COMPANY_GIVEN
+Westpac Banking Group	COMPANY_GIVEN
+British American Tobacco	COMPANY_GIVEN
+US Bancorp	COMPANY_GIVEN
+Credit Agricole	COMPANY_GIVEN
+China Life Insurance	COMPANY_GIVEN
+Unilever	COMPANY_GIVEN
+Glencore International	COMPANY_GIVEN
+Mitsubishi	COMPANY_GIVEN
+BHP Group	COMPANY_GIVEN
+Ford Motor	COMPANY_GIVEN
+Rio Tinto	COMPANY_GIVEN
+Prudential	COMPANY_GIVEN
+AIA Group	COMPANY_GIVEN
+China Minsheng Banking	COMPANY_GIVEN
+Sanofi	COMPANY_GIVEN
+Deutsche Telekom	COMPANY_GIVEN
+Zurich Insurance Group	COMPANY_GIVEN
+Brookfield Asset Management	COMPANY_GIVEN
+Merck & Co.	COMPANY_GIVEN
+ANZ	COMPANY_GIVEN
+Caterpillar	COMPANY_GIVEN
+Saudi Basic Industries	COMPANY_GIVEN
+Hon Hai Precision	COMPANY_GIVEN
+China Vanke	COMPANY_GIVEN
+Mizuho Financial	COMPANY_GIVEN
+CNOOC	COMPANY_GIVEN
+Home Depot	COMPANY_GIVEN
+Taiwan Semiconductor	COMPANY_GIVEN
+Country Garden Holdings	COMPANY_GIVEN
+Capital One Financial	COMPANY_GIVEN
+Intesa Sanpaolo	COMPANY_GIVEN
+Nissan Motor	COMPANY_GIVEN
+Coca-Cola	COMPANY_GIVEN
+Bank of Montreal	COMPANY_GIVEN
+BBVA-Banco Bilbao Vizcaya	COMPANY_GIVEN
+Walgreens Boots Alliance	COMPANY_GIVEN
+Chubb	COMPANY_GIVEN
+NAB	COMPANY_GIVEN
+National Australia Bank	COMPANY_GIVEN
+Vale	COMPANY_GIVEN
+China Pacific Insurance	COMPANY_GIVEN
+Anthem	COMPANY_GIVEN
+Telefónica	COMPANY_GIVEN
+Christian Dior	COMPANY_GIVEN
+Generali Group	COMPANY_GIVEN
+Iberdrola	COMPANY_GIVEN
+PNC Financial Services	COMPANY_GIVEN
+GlaxoSmithKline	COMPANY_GIVEN
+Munich Re	COMPANY_GIVEN
+Cigna	COMPANY_GIVEN
+Medtronic	COMPANY_GIVEN
+China Everbright Bank	COMPANY_GIVEN
+China Shenhua Energy	COMPANY_GIVEN
+Honeywell International	COMPANY_GIVEN
+Banco do Brasil	COMPANY_GIVEN
+People's Insurance	COMPANY_GIVEN
+UniCredit	COMPANY_GIVEN
+CK Hutchison	COMPANY_GIVEN
+Société Générale	COMPANY_GIVEN
+ConocoPhillips	COMPANY_GIVEN
+United Parcel Service	COMPANY_GIVEN
+VINCI	COMPANY_GIVEN
+Visa	COMPANY_GIVEN
+Tokio Marine Holdings	COMPANY_GIVEN
+Bayer	COMPANY_GIVEN
+PTT PCL	COMPANY_GIVEN
+Manulife	COMPANY_GIVEN
+AbbVie	COMPANY_GIVEN
+China Telecom	COMPANY_GIVEN
+Phillips 66	COMPANY_GIVEN
+KDDI	COMPANY_GIVEN
+Fiat Chrysler Automobiles	COMPANY_GIVEN
+Marathon Petroleum	COMPANY_GIVEN
+Costco Wholesale	COMPANY_GIVEN
+Enbridge	COMPANY_GIVEN
+Amgen	COMPANY_GIVEN
+SAP	COMPANY_GIVEN
+Bank of New York Mellon	COMPANY_GIVEN
+Broadcom	COMPANY_GIVEN
+SK Hynix	COMPANY_GIVEN
+China Communications Construction	COMPANY_GIVEN
+Lockheed Martin	COMPANY_GIVEN
+Itochu	COMPANY_GIVEN
+Duke Energy	COMPANY_GIVEN
+FedEx	COMPANY_GIVEN
+Royal Bank of Scotland	COMPANY_GIVEN
+Orange	COMPANY_GIVEN
+Barclays	COMPANY_GIVEN
+Union Pacific	COMPANY_GIVEN
+América Móvil	COMPANY_GIVEN
+Canadian Imperial Bank	COMPANY_GIVEN
+Credit Suisse Group	COMPANY_GIVEN
+Synchrony Financial	COMPANY_GIVEN
+NextEra Energy	COMPANY_GIVEN
+Deere & Company	COMPANY_GIVEN
+ArcelorMittal	COMPANY_GIVEN
+Mitsui	COMPANY_GIVEN
+Abbott Laboratories	COMPANY_GIVEN
+China Railway Group	COMPANY_GIVEN
+Gilead Sciences	COMPANY_GIVEN
+China Railway Construction	COMPANY_GIVEN
+L'Oréal	COMPANY_GIVEN
+Exelon	COMPANY_GIVEN
+Delta Air Lines	COMPANY_GIVEN
+Renault	COMPANY_GIVEN
+Charter Communications	COMPANY_GIVEN
+Micron Technology	COMPANY_GIVEN
+Qatar National Bank	COMPANY_GIVEN
+Deutsche Post	COMPANY_GIVEN
+HDFC Bank	COMPANY_GIVEN
+Altria Group	COMPANY_GIVEN
+Valero Energy	COMPANY_GIVEN
+Philip Morris International	COMPANY_GIVEN
+DBS	COMPANY_GIVEN
+BlackRock	COMPANY_GIVEN
+Southern Company	COMPANY_GIVEN
+3M	COMPANY_GIVEN
+Schlumberger	COMPANY_GIVEN
+Peugeot	COMPANY_GIVEN
+Linde	COMPANY_GIVEN
+Oil & Natural Gas	COMPANY_GIVEN
+Dai-ichi Life Insurance	COMPANY_GIVEN
+Thermo Fisher Scientific	COMPANY_GIVEN
+Aflac	COMPANY_GIVEN
+Allstate	COMPANY_GIVEN
+Hyundai Motor	COMPANY_GIVEN
+Travelers	COMPANY_GIVEN
+ENGIE	COMPANY_GIVEN
+Mondelez International	COMPANY_GIVEN
+Suncor Energy	COMPANY_GIVEN
+Hitachi	COMPANY_GIVEN
+Nordea Bank	COMPANY_GIVEN
+Aviva	COMPANY_GIVEN
+Target	COMPANY_GIVEN
+Lowe's	COMPANY_GIVEN
+General Dynamics	COMPANY_GIVEN
+Repsol	COMPANY_GIVEN
+AstraZeneca	COMPANY_GIVEN
+Eli Lilly	COMPANY_GIVEN
+Continental	COMPANY_GIVEN
+Charles Schwab	COMPANY_GIVEN
+National Grid	COMPANY_GIVEN
+Progressive	COMPANY_GIVEN
+Tesco	COMPANY_GIVEN
+Danone	COMPANY_GIVEN
+Poly Developments & Holdings Group	COMPANY_GIVEN
+Volvo Group	COMPANY_GIVEN
+HCA Healthcare	COMPANY_GIVEN
+Accenture	COMPANY_GIVEN
+Central Japan Railway	COMPANY_GIVEN
+East Japan Railway	COMPANY_GIVEN
+China Unicom	COMPANY_GIVEN
+Schneider Electric	COMPANY_GIVEN
+Midea Group	COMPANY_GIVEN
+KBC Group	COMPANY_GIVEN
+McDonald's	COMPANY_GIVEN
+Denso	COMPANY_GIVEN
+JXTG Holdings	COMPANY_GIVEN
+Fresenius	COMPANY_GIVEN
+BB&T	COMPANY_GIVEN
+Gree Electric Appliances	COMPANY_GIVEN
+Anglo American	COMPANY_GIVEN
+Møller-Maersk	COMPANY_GIVEN
+E.ON	COMPANY_GIVEN
+MS&AD Insurance	COMPANY_GIVEN
+Huaxia Bank	COMPANY_GIVEN
+Bristol-Myers Squibb	COMPANY_GIVEN
+China Resources Land	COMPANY_GIVEN
+Air Liquide	COMPANY_GIVEN
+EDF	COMPANY_GIVEN
+Baoshan Iron & Steel	COMPANY_GIVEN
+Danaher	COMPANY_GIVEN
+Legal & General Group	COMPANY_GIVEN
+EXOR	COMPANY_GIVEN
+Sun Life Financial	COMPANY_GIVEN
+BT Group	COMPANY_GIVEN
+KB Financial Group	COMPANY_GIVEN
+Northrop Grumman	COMPANY_GIVEN
+Seven & I Holdings	COMPANY_GIVEN
+HP	COMPANY_GIVEN
+Nike	COMPANY_GIVEN
+Shinhan Financial Group	COMPANY_GIVEN
+ABB	COMPANY_GIVEN
+Diageo	COMPANY_GIVEN
+Bank of Beijing	COMPANY_GIVEN
+CNP Assurances	COMPANY_GIVEN
+Japan Tobacco	COMPANY_GIVEN
+Oversea-Chinese Banking	COMPANY_GIVEN
+Indian Oil	COMPANY_GIVEN
+Inditex	COMPANY_GIVEN
+Dominion Resources	COMPANY_GIVEN
+Sumitomo	COMPANY_GIVEN
+Occidental Petroleum	COMPANY_GIVEN
+Reckitt Benckiser Group	COMPANY_GIVEN
+CRRC	COMPANY_GIVEN
+Cathay Financial	COMPANY_GIVEN
+Kroger	COMPANY_GIVEN
+Baidu	COMPANY_GIVEN
+Panasonic	COMPANY_GIVEN
+Johnson Controls International	COMPANY_GIVEN
+Ecopetrol	COMPANY_GIVEN
+Canon	COMPANY_GIVEN
+Royal Ahold Delhaize N.V.	COMPANY_GIVEN
+Jardine Matheson	COMPANY_GIVEN
+Raytheon	COMPANY_GIVEN
+Sunac China Holdings	COMPANY_GIVEN
+United Continental Holdings	COMPANY_GIVEN
+United Overseas Bank	COMPANY_GIVEN
+Nippon Steel	COMPANY_GIVEN
+LyondellBasell Industries	COMPANY_GIVEN
+Qualcomm	COMPANY_GIVEN
+Safran	COMPANY_GIVEN
+Carnival	COMPANY_GIVEN
+SK Holdings	COMPANY_GIVEN
+State Street	COMPANY_GIVEN
+Orix	COMPANY_GIVEN
+Celgene	COMPANY_GIVEN
+American Electric	COMPANY_GIVEN
+PayPal	COMPANY_GIVEN
+EOG Resources	COMPANY_GIVEN
+Greenland Holdings Group	COMPANY_GIVEN
+LafargeHolcim	COMPANY_GIVEN
+Henkel	COMPANY_GIVEN
+Posco	COMPANY_GIVEN
+Natixis	COMPANY_GIVEN
+Mitsubishi Electric	COMPANY_GIVEN
+Bridgestone	COMPANY_GIVEN
+Archer Daniels Midland	COMPANY_GIVEN
+Sun Hung Kai Properties	COMPANY_GIVEN
+Toshiba	COMPANY_GIVEN
+Surgutneftegas	COMPANY_GIVEN
+Poste Italiane	COMPANY_GIVEN
+HDFC	COMPANY_GIVEN
+First Abu Dhabi Bank	COMPANY_GIVEN
+Mastercard	COMPANY_GIVEN
+Kinder Morgan	COMPANY_GIVEN
+New China Life Insurance	COMPANY_GIVEN
+DNB	COMPANY_GIVEN
+SunTrust Banks	COMPANY_GIVEN
+Danske Bank	COMPANY_GIVEN
+Discover Financial Services	COMPANY_GIVEN
+BCE	COMPANY_GIVEN
+Canadian Natural Resources	COMPANY_GIVEN
+CaixaBank	COMPANY_GIVEN
+CSX	COMPANY_GIVEN
+Longfor Group Holdings	COMPANY_GIVEN
+TransCanada	COMPANY_GIVEN
+Bank Of Shanghai	COMPANY_GIVEN
+Macquarie Group	COMPANY_GIVEN
+Fubon Financial	COMPANY_GIVEN
+Marubeni	COMPANY_GIVEN
+Starbucks	COMPANY_GIVEN
+Fannie Mae	COMPANY_GIVEN
+Samsung Life Insurance	COMPANY_GIVEN
+Tyson Foods	COMPANY_GIVEN
+Becton Dickinson	COMPANY_GIVEN
+Automatic Data Processing	COMPANY_GIVEN
+Humana	COMPANY_GIVEN
+Standard Chartered	COMPANY_GIVEN
+Imperial Brands	COMPANY_GIVEN
+Richemont	COMPANY_GIVEN
+Eaton	COMPANY_GIVEN
+Kering	COMPANY_GIVEN
+Bank Rakyat Indonesia (BRI)	COMPANY_GIVEN
+Couche Tard	COMPANY_GIVEN
+Saudi Telecom	COMPANY_GIVEN
+Stryker	COMPANY_GIVEN
+Freddie Mac	COMPANY_GIVEN
+Daiwa House Industry	COMPANY_GIVEN
+Heineken	COMPANY_GIVEN
+Booking Holdings	COMPANY_GIVEN
+NN Group	COMPANY_GIVEN
+Ameriprise Financial	COMPANY_GIVEN
+American Airlines Group	COMPANY_GIVEN
+Tata Consultancy Services	COMPANY_GIVEN
+Mitsui Fudosan	COMPANY_GIVEN
+Novo Nordisk	COMPANY_GIVEN
+Takeda Pharmaceutical	COMPANY_GIVEN
+Maybank	COMPANY_GIVEN
+China Merchants Shekou Industrial Zone Holdings	COMPANY_GIVEN
+Norfolk Southern	COMPANY_GIVEN
+Power Construction Corporation of China	COMPANY_GIVEN
+Michelin Group	COMPANY_GIVEN
+EssilorLuxottica	COMPANY_GIVEN
+Etisalat	COMPANY_GIVEN
+CRH	COMPANY_GIVEN
+Lincoln National	COMPANY_GIVEN
+Transneft	COMPANY_GIVEN
+Canadian National Railway	COMPANY_GIVEN
+General Electric	COMPANY_GIVEN
+Hyundai Mobis	COMPANY_GIVEN
+Erste Group Bank	COMPANY_GIVEN
+Swiss Life Holding	COMPANY_GIVEN
+ASML Holding	COMPANY_GIVEN
+Komatsu	COMPANY_GIVEN
+Suzuki Motor	COMPANY_GIVEN
+TJX Cos	COMPANY_GIVEN
+Power Corp of Canada	COMPANY_GIVEN
+Southwest Airlines	COMPANY_GIVEN
+Telstra	COMPANY_GIVEN
+ICICI Bank	COMPANY_GIVEN
+Freeport-McMoRan	COMPANY_GIVEN
+Texas Instruments	COMPANY_GIVEN
+Sompo	COMPANY_GIVEN
+Principal Financial Group	COMPANY_GIVEN
+OMV Group	COMPANY_GIVEN
+Shin-Etsu Chemical	COMPANY_GIVEN
+Anhui Conch Cement	COMPANY_GIVEN
+Hartford Financial Services	COMPANY_GIVEN
+SingTel	COMPANY_GIVEN
+CVS Health	COMPANY_GIVEN
+Marriott International	COMPANY_GIVEN
+AmerisourceBergen	COMPANY_GIVEN
+Deutsche Lufthansa	COMPANY_GIVEN
+Tokyo Electric Power	COMPANY_GIVEN
+Standard Bank Group	COMPANY_GIVEN
+Fosun International	COMPANY_GIVEN
+SEB AB	COMPANY_GIVEN
+Naspers	COMPANY_GIVEN
+Kweichow Moutai	COMPANY_GIVEN
+National Commercial Bank	COMPANY_GIVEN
+Bank Of Jiangsu	COMPANY_GIVEN
+Biogen	COMPANY_GIVEN
+Suning.com	COMPANY_GIVEN
+Bouygues	COMPANY_GIVEN
+Wilmar International	COMPANY_GIVEN
+Xiaomi	COMPANY_GIVEN
+Magna International	COMPANY_GIVEN
+International Airlines	COMPANY_GIVEN
+Femsa	COMPANY_GIVEN
+Adidas	COMPANY_GIVEN
+Netflix	COMPANY_GIVEN
+Philips	COMPANY_GIVEN
+Sumitomo Mitsui Trust	COMPANY_GIVEN
+China Yangtze Power	COMPANY_GIVEN
+Applied Materials	COMPANY_GIVEN
+Paccar	COMPANY_GIVEN
+Sysco	COMPANY_GIVEN
+Larsen & Toubro	COMPANY_GIVEN
+Emerson Electric	COMPANY_GIVEN
+Samsung C&T	COMPANY_GIVEN
+International Paper	COMPANY_GIVEN
+Halliburton	COMPANY_GIVEN
+China Cinda Asset Management	COMPANY_GIVEN
+Daikin Industries	COMPANY_GIVEN
+FirstRand	COMPANY_GIVEN
+Salesforce.com	COMPANY_GIVEN
+KIA Motors	COMPANY_GIVEN
+CK Asset Holdings	COMPANY_GIVEN
+Consolidated Edison	COMPANY_GIVEN
+Svenska Handelsbanken	COMPANY_GIVEN
+Swire Pacific	COMPANY_GIVEN
+General Mills	COMPANY_GIVEN
+CTBC Financial	COMPANY_GIVEN
+SK Innovation	COMPANY_GIVEN
+Pernod Ricard	COMPANY_GIVEN
+Citic Securities	COMPANY_GIVEN
+New World Development	COMPANY_GIVEN
+Waste Management	COMPANY_GIVEN
+Sempra Energy	COMPANY_GIVEN
+Aegon	COMPANY_GIVEN
+State Bank of India	COMPANY_GIVEN
+American International Group	COMPANY_GIVEN
+Toyota Industries	COMPANY_GIVEN
+Vodafone	COMPANY_GIVEN
+Sampo	COMPANY_GIVEN
+Subaru	COMPANY_GIVEN
+IntercontinentalExchange	COMPANY_GIVEN
+LG Chem	COMPANY_GIVEN
+Fifth Third Bank	COMPANY_GIVEN
+Dell Technologies	COMPANY_GIVEN
+SK Telecom	COMPANY_GIVEN
+VTB Bank	COMPANY_GIVEN
+Banorte	COMPANY_GIVEN
+Swiss Re	COMPANY_GIVEN
+Mitsubishi Chemical	COMPANY_GIVEN
+Centene	COMPANY_GIVEN
+BAE Systems	COMPANY_GIVEN
+Hana Financial Group	COMPANY_GIVEN
+Fast Retailing	COMPANY_GIVEN
+CNH Industrial	COMPANY_GIVEN
+Bank Mandiri	COMPANY_GIVEN
+HeidelbergCement	COMPANY_GIVEN
+Hewlett Packard Enterprise	COMPANY_GIVEN
+Talanx	COMPANY_GIVEN
+Cummins	COMPANY_GIVEN
+Orsted	COMPANY_GIVEN
+WPP	COMPANY_GIVEN
+Marsh & McLennan	COMPANY_GIVEN
+Grupo ACS	COMPANY_GIVEN
+Xcel Energy	COMPANY_GIVEN
+Las Vegas Sands	COMPANY_GIVEN
+NTPC	COMPANY_GIVEN
+China Zheshang Bank	COMPANY_GIVEN
+Commerzbank	COMPANY_GIVEN
+Toyota Tsusho	COMPANY_GIVEN
+Lennar	COMPANY_GIVEN
+Swedbank	COMPANY_GIVEN
+Compass Group	COMPANY_GIVEN
+Woolworths	COMPANY_GIVEN
+Novatek	COMPANY_GIVEN
+National Bank of Canada	COMPANY_GIVEN
+LG Electronics	COMPANY_GIVEN
+Thales	COMPANY_GIVEN
+Public Service Enterprise Group	COMPANY_GIVEN
+Adobe	COMPANY_GIVEN
+China Taiping Insurance	COMPANY_GIVEN
+TE Connectivity	COMPANY_GIVEN
+Mitsubishi Estate	COMPANY_GIVEN
+Metallurgical Corp of China	COMPANY_GIVEN
+Emirates NBD	COMPANY_GIVEN
+Kansai Electric Power	COMPANY_GIVEN
+Ecolab	COMPANY_GIVEN
+DXC Technology	COMPANY_GIVEN
+M&T Bank	COMPANY_GIVEN
+Fujitsu	COMPANY_GIVEN
+Constellation Brands	COMPANY_GIVEN
+Wesfarmers	COMPANY_GIVEN
+CLP Holdings	COMPANY_GIVEN
+Al Rajhi Bank	COMPANY_GIVEN
+Asahi Group Holdings	COMPANY_GIVEN
+Illinois Tool Works	COMPANY_GIVEN
+Fujifilm Holdings	COMPANY_GIVEN
+Saint-Gobain	COMPANY_GIVEN
+Cognizant	COMPANY_GIVEN
+Tatneft	COMPANY_GIVEN
+DTE Energy	COMPANY_GIVEN
+KeyCorp	COMPANY_GIVEN
+Recruit Holdings	COMPANY_GIVEN
+NVIDIA	COMPANY_GIVEN
+Sasol	COMPANY_GIVEN
+JFE Holdings	COMPANY_GIVEN
+Bank of Ningbo	COMPANY_GIVEN
+eBay	COMPANY_GIVEN
+Mitsubishi Heavy Industries	COMPANY_GIVEN
+Citizens Financial Group	COMPANY_GIVEN
+Weichai Power	COMPANY_GIVEN
+Nucor	COMPANY_GIVEN
+Sherwin-Williams	COMPANY_GIVEN
+Formosa Petrochemical	COMPANY_GIVEN
+Ally Financial	COMPANY_GIVEN
+Murata Manufacturing	COMPANY_GIVEN
+Northern Trust	COMPANY_GIVEN
+American Tower	COMPANY_GIVEN
+China Fortune Land Development	COMPANY_GIVEN
+CME Group	COMPANY_GIVEN
+Samsung Fire & Marine	COMPANY_GIVEN
+Deutsche Bank	COMPANY_GIVEN
+Kraft Heinz Company	COMPANY_GIVEN
+Qingdao Haier	COMPANY_GIVEN
+Associated British Foods	COMPANY_GIVEN
+MTR	COMPANY_GIVEN
+Tata Steel	COMPANY_GIVEN
+Bank Central Asia	COMPANY_GIVEN
+Bank of Nanjing	COMPANY_GIVEN
+Telenor	COMPANY_GIVEN
+Colgate-Palmolive	COMPANY_GIVEN
+Boston Scientific	COMPANY_GIVEN
+Kimberly-Clark	COMPANY_GIVEN
+China National Building	COMPANY_GIVEN
+CBS	COMPANY_GIVEN
+Dollar General	COMPANY_GIVEN
+DISH Network	COMPANY_GIVEN
+Keurig Dr Pepper	COMPANY_GIVEN
+Kubota	COMPANY_GIVEN
+Rakuten	COMPANY_GIVEN
+Merck	COMPANY_GIVEN
+Rogers Communications	COMPANY_GIVEN
+PPL	COMPANY_GIVEN
+Aisin Seiki	COMPANY_GIVEN
+Aroundtown	COMPANY_GIVEN
+Aon	COMPANY_GIVEN
+Sinopharm Group	COMPANY_GIVEN
+Royal Caribbean Cruises	COMPANY_GIVEN
+Norilsk Nickel	COMPANY_GIVEN
+Woori Financial Group	COMPANY_GIVEN
+Kirin Holdings	COMPANY_GIVEN
+NXP Semiconductors	COMPANY_GIVEN
+Saudi Electricity	COMPANY_GIVEN
+Swisscom	COMPANY_GIVEN
+McKesson	COMPANY_GIVEN
+Nidec	COMPANY_GIVEN
+Omnicom Group	COMPANY_GIVEN
+Coal India	COMPANY_GIVEN
+RELX	COMPANY_GIVEN
+Ingersoll Rand	COMPANY_GIVEN
+FirstEnergy	COMPANY_GIVEN
+Anadarko Petroleum	COMPANY_GIVEN
+Korea Electric Power	COMPANY_GIVEN
+Regions Financial	COMPANY_GIVEN
+Simon Property Group	COMPANY_GIVEN
+Corning	COMPANY_GIVEN
+The Estée Lauder Companies	COMPANY_GIVEN
+Henderson Land	COMPANY_GIVEN
+Grupo Mexico	COMPANY_GIVEN
+Allergan	COMPANY_GIVEN
+H&M	COMPANY_GIVEN
+Hennes & Mauritz	COMPANY_GIVEN
+Loews	COMPANY_GIVEN
+VMware	COMPANY_GIVEN
+Best Buy	COMPANY_GIVEN
+First Data	COMPANY_GIVEN
+Air Products & Chemicals	COMPANY_GIVEN
+Astellas Pharma	COMPANY_GIVEN
+Asahi Kasei	COMPANY_GIVEN
+Entergy	COMPANY_GIVEN
+Ageas	COMPANY_GIVEN
+PPG	COMPANY_GIVEN
+Shimao Property Holdings	COMPANY_GIVEN
+Sumitomo Electric	COMPANY_GIVEN
+Formosa Chemicals	COMPANY_GIVEN
+Atlantia	COMPANY_GIVEN
+Kotak Mahindra Bank	COMPANY_GIVEN
+Tenaga Nasional	COMPANY_GIVEN
+JD.com	COMPANY_GIVEN
+Wheelock	COMPANY_GIVEN
+Western Digital	COMPANY_GIVEN
+Industrial Bank of Korea	COMPANY_GIVEN
+Baxter International	COMPANY_GIVEN
+Dongfeng Motor Group	COMPANY_GIVEN
+Nintendo	COMPANY_GIVEN
+Aeon	COMPANY_GIVEN
+Coca-Cola European Partners	COMPANY_GIVEN
+Vonovia	COMPANY_GIVEN
+Teck Resources	COMPANY_GIVEN
+Evonik	COMPANY_GIVEN
+TELUS	COMPANY_GIVEN
+RWE Group	COMPANY_GIVEN
+Devon Energy	COMPANY_GIVEN
+Bharat Petroleum	COMPANY_GIVEN
+Eversource Energy	COMPANY_GIVEN
+Oneok	COMPANY_GIVEN
+TD Ameritrade Holding	COMPANY_GIVEN
+Siam Commercial Bank	COMPANY_GIVEN
+Edp-energias De Portugal	COMPANY_GIVEN
+Resona Holdings	COMPANY_GIVEN
+Sumitomo Realty	COMPANY_GIVEN
+Raiffeisen Bank International	COMPANY_GIVEN
+Daqin Railway	COMPANY_GIVEN
+Idemitsu Kosan	COMPANY_GIVEN
+Unibail-Rodamco	COMPANY_GIVEN
+Parker-Hannifin	COMPANY_GIVEN
+BOE Technology Group	COMPANY_GIVEN
+Nokia	COMPANY_GIVEN
+Infosys	COMPANY_GIVEN
+Public Bank	COMPANY_GIVEN
+Kao	COMPANY_GIVEN
+Mapfre	COMPANY_GIVEN
+Geely Automobile Holdings	COMPANY_GIVEN
+Siam Cement	COMPANY_GIVEN
+Nan Ya Plastics	COMPANY_GIVEN
+PKN Orlen	COMPANY_GIVEN
+Naturgy Energy Group	COMPANY_GIVEN
+Kellogg	COMPANY_GIVEN
+WEC Energy Group	COMPANY_GIVEN
+CNPC Capital	COMPANY_GIVEN
+Kyocera	COMPANY_GIVEN
+Telia	COMPANY_GIVEN
+Eletrobrás	COMPANY_GIVEN
+Guangzhou Automobile Group	COMPANY_GIVEN
+CIMB Group Holdings	COMPANY_GIVEN
+Prologis	COMPANY_GIVEN
+Absa Group	COMPANY_GIVEN
+Sodexo	COMPANY_GIVEN
+Isbank	COMPANY_GIVEN
+Carrefour	COMPANY_GIVEN
+Republic Services	COMPANY_GIVEN
+Publicis Groupe	COMPANY_GIVEN
+Porsche Automobil Holding	COMPANY_GIVEN
+D.R. Horton	COMPANY_GIVEN
+Kasikornbank	COMPANY_GIVEN
+Capgemini	COMPANY_GIVEN
+Ross Stores	COMPANY_GIVEN
+Deutsche Boerse	COMPANY_GIVEN
+Grupo Aval	COMPANY_GIVEN
+Husky Energy	COMPANY_GIVEN
+CGN Power	COMPANY_GIVEN
+West Japan Railway	COMPANY_GIVEN
+Legend Holding	COMPANY_GIVEN
+Nutrien	COMPANY_GIVEN
+Activision Blizzard	COMPANY_GIVEN
+Toray Industries	COMPANY_GIVEN
+Chubu Electric Power	COMPANY_GIVEN
+China Tower Corp.	COMPANY_GIVEN
+Analog Devices	COMPANY_GIVEN
+Grupa PZU	COMPANY_GIVEN
+Viacom	COMPANY_GIVEN
+Fidelity National Information	COMPANY_GIVEN
+Sekisui House	COMPANY_GIVEN
+Akzo Nobel	COMPANY_GIVEN
+Huntington Bank	COMPANY_GIVEN
+WH Group	COMPANY_GIVEN
+Molson Coors Brewing	COMPANY_GIVEN
+Haitong Securities	COMPANY_GIVEN
+AES	COMPANY_GIVEN
+Tesla	COMPANY_GIVEN
+Falabella	COMPANY_GIVEN
+Fox	COMPANY_GIVEN
+Veolia Environnement	COMPANY_GIVEN
+Link REIT	COMPANY_GIVEN
+Lenovo Group	COMPANY_GIVEN
+Atlas Copco	COMPANY_GIVEN
+Suncorp Group	COMPANY_GIVEN
+All Nippon Airways	COMPANY_GIVEN
+T&D Holdings	COMPANY_GIVEN
+Lam Research	COMPANY_GIVEN
+Pioneer Natural Resources	COMPANY_GIVEN
+Vivendi	COMPANY_GIVEN
+VF	COMPANY_GIVEN
+Solvay	COMPANY_GIVEN
+UPM-Kymmene	COMPANY_GIVEN
+Uniper	COMPANY_GIVEN
+National Bank of Kuwait	COMPANY_GIVEN
+Samba Financial Group	COMPANY_GIVEN
+China Southern Airlines	COMPANY_GIVEN
+Nomura	COMPANY_GIVEN
+Reinsurance Group of America	COMPANY_GIVEN
+Eiffage	COMPANY_GIVEN
+Cardinal Health	COMPANY_GIVEN
+Crown Castle International	COMPANY_GIVEN
+Ericsson	COMPANY_GIVEN
+Sumitomo Chemical	COMPANY_GIVEN
+Tokyo Electron	COMPANY_GIVEN
+Willis Towers Watson	COMPANY_GIVEN
+CBRE Group	COMPANY_GIVEN
+Essity Ab	COMPANY_GIVEN
+Sandvik	COMPANY_GIVEN
+CSL	COMPANY_GIVEN
+Credicorp	COMPANY_GIVEN
+Riyad Bank	COMPANY_GIVEN
+London Stock Exchange	COMPANY_GIVEN
+Guotai Junan Securities	COMPANY_GIVEN
+DSM	COMPANY_GIVEN
+Bancolombia	COMPANY_GIVEN
+Rolls-Royce Holdings	COMPANY_GIVEN
+Hong Kong Exchanges	COMPANY_GIVEN
+Otsuka Holding	COMPANY_GIVEN
+Stanley Black & Decker	COMPANY_GIVEN
+BYD	COMPANY_GIVEN
+WestRock	COMPANY_GIVEN
+CarMax	COMPANY_GIVEN
+Aptiv	COMPANY_GIVEN
+Axis Bank	COMPANY_GIVEN
+CenturyLink	COMPANY_GIVEN
+Fortive	COMPANY_GIVEN
+George Weston	COMPANY_GIVEN
+Koç Holding	COMPANY_GIVEN
+Huaneng Power International	COMPANY_GIVEN
+Isuzu Motors	COMPANY_GIVEN
+Telkom Indonesia	COMPANY_GIVEN
+China Energy Engineering	COMPANY_GIVEN
+Unipol Gruppo	COMPANY_GIVEN
+Teva Pharmaceutical	COMPANY_GIVEN
+Keyence	COMPANY_GIVEN
+Neste	COMPANY_GIVEN
+Shanghai International Port	COMPANY_GIVEN
+Nedbank	COMPANY_GIVEN
+Bangkok Bank	COMPANY_GIVEN
+China Reinsurance Group	COMPANY_GIVEN
+Formosa Plastics	COMPANY_GIVEN
+Telecom Italia	COMPANY_GIVEN
+Concho Resources	COMPANY_GIVEN
+Covestro	COMPANY_GIVEN
+Guangzhou R&F	COMPANY_GIVEN
+LG	COMPANY_GIVEN
+Liberty Global	COMPANY_GIVEN
+Raymond James Financial	COMPANY_GIVEN
+Fairfax Financial	COMPANY_GIVEN
+ROSSETI	COMPANY_GIVEN
+China Eastern Airlines	COMPANY_GIVEN
+Tata Motors	COMPANY_GIVEN
+AIB Group	COMPANY_GIVEN
+Fortis (Canada)	COMPANY_GIVEN
+Woodside Petroleum	COMPANY_GIVEN
+China Steel	COMPANY_GIVEN
+First Republic Bank	COMPANY_GIVEN
+ATOS	COMPANY_GIVEN
+Japan Airlines	COMPANY_GIVEN
+Garanti Bank	COMPANY_GIVEN
+Edison International	COMPANY_GIVEN
+Galp Energia	COMPANY_GIVEN
+Infineon Technologies	COMPANY_GIVEN
+Athene Holding	COMPANY_GIVEN
+Old Mutual	COMPANY_GIVEN
+AutoZone	COMPANY_GIVEN
+Abu Dhabi Commercial Bank	COMPANY_GIVEN
+Yanzhou Coal Mining	COMPANY_GIVEN
+Macy's	COMPANY_GIVEN
+NetEase	COMPANY_GIVEN
+Hermès International	COMPANY_GIVEN
+Fanuc	COMPANY_GIVEN
+Regeneron Pharmaceuticals	COMPANY_GIVEN
+Novolipetsk Steel	COMPANY_GIVEN
+Hanwha	COMPANY_GIVEN
+Dentsu	COMPANY_GIVEN
+Carlsberg	COMPANY_GIVEN
+Textron	COMPANY_GIVEN
+Bank of Jinzhou	COMPANY_GIVEN
+SSE	COMPANY_GIVEN
+Huatai Securities	COMPANY_GIVEN
+Lotte Chemical	COMPANY_GIVEN
+Hikvision	COMPANY_GIVEN
+QBE Insurance Group	COMPANY_GIVEN
+Shaanxi Coal Industry	COMPANY_GIVEN
+Shanghai Electric Group	COMPANY_GIVEN
+Saudi British Bank	COMPANY_GIVEN
+O'Reilly Automotive	COMPANY_GIVEN
+ITC	COMPANY_GIVEN
+Chunghwa Telecom	COMPANY_GIVEN
+Shenzhen Overseas	COMPANY_GIVEN
+EnBW-Energie Baden	COMPANY_GIVEN
+Comerica	COMPANY_GIVEN
+Inner Mongolia Yili	COMPANY_GIVEN
+Genuine Parts	COMPANY_GIVEN
+PKO Bank Polski	COMPANY_GIVEN
+PG&E	COMPANY_GIVEN
+Discovery	COMPANY_GIVEN
+Ferguson	COMPANY_GIVEN
+Huishang Bank	COMPANY_GIVEN
+Sanlam	COMPANY_GIVEN
+Williams	COMPANY_GIVEN
+Deutsche Wohnen	COMPANY_GIVEN
+S&P Global	COMPANY_GIVEN
+Wanhua Chemical Group	COMPANY_GIVEN
+Fortum	COMPANY_GIVEN
+Mega Financial Holding	COMPANY_GIVEN
+JBS	COMPANY_GIVEN
+China Coal Energy	COMPANY_GIVEN
+Emaar Properties	COMPANY_GIVEN
+Canadian Pacific Railway	COMPANY_GIVEN
+Evraz Group	COMPANY_GIVEN
+Mitsubishi Motors	COMPANY_GIVEN
+Wuliangye Yibin	COMPANY_GIVEN
+Intuit	COMPANY_GIVEN
+LabCorp	COMPANY_GIVEN
+PTT Global Chemical	COMPANY_GIVEN
+Bank Negara Indonesia	COMPANY_GIVEN
+Galaxy Entertainment	COMPANY_GIVEN
+Gemdale	COMPANY_GIVEN
+E-Trade Financial	COMPANY_GIVEN
+Kuehne & Nagel International	COMPANY_GIVEN
+Kone	COMPANY_GIVEN
+Ryanair Holdings	COMPANY_GIVEN
+Great Wall Motor	COMPANY_GIVEN
+MGM Resorts	COMPANY_GIVEN
+Tokyo Gas	COMPANY_GIVEN
+YPF	COMPANY_GIVEN
+Daiwa Securities	COMPANY_GIVEN
+ThyssenKrupp Group	COMPANY_GIVEN
+Vestas Wind Systems	COMPANY_GIVEN
+Sabanci Holding	COMPANY_GIVEN
+Mazda Motor	COMPANY_GIVEN
+DP World	COMPANY_GIVEN
+Bharti Airtel	COMPANY_GIVEN
+Valeo	COMPANY_GIVEN
+Ameren	COMPANY_GIVEN
+Secom	COMPANY_GIVEN
+Brighthouse Financial	COMPANY_GIVEN
+Hilton	COMPANY_GIVEN
+Wipro	COMPANY_GIVEN
+Itaúsa	COMPANY_GIVEN
+China Huarong Asset Management	COMPANY_GIVEN
+Amphenol	COMPANY_GIVEN
+Daiichi Sankyo	COMPANY_GIVEN
+JSW Steel	COMPANY_GIVEN
+Schindler Holding	COMPANY_GIVEN
+Power Grid of India	COMPANY_GIVEN
+Scentre Group	COMPANY_GIVEN
+Seagate Technology	COMPANY_GIVEN
+OTP Bank	COMPANY_GIVEN
+Aena	COMPANY_GIVEN
+Akbank	COMPANY_GIVEN
+SVB Financial Group	COMPANY_GIVEN
+Unum	COMPANY_GIVEN
+Towngas	COMPANY_GIVEN
+Kuwait Finance House	COMPANY_GIVEN
+Future Land Development Holdings	COMPANY_GIVEN
+Hindalco Industries	COMPANY_GIVEN
+China Resources Pharmaceutical Group	COMPANY_GIVEN
+Eastman Chemical	COMPANY_GIVEN
+HCL Technologies	COMPANY_GIVEN
+Conagra Brands	COMPANY_GIVEN
+CP All	COMPANY_GIVEN
+Stora Enso	COMPANY_GIVEN
+Bank Leumi	COMPANY_GIVEN
+Lear	COMPANY_GIVEN
+Kohl's	COMPANY_GIVEN
+MOL Hungarian Oil	COMPANY_GIVEN
+Xiamen C&D	COMPANY_GIVEN
+S.F. Holding	COMPANY_GIVEN
+Zijin Mining Group	COMPANY_GIVEN
+CapitaLand	COMPANY_GIVEN
+Steinhoff International	COMPANY_GIVEN
+Inpex	COMPANY_GIVEN
+China National Nuclear Power	COMPANY_GIVEN
+GF Securities	COMPANY_GIVEN
+Zoetis	COMPANY_GIVEN
+Halkbank	COMPANY_GIVEN
+Pembina Pipeline	COMPANY_GIVEN
+ASE Technology Holding	COMPANY_GIVEN
+Taisei	COMPANY_GIVEN
+TDK	COMPANY_GIVEN
+Shenwan Hongyuan Group	COMPANY_GIVEN
+Weyerhaeuser	COMPANY_GIVEN
+Kajima	COMPANY_GIVEN
+Banque Saudi Fransi	COMPANY_GIVEN
+Cheniere Energy	COMPANY_GIVEN
+STMicroelectronics	COMPANY_GIVEN
+L3Harris Technologies	COMPANY_GIVEN
+VakifBank	COMPANY_GIVEN
+Randstad Holding	COMPANY_GIVEN
+South32	COMPANY_GIVEN
+United Rentals	COMPANY_GIVEN
+Braskem	COMPANY_GIVEN
+Mediobanca	COMPANY_GIVEN
+Arrow Electronics	COMPANY_GIVEN
+Marathon Oil	COMPANY_GIVEN
+Obayashi	COMPANY_GIVEN
+RiseSun Real Estate Development	COMPANY_GIVEN
+Hormel Foods	COMPANY_GIVEN
+Alliance Data Systems	COMPANY_GIVEN
+Franklin Resources	COMPANY_GIVEN
+China Hongqiao Group	COMPANY_GIVEN
+Hershey	COMPANY_GIVEN
+CMS Energy	COMPANY_GIVEN
+Aluminum Corp of China	COMPANY_GIVEN
+Severstal	COMPANY_GIVEN
+Dubai Islamic Bank	COMPANY_GIVEN
+BAIC Motor	COMPANY_GIVEN
+Julius Baer Group	COMPANY_GIVEN
+Roper Technologies	COMPANY_GIVEN
+Swatch Group	COMPANY_GIVEN
+Snam	COMPANY_GIVEN
+Norsk Hydro	COMPANY_GIVEN
+AntarChile	COMPANY_GIVEN
+Suntory Beverage & Food	COMPANY_GIVEN
+Fortescue Metals Group	COMPANY_GIVEN
+MTN Group	COMPANY_GIVEN
+TCL	COMPANY_GIVEN
+China Merchants Securities	COMPANY_GIVEN
+Quanta Computer	COMPANY_GIVEN
+KT	COMPANY_GIVEN
+Shanghai Pharmaceuticals	COMPANY_GIVEN
+Scor	COMPANY_GIVEN
+Bankia	COMPANY_GIVEN
+Dollar Tree	COMPANY_GIVEN
+Origin Energy	COMPANY_GIVEN
+Shengjing Bank	COMPANY_GIVEN
+Ball	COMPANY_GIVEN
+China Gezhouba	COMPANY_GIVEN
+Yum! Brands	COMPANY_GIVEN
+Air France-KLM	COMPANY_GIVEN
+Amadeus IT Group	COMPANY_GIVEN
+AGC	COMPANY_GIVEN
+Arch Capital Group	COMPANY_GIVEN
+CDW	COMPANY_GIVEN
+Tenaris	COMPANY_GIVEN
+Bank of Ireland	COMPANY_GIVEN
+Logan Property Holdings	COMPANY_GIVEN
+Arconic	COMPANY_GIVEN
+Bank Hapoalim	COMPANY_GIVEN
+Beiersdorf	COMPANY_GIVEN
+IQVIA	COMPANY_GIVEN
+Vertex Pharmaceuticals	COMPANY_GIVEN
+Alstom	COMPANY_GIVEN
+AvalonBay Communities	COMPANY_GIVEN
+CEZ Group	COMPANY_GIVEN
+Fiserv	COMPANY_GIVEN
+Bâloise Group	COMPANY_GIVEN
+China Grand Automotive Services	COMPANY_GIVEN
+Mylan	COMPANY_GIVEN
+Bank of East Asia	COMPANY_GIVEN
+Qurate Retail Group	COMPANY_GIVEN
+Krung Thai Bank	COMPANY_GIVEN
+Mahindra & Mahindra	COMPANY_GIVEN
+CGI Group	COMPANY_GIVEN
+Cemex	COMPANY_GIVEN
+Altice USA	COMPANY_GIVEN
+Cosco Shipping	COMPANY_GIVEN
+Sharp	COMPANY_GIVEN
+WW Grainger	COMPANY_GIVEN
+Leonardo	COMPANY_GIVEN
+Gap	COMPANY_GIVEN
+American Financial Group	COMPANY_GIVEN
+Uni-President	COMPANY_GIVEN
+Korea Gas	COMPANY_GIVEN
+Cenovus Energy	COMPANY_GIVEN
+CenterPoint Energy	COMPANY_GIVEN
+Motorola Solutions	COMPANY_GIVEN
+SMC	COMPANY_GIVEN
+Meituan Dianping	COMPANY_GIVEN
+T Rowe Price	COMPANY_GIVEN
+Agile Group Holdings	COMPANY_GIVEN
+TUI	COMPANY_GIVEN
+Expedia Group	COMPANY_GIVEN
+Public Storage	COMPANY_GIVEN
+Guangzhou Rural Commercial Bank	COMPANY_GIVEN
+Zions Bancorp	COMPANY_GIVEN
+Shiseido	COMPANY_GIVEN
+C.H. Robinson	COMPANY_GIVEN
+WR Berkley	COMPANY_GIVEN
+Samsung SDI	COMPANY_GIVEN
+ZTE	COMPANY_GIVEN
+Voya Financial	COMPANY_GIVEN
+Arab National Bank	COMPANY_GIVEN
+Centrica	COMPANY_GIVEN
+Financiere de l'Odet	COMPANY_GIVEN
+Wens Foodstuff Group	COMPANY_GIVEN
+Electronic Arts	COMPANY_GIVEN
+Bank Of Hangzhou	COMPANY_GIVEN
+GS Holdings	COMPANY_GIVEN
+Pgnig Group	COMPANY_GIVEN
+HollyFrontier	COMPANY_GIVEN
+DSV	COMPANY_GIVEN
+Intuitive Surgical	COMPANY_GIVEN
+Legrand	COMPANY_GIVEN
+Inner Mongolia Baotou Steel	COMPANY_GIVEN
+En+ Group Plc Sponsored GDR RegS	COMPANY_GIVEN
+Sany Heavy Industry	COMPANY_GIVEN
+BDO Unibank	COMPANY_GIVEN
+China Gas Holdings	COMPANY_GIVEN
+Aeroports de Paris	COMPANY_GIVEN
+Diamondback Energy	COMPANY_GIVEN
+Asr Nederland	COMPANY_GIVEN
+NEC	COMPANY_GIVEN
+Db Insurance	COMPANY_GIVEN
+JM Smucker	COMPANY_GIVEN
+Schaeffler	COMPANY_GIVEN
+Zimmer Biomet	COMPANY_GIVEN
+China Jinmao	COMPANY_GIVEN
+Hengli Petrochemical	COMPANY_GIVEN
+ALFA	COMPANY_GIVEN
+Shanghai Construction	COMPANY_GIVEN
+Qatar Islamic Bank	COMPANY_GIVEN
+CJ Cheiljedang	COMPANY_GIVEN
+Turkish Airlines	COMPANY_GIVEN
+Thomson Reuters	COMPANY_GIVEN
+Investor AB	COMPANY_GIVEN
+Adecco	COMPANY_GIVEN
+Rockwell Automation	COMPANY_GIVEN
+Moody's	COMPANY_GIVEN
+Datang International Power	COMPANY_GIVEN
+Accor	COMPANY_GIVEN
+IndusInd Bank	COMPANY_GIVEN
+Intact Financial	COMPANY_GIVEN
+J Sainsbury	COMPANY_GIVEN
+Thai Beverage	COMPANY_GIVEN
+Yamaha Motor	COMPANY_GIVEN
+Cintas	COMPANY_GIVEN
+Beijing Enterprises	COMPANY_GIVEN
+Gallagher	COMPANY_GIVEN
+Continental Resources	COMPANY_GIVEN
+Daito Trust Construction	COMPANY_GIVEN
+China Shipbuilding Industry	COMPANY_GIVEN
+Shin Kong Financial	COMPANY_GIVEN
+BBMG	COMPANY_GIVEN
+MediaTek	COMPANY_GIVEN
+Onex	COMPANY_GIVEN
+Tokyu	COMPANY_GIVEN
+WellCare Health Plans	COMPANY_GIVEN
+Mitsubishi UFJ Lease	COMPANY_GIVEN
+Celanese	COMPANY_GIVEN
+Hesteel	COMPANY_GIVEN
+Interactive Brokers Group	COMPANY_GIVEN
+Sumitomo Metal Mining	COMPANY_GIVEN
+Japan Exchange Group	COMPANY_GIVEN
+Mohawk Industries	COMPANY_GIVEN
+Sojitz	COMPANY_GIVEN
+Investec	COMPANY_GIVEN
+NetApp	COMPANY_GIVEN
+Yum China Holdings	COMPANY_GIVEN
+Melrose Industries Plc	COMPANY_GIVEN
+Universal Health	COMPANY_GIVEN
+Gecina	COMPANY_GIVEN
+Restaurant Brands International	COMPANY_GIVEN
+Dexia	COMPANY_GIVEN
+Norwegian Cruise Line Holdings	COMPANY_GIVEN
+Sika	COMPANY_GIVEN
+Zhejiang Zheneng Electric Power	COMPANY_GIVEN
+Singapore Airlines	COMPANY_GIVEN
+Technipfmc	COMPANY_GIVEN
+BCI-Banco Credito	COMPANY_GIVEN
+SDIC Power Holdings	COMPANY_GIVEN
+Dassault Aviation	COMPANY_GIVEN
+First Financial Holding	COMPANY_GIVEN
+Barrick Gold	COMPANY_GIVEN
+Shimizu	COMPANY_GIVEN
+Vistra Energy	COMPANY_GIVEN
+Invesco	COMPANY_GIVEN
+Mosaic	COMPANY_GIVEN
+Oi	COMPANY_GIVEN
+Jiangsu Yanghe Brewery	COMPANY_GIVEN
+Klepierre	COMPANY_GIVEN
+SM Investments	COMPANY_GIVEN
+Harris	COMPANY_GIVEN
+Agilent Technologies	COMPANY_GIVEN
+Altice Europe	COMPANY_GIVEN
+Joint Stock Commercial Bank for Foreign Trade of Vietnam	COMPANY_GIVEN
+Kyushu Electric Power	COMPANY_GIVEN
+Markel	COMPANY_GIVEN
+Welltower	COMPANY_GIVEN
+Twitter	COMPANY_GIVEN
+Kerry Group	COMPANY_GIVEN
+Angang Steel	COMPANY_GIVEN
+Hoya	COMPANY_GIVEN
+Illumina	COMPANY_GIVEN
+Mondi	COMPANY_GIVEN
+Steel Dynamics	COMPANY_GIVEN
+Bajaj Finserv	COMPANY_GIVEN
+Boston Properties	COMPANY_GIVEN
+Insurance Australia Group	COMPANY_GIVEN
+American Water Works	COMPANY_GIVEN
+Goodyear	COMPANY_GIVEN
+Banco de Sabadell	COMPANY_GIVEN
+Knorr-Bremse	COMPANY_GIVEN
+Annaly Capital Management	COMPANY_GIVEN
+Helvetia Holding	COMPANY_GIVEN
+LG Display	COMPANY_GIVEN
+Harbin Bank	COMPANY_GIVEN
+Alinma Bank	COMPANY_GIVEN
+Grupo Inbursa	COMPANY_GIVEN
+AGL Energy	COMPANY_GIVEN
+E.Sun Financial	COMPANY_GIVEN
+Paychex	COMPANY_GIVEN
+AerCap Holdings	COMPANY_GIVEN
+Rongsheng Petrochemical	COMPANY_GIVEN
+Bunge	COMPANY_GIVEN
+Meiji Holdings	COMPANY_GIVEN
+Bankinter	COMPANY_GIVEN
+Westlake Chemical	COMPANY_GIVEN
+Grifols	COMPANY_GIVEN
+KLA-Tencor	COMPANY_GIVEN
+Monster Beverage	COMPANY_GIVEN
+Darden Restaurants	COMPANY_GIVEN
+Ferrovial	COMPANY_GIVEN
+Encana	COMPANY_GIVEN
+Taiwan Cooperative Financial	COMPANY_GIVEN
+Industries Qatar	COMPANY_GIVEN
+Clorox	COMPANY_GIVEN
+Lonza Group	COMPANY_GIVEN
+Hankyu Hanshin Holdings	COMPANY_GIVEN
+Ternium	COMPANY_GIVEN
+Tohoku Electric Power	COMPANY_GIVEN
+BorgWarner	COMPANY_GIVEN
+Attijariwafa Bank	COMPANY_GIVEN
+Ulta Beauty	COMPANY_GIVEN
+CIFI Holdings Group	COMPANY_GIVEN
+Samsung SDS	COMPANY_GIVEN
+Molina Healthcare	COMPANY_GIVEN
+Saudi Arabian Mining	COMPANY_GIVEN
+Interpublic Group	COMPANY_GIVEN
+Skanska	COMPANY_GIVEN
+Amcor	COMPANY_GIVEN
+Guosen Securities	COMPANY_GIVEN
+SGS	COMPANY_GIVEN
+Tokyo Century	COMPANY_GIVEN
+Evergy	COMPANY_GIVEN
+PVH	COMPANY_GIVEN
+Host Hotels & Resorts	COMPANY_GIVEN
+Saputo	COMPANY_GIVEN
+Whirlpool	COMPANY_GIVEN
+TransDigm Group	COMPANY_GIVEN
+Kobe Steel	COMPANY_GIVEN
+Voestalpine	COMPANY_GIVEN
+Aramark	COMPANY_GIVEN
+China Galaxy Securities	COMPANY_GIVEN
+China International Marine	COMPANY_GIVEN
+CJ Corporation	COMPANY_GIVEN
+Jeronimo Martins	COMPANY_GIVEN
+Terna	COMPANY_GIVEN
+PulteGroup	COMPANY_GIVEN
+China Development Financial	COMPANY_GIVEN
+China Resources Power	COMPANY_GIVEN
+Bank Pekao	COMPANY_GIVEN
+Covivio	COMPANY_GIVEN
+Oriental Land	COMPANY_GIVEN
+Xilinx	COMPANY_GIVEN
+Schroders	COMPANY_GIVEN
+Wynn Resorts	COMPANY_GIVEN
+Bank of Tianjin	COMPANY_GIVEN
+GD Power Development	COMPANY_GIVEN
+Equinix	COMPANY_GIVEN
+UBI Banca	COMPANY_GIVEN
+Cosmo Energy Holdings	COMPANY_GIVEN
+UCB	COMPANY_GIVEN
+3i Group	COMPANY_GIVEN
+Yara International	COMPANY_GIVEN
+GAIL India	COMPANY_GIVEN
+Givaudan	COMPANY_GIVEN
+Hyundai Steel	COMPANY_GIVEN
+Inter Rao	COMPANY_GIVEN
+Ferrari	COMPANY_GIVEN
+Industrial Alliance Insurance	COMPANY_GIVEN
+Vienna Insurance Group	COMPANY_GIVEN
+Petronas Chemicals	COMPANY_GIVEN
+Terumo	COMPANY_GIVEN
+Newmont Mining	COMPANY_GIVEN
+Masco	COMPANY_GIVEN
+Ricoh	COMPANY_GIVEN
+Top Frontier Investment Holdings	COMPANY_GIVEN
+Punjab National Bank	COMPANY_GIVEN
+Edwards Lifesciences	COMPANY_GIVEN
+Pegatron	COMPANY_GIVEN
+Indorama Ventures	COMPANY_GIVEN
+Bank Of Guiyang	COMPANY_GIVEN
+S-Oil	COMPANY_GIVEN
+Arkema	COMPANY_GIVEN
+Airports of Thailand	COMPANY_GIVEN
+NRG Energy	COMPANY_GIVEN
+Dassault Systemes	COMPANY_GIVEN
+Experian	COMPANY_GIVEN
+US Steel	COMPANY_GIVEN
+Advanced Info Service	COMPANY_GIVEN
+Expeditors International	COMPANY_GIVEN
+Jiangsu Hengrui Medicine	COMPANY_GIVEN
+Hess	COMPANY_GIVEN
+HAL Trust	COMPANY_GIVEN
+LG Household & Health Care	COMPANY_GIVEN
+Grasim Industries	COMPANY_GIVEN
+Phoenix Group Holdings	COMPANY_GIVEN
+Assa Abloy	COMPANY_GIVEN
+Charoen Pokphand Foods	COMPANY_GIVEN
+Worldpay	COMPANY_GIVEN
+Yuanta Financial Holding	COMPANY_GIVEN
+Concordia Financial Group	COMPANY_GIVEN
+SKF Group	COMPANY_GIVEN
+Genworth Financial	COMPANY_GIVEN
+Bank of Baroda	COMPANY_GIVEN
+Jiangxi Copper	COMPANY_GIVEN
+Bank of Changsha	COMPANY_GIVEN
+China Mengniu Dairy	COMPANY_GIVEN
+Grupo Elektra	COMPANY_GIVEN
+HCP	COMPANY_GIVEN
+Equity Residential	COMPANY_GIVEN
+Shionogi	COMPANY_GIVEN
+Foshan Haitian Flavouring and Food	COMPANY_GIVEN
+Quest Diagnostics	COMPANY_GIVEN
+Ayala	COMPANY_GIVEN
+China International Capital	COMPANY_GIVEN
+Magnitogorsk Iron & Steel	COMPANY_GIVEN
+Ashtead Group	COMPANY_GIVEN
+Bank Of Chengdu	COMPANY_GIVEN
+Brown-Forman	COMPANY_GIVEN
+Hunan Valin Steel	COMPANY_GIVEN
+Delta Electronics	COMPANY_GIVEN
+East West Bancorp	COMPANY_GIVEN
+New Residential Investment	COMPANY_GIVEN
+Fastenal	COMPANY_GIVEN
+Power Finance	COMPANY_GIVEN
+Henry Schein	COMPANY_GIVEN
+FleetCor Technologies	COMPANY_GIVEN
+Hexagon	COMPANY_GIVEN
+Dai Nippon Printing	COMPANY_GIVEN
+Metro Group	COMPANY_GIVEN
+Goodman Group	COMPANY_GIVEN
+Torchmark	COMPANY_GIVEN
+Ctrip.com International	COMPANY_GIVEN
+China Life Insurance (Taiwan)	COMPANY_GIVEN
+McCormick	COMPANY_GIVEN
+Storebrand	COMPANY_GIVEN
+HNA Technology	COMPANY_GIVEN
+Apache	COMPANY_GIVEN
+Brenntag	COMPANY_GIVEN
+RSA Insurance Group	COMPANY_GIVEN
+NVR	COMPANY_GIVEN
+Skyworks Solutions	COMPANY_GIVEN
+China International Travel Service	COMPANY_GIVEN
+Johnson Matthey	COMPANY_GIVEN
+Hua Nan Financial	COMPANY_GIVEN
+Huntington Ingalls Industries	COMPANY_GIVEN
+Unicharm	COMPANY_GIVEN
+China Molybdenum	COMPANY_GIVEN
+Yango Group	COMPANY_GIVEN
+Wolters Kluwer	COMPANY_GIVEN
+Hyundai Marine & Fire	COMPANY_GIVEN
+Umicore	COMPANY_GIVEN
+Waste Connections	COMPANY_GIVEN
+Sino-Ocean Group Holding	COMPANY_GIVEN
+AGNC Investment	COMPANY_GIVEN
+Signature Bank	COMPANY_GIVEN
+Cerner	COMPANY_GIVEN
+Huadian Power International	COMPANY_GIVEN
+Power Assets Holdings	COMPANY_GIVEN
+Ahli United Bank	COMPANY_GIVEN
+Qantas Airways	COMPANY_GIVEN
+Ametek	COMPANY_GIVEN
+Cathay Pacific Airways	COMPANY_GIVEN
+LKQ	COMPANY_GIVEN
+LARGAN Precision	COMPANY_GIVEN
+X5 Retail Group	COMPANY_GIVEN
+Canara Bank	COMPANY_GIVEN
+Digital Realty Trust	COMPANY_GIVEN
+Crown Holdings	COMPANY_GIVEN
+Doosan	COMPANY_GIVEN
+Valeant Pharmaceuticals	COMPANY_GIVEN
+Transurban Group	COMPANY_GIVEN
+Mitsui Chemicals	COMPANY_GIVEN
+Maanshan Iron & Steel	COMPANY_GIVEN
+Jacobs Engineering	COMPANY_GIVEN
+Partners Group Holding	COMPANY_GIVEN
+AVIC Capita	COMPANY_GIVEN
+Focus Media Information Technology	COMPANY_GIVEN
+Koito Manufacturing	COMPANY_GIVEN
+Check Point Software	COMPANY_GIVEN
+Quinenco	COMPANY_GIVEN
+Leidos	COMPANY_GIVEN
+Dover	COMPANY_GIVEN
+Grupo Bimbo	COMPANY_GIVEN
+Sino Biopharmaceutical	COMPANY_GIVEN
+Everest Re Group	COMPANY_GIVEN
+Jinke Property Group	COMPANY_GIVEN
+Bombardier	COMPANY_GIVEN
+L Brands	COMPANY_GIVEN
+Wuestenrot & Wuerttembergische	COMPANY_GIVEN
+DaVita	COMPANY_GIVEN
+Ventas	COMPANY_GIVEN
+Coca-Cola HBC	COMPANY_GIVEN
+Tenet Healthcare	COMPANY_GIVEN
+Metro	COMPANY_GIVEN
+Bluescope Steel	COMPANY_GIVEN
+Hyundai Heavy Industries	COMPANY_GIVEN
+Techtronic Industries	COMPANY_GIVEN
+Fukuoka Financial Group	COMPANY_GIVEN
+Tractor Supply	COMPANY_GIVEN
+National Oilwell Varco	COMPANY_GIVEN
+Shanxi Taigang Stainless	COMPANY_GIVEN
+Shinsei Bank	COMPANY_GIVEN
+Lotte Shopping	COMPANY_GIVEN
+Alrosa	COMPANY_GIVEN
+Fidelity National Financial	COMPANY_GIVEN
+RTL Group	COMPANY_GIVEN
+Manpower	COMPANY_GIVEN
+Navient	COMPANY_GIVEN
+Banco BPM	COMPANY_GIVEN
+Chow Tai Fook Jewellery	COMPANY_GIVEN
+Bank of India	COMPANY_GIVEN
+Liberty Expedia Holdings	COMPANY_GIVEN
+Shenzhou International Group Holdings	COMPANY_GIVEN
+Bunzl	COMPANY_GIVEN
+US Foods	COMPANY_GIVEN
+Chugoku Electric Power	COMPANY_GIVEN
+Contemporary Amperex Technology	COMPANY_GIVEN
+Emera	COMPANY_GIVEN
+KION Group	COMPANY_GIVEN
+Daishi Hokuetsu Financial Group	COMPANY_GIVEN
+RHB Bank	COMPANY_GIVEN
+Nordstrom	COMPANY_GIVEN
+Yamato Holdings	COMPANY_GIVEN
+Chesapeake Energy	COMPANY_GIVEN
+NARI Technology Development	COMPANY_GIVEN
+Santos	COMPANY_GIVEN
+Eisai	COMPANY_GIVEN
+Electric Power Development	COMPANY_GIVEN
+Targa Resources	COMPANY_GIVEN
+Keppel	COMPANY_GIVEN
+Advance Auto Parts	COMPANY_GIVEN
+Bank of Chongqing	COMPANY_GIVEN
+Popular	COMPANY_GIVEN
+Zhongsheng Group Holdings	COMPANY_GIVEN
+IHS Markit	COMPANY_GIVEN
+Campbell Soup	COMPANY_GIVEN
+Microchip Technology	COMPANY_GIVEN
+Coloplast	COMPANY_GIVEN
+STRABAG	COMPANY_GIVEN
+Chiba Bank	COMPANY_GIVEN
+Colruyt	COMPANY_GIVEN
+Brambles	COMPANY_GIVEN
+Hydro One	COMPANY_GIVEN
+Verisk Analytics	COMPANY_GIVEN
+Oji Holdings	COMPANY_GIVEN
+Greentown China Holdings	COMPANY_GIVEN
+Magnit	COMPANY_GIVEN
+Osaka Gas	COMPANY_GIVEN
+Segro	COMPANY_GIVEN
+Alleghany	COMPANY_GIVEN
+Olam International	COMPANY_GIVEN
+Bohai Leasing	COMPANY_GIVEN
+Jones Lang LaSalle	COMPANY_GIVEN
+Smith & Nephew	COMPANY_GIVEN
+J.B. Hunt Transport Services	COMPANY_GIVEN
+Medipal Holdings	COMPANY_GIVEN
+360 Security Technology	COMPANY_GIVEN
+Coty	COMPANY_GIVEN
+VeriSign	COMPANY_GIVEN
+St. James's Place	COMPANY_GIVEN
+Barratt Developments	COMPANY_GIVEN
+BPER Banca	COMPANY_GIVEN
+Maxim Integrated Products	COMPANY_GIVEN
+Meritz Financial Group	COMPANY_GIVEN
+Red Eléctrica	COMPANY_GIVEN
+NEXON	COMPANY_GIVEN
+Packaging Corp of America	COMPANY_GIVEN
+Shanghai International Airport	COMPANY_GIVEN
+Materials Industry Zhongda Group	COMPANY_GIVEN
+Hainan Airlines	COMPANY_GIVEN
+Cincinnati Financial	COMPANY_GIVEN
+Garmin	COMPANY_GIVEN
+Canadian Tire	COMPANY_GIVEN
+Nine Dragons Paper Holdings	COMPANY_GIVEN
+Nippon Yusen	COMPANY_GIVEN
+Kintetsu	COMPANY_GIVEN
+Verbund	COMPANY_GIVEN
+Anta Sports Products	COMPANY_GIVEN
+IAC/InterActiveCorp	COMPANY_GIVEN
+Global Payments	COMPANY_GIVEN
+Penske Automotive	COMPANY_GIVEN
+Showa Denko	COMPANY_GIVEN
+Shizuoka Bank	COMPANY_GIVEN
+Persimmon	COMPANY_GIVEN
+Alfresa Holdings	COMPANY_GIVEN
+Live Nation Entertainment	COMPANY_GIVEN
+XPO Logistics	COMPANY_GIVEN
+Lixil Group	COMPANY_GIVEN
+Bank of Zhengzhou	COMPANY_GIVEN
+OMRON	COMPANY_GIVEN
+DCC	COMPANY_GIVEN
+Sun Art Retail Group	COMPANY_GIVEN
+Beijing Capital Development	COMPANY_GIVEN
+Advanced Micro Devices	COMPANY_GIVEN
+Nitori Holdings	COMPANY_GIVEN
+Arca Continental	COMPANY_GIVEN
+Masraf Al Rayan	COMPANY_GIVEN
+BNK Financial Group	COMPANY_GIVEN
+Assurant	COMPANY_GIVEN
+NASDAQ	COMPANY_GIVEN
+Bawag Group	COMPANY_GIVEN
+Shanghai Commercial & Savings Bank	COMPANY_GIVEN
+Iida Group Holdings	COMPANY_GIVEN
+Mirae Asset Daewoo	COMPANY_GIVEN
+Far East Horizon	COMPANY_GIVEN
+CSN	COMPANY_GIVEN
+Bank Of Gansu	COMPANY_GIVEN
+People's United Financial	COMPANY_GIVEN
+E-mart	COMPANY_GIVEN
+Kerry Properties	COMPANY_GIVEN
+ENN Energy Holdings	COMPANY_GIVEN
+Next	COMPANY_GIVEN
+Tech Data	COMPANY_GIVEN
+Wm Morrison Supermarkets	COMPANY_GIVEN
+Hong Leong Financial	COMPANY_GIVEN
+Arab Bank	COMPANY_GIVEN
+Sekisui Chemical	COMPANY_GIVEN
+Korea Investment Holdings	COMPANY_GIVEN
+Flex	COMPANY_GIVEN
+Naver	COMPANY_GIVEN
+Orient Securities	COMPANY_GIVEN
+Union Bank of India	COMPANY_GIVEN
+Korean Air	COMPANY_GIVEN
+Mebuki Financial Group	COMPANY_GIVEN
+Gudang Garam	COMPANY_GIVEN
+American Equity Investment	COMPANY_GIVEN
+Spirit AeroSystems	COMPANY_GIVEN
+Ooredoo Q.P.S.C	COMPANY_GIVEN
+Yonghui Superstores	COMPANY_GIVEN
+Chongqing Rural Bank	COMPANY_GIVEN
+First Horizon National	COMPANY_GIVEN
+Electrolux Group	COMPANY_GIVEN
+Synopsys	COMPANY_GIVEN
+Mitsubishi Materials	COMPANY_GIVEN
+Church & Dwight	COMPANY_GIVEN
+Xylem	COMPANY_GIVEN
+Total System Services	COMPANY_GIVEN
+China Merchants Port Holdings	COMPANY_GIVEN
+Tapestry	COMPANY_GIVEN
+Compal Electronics	COMPANY_GIVEN
+Red Hat	COMPANY_GIVEN
+Proximus	COMPANY_GIVEN
+Waters	COMPANY_GIVEN
+Sistema	COMPANY_GIVEN
+Mashreq Bank	COMPANY_GIVEN
+Pinnacle West	COMPANY_GIVEN
+Vornado Realty	COMPANY_GIVEN
+Xiamen International Trade Group	COMPANY_GIVEN
+Reliance Steel	COMPANY_GIVEN
+Abu Dhabi Islamic Bank	COMPANY_GIVEN
+AECOM Technology	COMPANY_GIVEN
+Bank Audi	COMPANY_GIVEN
+Kawasaki Heavy Industries	COMPANY_GIVEN
+Toppan Printing	COMPANY_GIVEN
+Boliden	COMPANY_GIVEN
+Cielo	COMPANY_GIVEN
+Lululemon Athletica	COMPANY_GIVEN
+Empresas CMPC	COMPANY_GIVEN
+Nitto Denko	COMPANY_GIVEN
+Huntsman	COMPANY_GIVEN
+Antofagasta	COMPANY_GIVEN
+Beijing Shougang	COMPANY_GIVEN
+B3	COMPANY_GIVEN
+Realty Income	COMPANY_GIVEN
+Bandai Namco Holdings	COMPANY_GIVEN
+Xinyu Iron & Steel	COMPANY_GIVEN
+Alliant Energy	COMPANY_GIVEN
+Sinotruk Hong Kong	COMPANY_GIVEN
+Geberit	COMPANY_GIVEN
+KT&G	COMPANY_GIVEN
+Spotify Technology	COMPANY_GIVEN
+Yandex NV	COMPANY_GIVEN
+Alexion Pharmaceuticals	COMPANY_GIVEN
+Micro Focus International	COMPANY_GIVEN
+Mitsui OSK Lines	COMPANY_GIVEN
+Cattolica Assicurazioni	COMPANY_GIVEN
+Hyundai Engineering	COMPANY_GIVEN
+Chang Hwa Bank	COMPANY_GIVEN
+China Communications Services	COMPANY_GIVEN
+Bajaj Auto	COMPANY_GIVEN
+Kingfisher	COMPANY_GIVEN
+CIT Group	COMPANY_GIVEN
+Nippon Express	COMPANY_GIVEN
+Dexus	COMPANY_GIVEN
+El Puerto de Liverpool	COMPANY_GIVEN
+Israel Discount Bank	COMPANY_GIVEN
+Maroc Telecom	COMPANY_GIVEN
+MSCI	COMPANY_GIVEN
+Mettler-Toledo International	COMPANY_GIVEN
+Taishin Financial Holdings	COMPANY_GIVEN
+Xerox	COMPANY_GIVEN
+Western Union	COMPANY_GIVEN
+Hang Lung Group	COMPANY_GIVEN
+SEB SA	COMPANY_GIVEN
+Cencosud	COMPANY_GIVEN
+ICA Gruppen	COMPANY_GIVEN
+Jyske Bank	COMPANY_GIVEN
+KPN	COMPANY_GIVEN
+Ceconomy	COMPANY_GIVEN
+Halyk Bank	COMPANY_GIVEN
+Kaisa Group Holdings	COMPANY_GIVEN
+Jiangxi Bank	COMPANY_GIVEN
+Finatis	COMPANY_GIVEN
+Zhongyuan Bank	COMPANY_GIVEN
+Banca MPS	COMPANY_GIVEN
+Lindt & Sprungli	COMPANY_GIVEN
+Dangote Cement	COMPANY_GIVEN
+Epiroc	COMPANY_GIVEN
+Jefferies Financial	COMPANY_GIVEN
+Caesars Entertainment	COMPANY_GIVEN
+Chemours	COMPANY_GIVEN
+Blom Bank	COMPANY_GIVEN
+Daelim Industrial	COMPANY_GIVEN
+HELLA	COMPANY_GIVEN
+Haseko	COMPANY_GIVEN
+ON Semiconductor Corp.	COMPANY_GIVEN
+AMP	COMPANY_GIVEN
+Jabil Circuit	COMPANY_GIVEN
+Noble Energy	COMPANY_GIVEN
+Tech Mahindra	COMPANY_GIVEN
+World Fuel Services	COMPANY_GIVEN
+AutoNation	COMPANY_GIVEN
+CPFL Energia	COMPANY_GIVEN
+KWG Group Holdings	COMPANY_GIVEN
+GS Engineering	COMPANY_GIVEN
+Pearson	COMPANY_GIVEN
+Starwood Property Trust	COMPANY_GIVEN
+General Insurance Corporation Of India	COMPANY_GIVEN
+Hokuhoku Financial Group	COMPANY_GIVEN
+Taylor Wimpey	COMPANY_GIVEN
+Community Health Systems	COMPANY_GIVEN
+SG Holdings	COMPANY_GIVEN
+Vulcan Materials	COMPANY_GIVEN
+Samsung Electro-Mechanics	COMPANY_GIVEN
+Guangzhou Baiyunshan Pharmaceutical Holdings	COMPANY_GIVEN
+News Corp	COMPANY_GIVEN
+Tahoe Group	COMPANY_GIVEN
+Qingdao Rural Commercial Bank	COMPANY_GIVEN
+SBI Holdings	COMPANY_GIVEN
+Almarai	COMPANY_GIVEN
+Frontier Communications	COMPANY_GIVEN
+New York Community Bancorp	COMPANY_GIVEN
+Xiamen Xiangyu	COMPANY_GIVEN
+UGI	COMPANY_GIVEN
+Mowi ASA	COMPANY_GIVEN
+MTU Aero Engines AG	COMPANY_GIVEN
+NiSource	COMPANY_GIVEN
+LEG Immobilien AG	COMPANY_GIVEN
+Hopson Development Holdings	COMPANY_GIVEN
+ServiceNow	COMPANY_GIVEN
+IHI	COMPANY_GIVEN
+Workday	COMPANY_GIVEN
+Alcoa	COMPANY_GIVEN
+Old Dominion Freight Line	COMPANY_GIVEN
+Air Canada	COMPANY_GIVEN
+Wistron	COMPANY_GIVEN
+Citrix Systems	COMPANY_GIVEN
+Tiffany & Co.	COMPANY_GIVEN
+EMS-Chemie Holding	COMPANY_GIVEN
+Banco Comercial Portugues	COMPANY_GIVEN
+Avery Dennison	COMPANY_GIVEN
+Hertz Global Holdings	COMPANY_GIVEN
+First Quantum Minerals	COMPANY_GIVEN
+Symantec	COMPANY_GIVEN
+Times Property Holdings	COMPANY_GIVEN
+Nishi-nippon Financial Holdings	COMPANY_GIVEN
+Kyushu Financial Group	COMPANY_GIVEN
+China Resources Gas Group	COMPANY_GIVEN
+Pan Pacific International Holdings	COMPANY_GIVEN
+Yamaguchi Financial	COMPANY_GIVEN
+NSK	COMPANY_GIVEN
+Hachijuni Bank	COMPANY_GIVEN
+Ajinomoto	COMPANY_GIVEN
+Olympus	COMPANY_GIVEN
+Kansas City Southern	COMPANY_GIVEN
+Gjensidige Forsikring	COMPANY_GIVEN
+Renesas Electronics	COMPANY_GIVEN
+Caltex Australia	COMPANY_GIVEN
+Luzhou Lao Jiao	COMPANY_GIVEN
+Match Group	COMPANY_GIVEN
+SS&C Technologies	COMPANY_GIVEN
+Autodesk	COMPANY_GIVEN
+Sun Pharma Industries	COMPANY_GIVEN
+North Pacific Bank	COMPANY_GIVEN
+Uniqa	COMPANY_GIVEN
+Pirelli	COMPANY_GIVEN
+Alexandria Real Estate Equities	COMPANY_GIVEN
+Banco Davivienda	COMPANY_GIVEN
+Csc Financial	COMPANY_GIVEN
+PBF Energy	COMPANY_GIVEN
+Luxshare Precision Industry	COMPANY_GIVEN
+Minebea	COMPANY_GIVEN
+Rajesh Exports	COMPANY_GIVEN
+Bank of Kyoto	COMPANY_GIVEN
+Align Technology	COMPANY_GIVEN
+PGE Polska Grupa Energetyczna	COMPANY_GIVEN
+Hiroshima Bank	COMPANY_GIVEN
+Zhejiang Longsheng Group	COMPANY_GIVEN
+Fastighets Balder	COMPANY_GIVEN
+INTL FCStone	COMPANY_GIVEN
+Latam Airlines	COMPANY_GIVEN
+BOK Financial	COMPANY_GIVEN
+Quilter	COMPANY_GIVEN
+Essex Property Trust	COMPANY_GIVEN
+Cullen/Frost Bankers	COMPANY_GIVEN
+Guangdong Investment	COMPANY_GIVEN
+China Resources Cement Holdings	COMPANY_GIVEN
+Shimano	COMPANY_GIVEN
+Ares Capital	COMPANY_GIVEN
+77 Bank	COMPANY_GIVEN
+Kangmei Pharmaceutical	COMPANY_GIVEN
+Banque Cantonale Vaudoise	COMPANY_GIVEN
+Chugoku Bank	COMPANY_GIVEN
+Tosoh	COMPANY_GIVEN
+Ultrapar Participacoes	COMPANY_GIVEN
+LG Uplus	COMPANY_GIVEN
+Metropolitan Bank & Trust	COMPANY_GIVEN
+Newell Brands	COMPANY_GIVEN
+Chongqing Changan Auto	COMPANY_GIVEN
+Petro Rabigh	COMPANY_GIVEN
+Tingyi Holding	COMPANY_GIVEN
+SLM	COMPANY_GIVEN
+National Bank of Greece	COMPANY_GIVEN
+Merlin Properties SOCIMI S.A	COMPANY_GIVEN
+SYNNEX	COMPANY_GIVEN
+Copart	COMPANY_GIVEN
+Gunma Bank	COMPANY_GIVEN
+Bank Muscat	COMPANY_GIVEN
+Toll Brothers	COMPANY_GIVEN
+Acciona	COMPANY_GIVEN
+GPT Group	COMPANY_GIVEN
+Shenzhen Mindray Bio-Medical Electronics	COMPANY_GIVEN
+Mr. Cooper Group	COMPANY_GIVEN
+Burlington Stores,	COMPANY_GIVEN
+Piraeus Bank	COMPANY_GIVEN
+Yunnan Baiyao Group	COMPANY_GIVEN
+Companhia Brasileira de Distribuicao	COMPANY_GIVEN
+Erdemir	COMPANY_GIVEN
+Avis Budget Group	COMPANY_GIVEN
+Frasers Property Limited	COMPANY_GIVEN
+Whitbread	COMPANY_GIVEN
+Invitation Homes	COMPANY_GIVEN
+Alpha Bank	COMPANY_GIVEN
+Hyundai Glovis	COMPANY_GIVEN
+Novozymes	COMPANY_GIVEN
+Mizrahi Tefahot Bank	COMPANY_GIVEN
+Wärtsilä	COMPANY_GIVEN
+Foot Locker	COMPANY_GIVEN
+Alaska Air Group	COMPANY_GIVEN
+Square	COMPANY_GIVEN
+Iyo Bank	COMPANY_GIVEN
+Nippon Steel Trading	COMPANY_GIVEN
+China Longyuan Power	COMPANY_GIVEN
+Eurobank Ergasias	COMPANY_GIVEN
+Ralph Lauren	COMPANY_GIVEN
+Deutsche Pfandbriefbank	COMPANY_GIVEN
+Safaricom	COMPANY_GIVEN
+New Hope Liuhe	COMPANY_GIVEN
+Unicaja Banco	COMPANY_GIVEN
+Rite Aid	COMPANY_GIVEN
+Far Eastern New Century	COMPANY_GIVEN
+Industrivarden	COMPANY_GIVEN
+W.P. Carey	COMPANY_GIVEN
+Steel Authority of India	COMPANY_GIVEN
+Everbright Securities	COMPANY_GIVEN
+Wayfair	COMPANY_GIVEN
+Jiangsu Zhongnan Construction Group	COMPANY_GIVEN
+Mercuries & Associates	COMPANY_GIVEN
+Snap-on	COMPANY_GIVEN
+Liuzhou Iron & Steel	COMPANY_GIVEN
+Suzuken	COMPANY_GIVEN
+China Aviation Oil	COMPANY_GIVEN
+China National Chemical	COMPANY_GIVEN
+Nielsen	COMPANY_GIVEN
+Sterling Bancorp	COMPANY_GIVEN
+Pinduoduo	COMPANY_GIVEN
+DGB Financial Group	COMPANY_GIVEN
+Commercial Bank of Qatar	COMPANY_GIVEN
+Avnet	COMPANY_GIVEN
+Viva Energy Group	COMPANY_GIVEN
+Kingboard Holdings	COMPANY_GIVEN
+Moscow Exchange	COMPANY_GIVEN
+Adani Ports & Special Economic Zone	COMPANY_GIVEN
+Great Eagle Holdings	COMPANY_GIVEN
+Cabot Oil & Gas	COMPANY_GIVEN
+BayWa	COMPANY_GIVEN
+Juroku Bank	COMPANY_GIVEN
+Synovus Financial	COMPANY_GIVEN
+Hyakugo Bank	COMPANY_GIVEN
+Fluor	COMPANY_GIVEN
+Cybg	COMPANY_GIVEN
+FinecoBank	COMPANY_GIVEN
+Commercial Bank For Investment & Development Of Vietnam	COMPANY_GIVEN
+Empire	COMPANY_GIVEN
+Hakuhodo DY Holdings	COMPANY_GIVEN
+Rexel	COMPANY_GIVEN
+JG Summit Holdings	COMPANY_GIVEN
+Inner Mongolia Yitai Coal	COMPANY_GIVEN
+Hengan International Group	COMPANY_GIVEN
+ResMed	COMPANY_GIVEN
+Wendel	COMPANY_GIVEN
+Fuyao Glass Industry Group	COMPANY_GIVEN
+Seiko Epson	COMPANY_GIVEN
+Shiga Bank	COMPANY_GIVEN
+Banco de Chile	COMPANY_GIVEN
+Banca Mediolanum	COMPANY_GIVEN
+Hanwa	COMPANY_GIVEN
+Atmos Energy	COMPANY_GIVEN
+IDBI Bank	COMPANY_GIVEN
+Arista Networks	COMPANY_GIVEN
+Burelle	COMPANY_GIVEN
+Martin Marietta Materials	COMPANY_GIVEN
+Metalurgica Gerdau	COMPANY_GIVEN
+Atlassian	COMPANY_GIVEN
+Shopify	COMPANY_GIVEN
+Performance Food Group	COMPANY_GIVEN
+Toho Bank	COMPANY_GIVEN
+First Citizens Bank	COMPANY_GIVEN
+Taiwan Business Bank	COMPANY_GIVEN
+WPG Holdings	COMPANY_GIVEN
+Advanz Pharma	COMPANY_GIVEN
+Tokyu Fudosan	COMPANY_GIVEN
+First Pacific	COMPANY_GIVEN
+Ogaki Kyoritsu Bank	COMPANY_GIVEN
+Vingroup	COMPANY_GIVEN
+Ansys	COMPANY_GIVEN
+SinoPac Financial	COMPANY_GIVEN
+San-In Godo Bank	COMPANY_GIVEN
+Wirecard	COMPANY_GIVEN
+Nanto Bank	COMPANY_GIVEN
+Universal Entertainment	COMPANY_GIVEN
+Mirvac Group	COMPANY_GIVEN
+Grupo Bolivar	COMPANY_GIVEN
+Constellation Software	COMPANY_GIVEN
+Albemarle	COMPANY_GIVEN
+Bank of Xi'an	COMPANY_GIVEN
+Adient	COMPANY_GIVEN
+Zain	COMPANY_GIVEN
+IDEXX Laboratories	COMPANY_GIVEN
+Sansteel Minguang	COMPANY_GIVEN
+RMB Holdings	COMPANY_GIVEN
+Bendigo & Adelaide Bank	COMPANY_GIVEN
+Aozora Bank	COMPANY_GIVEN
+Red Star Macalline Group	COMPANY_GIVEN
+Central Bank of India	COMPANY_GIVEN
+Founder Securities	COMPANY_GIVEN
+Vietin Bank	COMPANY_GIVEN
+Senshu Ikeda Holdings	COMPANY_GIVEN
+Syndicate Bank	COMPANY_GIVEN
+Celltrion	COMPANY_GIVEN
+Inventec	COMPANY_GIVEN
+Orient	COMPANY_GIVEN
+Credito Emiliano	COMPANY_GIVEN
+SDIC Capital	COMPANY_GIVEN
+Indiabulls Housing Finance	COMPANY_GIVEN
+Tokyo Kiraboshi Financial Group	COMPANY_GIVEN
+Aareal Bank	COMPANY_GIVEN
+Sembcorp Industries	COMPANY_GIVEN
+China Zhongwang Holdings	COMPANY_GIVEN
+PacWest Bancorp	COMPANY_GIVEN
+Palo Alto Networks	COMPANY_GIVEN
+NH Investment & Securities	COMPANY_GIVEN
+SBA Communications	COMPANY_GIVEN
+Hyatt Hotels	COMPANY_GIVEN
+Tenneco	COMPANY_GIVEN
+Core-Mark Holding	COMPANY_GIVEN
+Vodafone Idea	COMPANY_GIVEN
+MercadoLibre	COMPANY_GIVEN
+Adyen	COMPANY_GIVEN
+Hanesbrands	COMPANY_GIVEN
+Longi Green Energy Technology	COMPANY_GIVEN
+Barry Callebaut	COMPANY_GIVEN
+Axiata Group	COMPANY_GIVEN
+Banca Popolare di Sondrio	COMPANY_GIVEN
+Liberty Broadband	COMPANY_GIVEN
+Suzano Papel e Celulose	COMPANY_GIVEN
+China Oriental Group	COMPANY_GIVEN
+Sinotrans Ltd.	COMPANY_GIVEN
+Berry Global Group	COMPANY_GIVEN
+President Chain Store	COMPANY_GIVEN
+Juniper Networks	COMPANY_GIVEN
+Canadian Utilities	COMPANY_GIVEN
+CSPC Pharmaceutical Group	COMPANY_GIVEN
+Broadridge Financial	COMPANY_GIVEN
+Chipotle Mexican Grill	COMPANY_GIVEN
+Navistar International	COMPANY_GIVEN
+Bank of Qingdao	COMPANY_GIVEN
+China Railway Signal & Communication	COMPANY_GIVEN
+Liberbank	COMPANY_GIVEN
+Nuernberger Beteiligungs	COMPANY_GIVEN
+Sofina	COMPANY_GIVEN
+Yes Bank	COMPANY_GIVEN
+Muyuan Foodstuff	COMPANY_GIVEN
+Bank of Jiujiang	COMPANY_GIVEN
+China Development Bank Financial Leasing	COMPANY_GIVEN
+United Utilities	COMPANY_GIVEN
+JTEKT	COMPANY_GIVEN
+Keiyo Bank	COMPANY_GIVEN
+Basler Kantonalbank	COMPANY_GIVEN
+Japan Securities	COMPANY_GIVEN
+Commercial International Bank	COMPANY_GIVEN
+Alfa Laval	COMPANY_GIVEN
+China Merchants Expressway Network & Technology Holdings	COMPANY_GIVEN
+Hyakujushi Bank	COMPANY_GIVEN
+Commerce Bank	COMPANY_GIVEN
+Dali Foods Group	COMPANY_GIVEN
+Financial Street Holdings	COMPANY_GIVEN
+Hokkoku Bank	COMPANY_GIVEN
+Asian Paints	COMPANY_GIVEN
+Haidilao International Holding	COMPANY_GIVEN
+Old Republic International	COMPANY_GIVEN
+Oshkosh	COMPANY_GIVEN
+Cemig	COMPANY_GIVEN
+Credit Bank of Moscow	COMPANY_GIVEN
+Fangda Carbon New Material	COMPANY_GIVEN
+Yamada Denki	COMPANY_GIVEN
+Hengyi Petrochemical Co., Ltd.	COMPANY_GIVEN
+Xinhu Zhongbao	COMPANY_GIVEN
+Jaccs	COMPANY_GIVEN
+Zalando	COMPANY_GIVEN
+Informa plc	COMPANY_GIVEN
+Garrett Motion	COMPANY_GIVEN
+Medical Properties Trust	COMPANY_GIVEN
+Nanya Technology	COMPANY_GIVEN
+Sydney Airport	COMPANY_GIVEN
+Kiyo Bank	COMPANY_GIVEN
+International Flavors & Fragrances	COMPANY_GIVEN
+JB Financial Group	COMPANY_GIVEN
+Smurfit Kappa Group	COMPANY_GIVEN
+Fraport	COMPANY_GIVEN
+Piramal Enterprises	COMPANY_GIVEN
+Banque Centrale Populaire	COMPANY_GIVEN
+FMC	COMPANY_GIVEN
+Konica Minolta Business Solutions	COMPANY_GIVEN
+Sonova Holding	COMPANY_GIVEN
+F.N.B.	COMPANY_GIVEN
+Fibra Uno	COMPANY_GIVEN
+Lotte	COMPANY_GIVEN
+Musashino Bank	COMPANY_GIVEN
+Migdal Insurance	COMPANY_GIVEN
+Chimera Investment	COMPANY_GIVEN
+Sabesp	COMPANY_GIVEN
+Shanghai Ganglian E-Commerce Holdings	COMPANY_GIVEN
+EFG International	COMPANY_GIVEN
+Cleveland-cliffs	COMPANY_GIVEN
+Saudi Arabian Fertilizers	COMPANY_GIVEN
+Splunk	COMPANY_GIVEN
+Lendlease Group	COMPANY_GIVEN
+Murphy USA	COMPANY_GIVEN
+Yageo Corporation	COMPANY_GIVEN
+Bureau Veritas	COMPANY_GIVEN
+Saipem	COMPANY_GIVEN
+United Natural Foods,	COMPANY_GIVEN
+Luzerner Kantonalbank	COMPANY_GIVEN
+AU Optronics	COMPANY_GIVEN
+Marks & Spencer	COMPANY_GIVEN
+Dixons Carphone	COMPANY_GIVEN
+Shoprite Holdings	COMPANY_GIVEN
+Unisplendour	COMPANY_GIVEN
+Veeva Systems	COMPANY_GIVEN
+Allahabad Bank	COMPANY_GIVEN
+Credit Acceptance	COMPANY_GIVEN
+BBVA Banco Continental	COMPANY_GIVEN
+Indian Bank	COMPANY_GIVEN
+China Agri-Industries	COMPANY_GIVEN
+Owens Corning	COMPANY_GIVEN
+LiveRamp Holdings	COMPANY_GIVEN
+Royal Mail	COMPANY_GIVEN
+Cadence Design	COMPANY_GIVEN
+Makita	COMPANY_GIVEN
+Nanjing Iron & Steel	COMPANY_GIVEN
+United Aircraft	COMPANY_GIVEN
+Extra Space Storage	COMPANY_GIVEN
+Ipsen	COMPANY_GIVEN
+Zebra Technologies	COMPANY_GIVEN
+H Lundbeck	COMPANY_GIVEN
+Andhra Bank	COMPANY_GIVEN
+Bank of Queensland	COMPANY_GIVEN
+Air Lease	COMPANY_GIVEN
+Ronshine China Holdings	COMPANY_GIVEN
+AmBank Group	COMPANY_GIVEN
+Prysmian	COMPANY_GIVEN
+VEON	COMPANY_GIVEN
+San ju San Financial Group	COMPANY_GIVEN
+Zhejiang Chint Electrics	COMPANY_GIVEN
+Autoliv	COMPANY_GIVEN
+Sensata Technologies Holding	COMPANY_GIVEN
+CoStar Group	COMPANY_GIVEN
+EasyJet	COMPANY_GIVEN
+Sears Holdings	COMPANY_GIVEN
+Western Alliance Bancorp.	COMPANY_GIVEN
+Meritz Securities	COMPANY_GIVEN
+Cimarex Energy	COMPANY_GIVEN
+VICI Properties	COMPANY_GIVEN
+FIBI Holdings	COMPANY_GIVEN
+Oriental Bank of Commerce	COMPANY_GIVEN
+BJ's Wholesale Club	COMPANY_GIVEN
+Bank of Nagoya	COMPANY_GIVEN
+Grupo De Inversiones Suramericana	COMPANY_GIVEN
+CPI Property Group.	COMPANY_GIVEN
+IBERIABANK	COMPANY_GIVEN
+Sino Land	COMPANY_GIVEN
+China Petroleum Engineering	COMPANY_GIVEN
+Nomura Research Institute	COMPANY_GIVEN
+Nippon Paint	COMPANY_GIVEN
+Thomas Cook Group	COMPANY_GIVEN
+Tomony Holdings	COMPANY_GIVEN
+Isetan Mitsukoshi Holdings	COMPANY_GIVEN
+Toyota Boshoku	COMPANY_GIVEN
+Want Want China	COMPANY_GIVEN
+F5 Networks	COMPANY_GIVEN
+Innolux	COMPANY_GIVEN
+Vipshop Holdings	COMPANY_GIVEN
+Keysight Technologies	COMPANY_GIVEN
+iQIYI	COMPANY_GIVEN
+Tongling Nonferrous Metals	COMPANY_GIVEN
+Laurentian Bank	COMPANY_GIVEN
+Ramsay Health Care	COMPANY_GIVEN
+Hero Motocorp	COMPANY_GIVEN
+Samsung Securities	COMPANY_GIVEN
+SK Networks	COMPANY_GIVEN
+Yuexiu Property Co.	COMPANY_GIVEN
+Synnex Technology Intl	COMPANY_GIVEN
+Li & Fung	COMPANY_GIVEN
+Jointown Pharmaceutical Group	COMPANY_GIVEN
+Kuwait Projects	COMPANY_GIVEN
+Land Securities Group	COMPANY_GIVEN
+Lyft	COMPANY_GIVEN
+Corporation Bank	COMPANY_GIVEN
+Sunny Optical Technology Group	COMPANY_GIVEN
+Delek Group	COMPANY_GIVEN
+Sichuan Changhong Electric	COMPANY_GIVEN
+Wintrust Financial	COMPANY_GIVEN
+Indian Overseas Bank	COMPANY_GIVEN
+RusHydro	COMPANY_GIVEN
+AAC Technologies Holdings	COMPANY_GIVEN
+Associated Banc-Corp	COMPANY_GIVEN
+Burberry Group	COMPANY_GIVEN
+Catcher Technology	COMPANY_GIVEN
+Zenith Bank	COMPANY_GIVEN
+Grupo Carso	COMPANY_GIVEN
+Marvell Technology Group	COMPANY_GIVEN
+St. Galler Kantonalbank	COMPANY_GIVEN
+Lundbergs	COMPANY_GIVEN
+Sumec Corporation	COMPANY_GIVEN
+Berkeley Group Holdings	COMPANY_GIVEN
+Inchcape	COMPANY_GIVEN
+Asustek Computer	COMPANY_GIVEN
+Digital China Group	COMPANY_GIVEN
+ISS	COMPANY_GIVEN
+AVIC International Holdings	COMPANY_GIVEN
+Goldcorp	COMPANY_GIVEN
+Booz Allen Hamilton Holding	COMPANY_GIVEN
+Drilling Company of 1972	COMPANY_GIVEN
+Canadian Apartment Properties Real Estate Investment Trust	COMPANY_GIVEN
+Kesko	COMPANY_GIVEN
+Securitas	COMPANY_GIVEN
+Bid	COMPANY_GIVEN
+Lanxess	COMPANY_GIVEN
+Nippon Paper Industries	COMPANY_GIVEN
+CBOE Global Markets	COMPANY_GIVEN
+Saras	COMPANY_GIVEN
+Daily Mail & General Trust	COMPANY_GIVEN
+Mitsubishi Gas Chemical Company,	COMPANY_GIVEN
+Thanachart Capital	COMPANY_GIVEN
+Korea Zinc	COMPANY_GIVEN
+Bank OZK	COMPANY_GIVEN
+Grupa LOTOS	COMPANY_GIVEN
+Snap	COMPANY_GIVEN
+Taiwan Cement	COMPANY_GIVEN
+TP ICAP	COMPANY_GIVEN
+IDEX	COMPANY_GIVEN
+Thai Oil	COMPANY_GIVEN
+Bed Bath & Beyond	COMPANY_GIVEN
+Incyte	COMPANY_GIVEN
+Fuyo General Lease	COMPANY_GIVEN
+JC Penney	COMPANY_GIVEN
+3D PLM Software	COMPANY_GIVEN
+3i Infotech	COMPANY_GIVEN
+AAPC India Hotel Management	COMPANY_GIVEN
+ACC	COMPANY_GIVEN
+ACT Television	COMPANY_GIVEN
+ADP	COMPANY_GIVEN
+AIG Analytics & Services	COMPANY_GIVEN
+ANG INDUSTRIES	COMPANY_GIVEN
+ANI Technologies	COMPANY_GIVEN
+ANZ Support Services	COMPANY_GIVEN
+ASAP Info Systems	COMPANY_GIVEN
+ASM Technologies	COMPANY_GIVEN
+AT&T	COMPANY_GIVEN
+AVEVA Software	COMPANY_GIVEN
+AXA Technology Services	COMPANY_GIVEN
+AXIS IT & T	COMPANY_GIVEN
+Abbott Healthcare	COMPANY_GIVEN
+Accel Frontline	COMPANY_GIVEN
+Accenture	COMPANY_GIVEN
+Adani Enterprises	COMPANY_GIVEN
+Aditi Technologies	COMPANY_GIVEN
+Aditya Birla Group	COMPANY_GIVEN
+Aditya Birla Retail	COMPANY_GIVEN
+Adlabs Entertainment	COMPANY_GIVEN
+Adobe Systems	COMPANY_GIVEN
+Aegis	COMPANY_GIVEN
+Aegon Religare	COMPANY_GIVEN
+African Commodities DMCC	COMPANY_GIVEN
+Agilis International	COMPANY_GIVEN
+Agility	COMPANY_GIVEN
+AgreeYa Mobility	COMPANY_GIVEN
+Agreeya Solutions	COMPANY_GIVEN
+AirWatch Technologies	COMPANY_GIVEN
+Aircel	COMPANY_GIVEN
+Ajax Fiori	COMPANY_GIVEN
+Akamai	COMPANY_GIVEN
+Akamai Technologies	COMPANY_GIVEN
+Alcatel-Lucent	COMPANY_GIVEN
+Alembic Pharma	COMPANY_GIVEN
+Alere Medical	COMPANY_GIVEN
+Alert Enterprise	COMPANY_GIVEN
+All Services Global	COMPANY_GIVEN
+Alliance Global Services	COMPANY_GIVEN
+Allianz-AMOS	COMPANY_GIVEN
+Allianz Cornhill	COMPANY_GIVEN
+Allied Digital Services	COMPANY_GIVEN
+Allscripts	COMPANY_GIVEN
+Allstate Solutions	COMPANY_GIVEN
+Alstom Transport	COMPANY_GIVEN
+Altair Engineering	COMPANY_GIVEN
+Altimetrik	COMPANY_GIVEN
+Altisource Business Solutions	COMPANY_GIVEN
+Amadeus	COMPANY_GIVEN
+Amadeus Software Labs	COMPANY_GIVEN
+Amar Ujala	COMPANY_GIVEN
+Amarprakash Developers	COMPANY_GIVEN
+Amazon Development Centre	COMPANY_GIVEN
+Ambuja Cements	COMPANY_GIVEN
+Amdocs	COMPANY_GIVEN
+American Express	COMPANY_GIVEN
+Ameriprise	COMPANY_GIVEN
+Amicorp Group	COMPANY_GIVEN
+Amity University	COMPANY_GIVEN
+Ample Technologies	COMPANY_GIVEN
+Anand Automotive	COMPANY_GIVEN
+AnandRathi	COMPANY_GIVEN
+Anchor Electricals	COMPANY_GIVEN
+Andhra Pradesh Paper Mills	COMPANY_GIVEN
+Angel Broking	COMPANY_GIVEN
+Angelique Intl.	COMPANY_GIVEN
+Ansal Housing	COMPANY_GIVEN
+Ansal Properties	COMPANY_GIVEN
+Ansys India	COMPANY_GIVEN
+Aon Hewitt	COMPANY_GIVEN
+Aparna Constructions	COMPANY_GIVEN
+Apeejay Stya Group	COMPANY_GIVEN
+Apex	COMPANY_GIVEN
+Apollo Munich	COMPANY_GIVEN
+Apotex Research	COMPANY_GIVEN
+Applied Materials	COMPANY_GIVEN
+Appster pty	COMPANY_GIVEN
+Aptech	COMPANY_GIVEN
+Aricent Technologies	COMPANY_GIVEN
+Aristocrat Technologies	COMPANY_GIVEN
+Arris India	COMPANY_GIVEN
+Arrow Electronics	COMPANY_GIVEN
+Arvind	COMPANY_GIVEN
+Ascent	COMPANY_GIVEN
+Ascent Infotech	COMPANY_GIVEN
+Asian Paints	COMPANY_GIVEN
+Atkins Global	COMPANY_GIVEN
+Atlas Copco	COMPANY_GIVEN
+Atlas Jewellery	COMPANY_GIVEN
+Atos	COMPANY_GIVEN
+Atrenta India	COMPANY_GIVEN
+Aurobindo Pharma	COMPANY_GIVEN
+Avantha Business Solutions	COMPANY_GIVEN
+Avaya	COMPANY_GIVEN
+Aviva Life Insurance	COMPANY_GIVEN
+Avvas Infotech	COMPANY_GIVEN
+Axis Bank	COMPANY_GIVEN
+BA Continuum	COMPANY_GIVEN
+BBC Heart Care	COMPANY_GIVEN
+BCG	COMPANY_GIVEN
+BMC Software	COMPANY_GIVEN
+BPTP	COMPANY_GIVEN
+BSCPL Infrastructure	COMPANY_GIVEN
+BT	COMPANY_GIVEN
+BT e-Serv	COMPANY_GIVEN
+BYD Electronics	COMPANY_GIVEN
+Bahwan Cyber Tek	COMPANY_GIVEN
+Bahwan Engineering Group	COMPANY_GIVEN
+Bajaj Allianz Gen Insurance	COMPANY_GIVEN
+Bajaj Allianz Life Insurance	COMPANY_GIVEN
+Bajaj Auto	COMPANY_GIVEN
+Bajaj Auto Finance	COMPANY_GIVEN
+Bajaj Capital	COMPANY_GIVEN
+Bajaj Electricals	COMPANY_GIVEN
+Bajaj Hindusthan	COMPANY_GIVEN
+Bapco	COMPANY_GIVEN
+Barclays Shared Services	COMPANY_GIVEN
+Barclays Technology	COMPANY_GIVEN
+Bard India Healthcare	COMPANY_GIVEN
+Bata	COMPANY_GIVEN
+Bausch And Lomb	COMPANY_GIVEN
+Baxter	COMPANY_GIVEN
+Bebo Technologies	COMPANY_GIVEN
+Bentley Systems	COMPANY_GIVEN
+Berger Paints	COMPANY_GIVEN
+Bharat Hotels	COMPANY_GIVEN
+Bharti AXA Gen Insurance	COMPANY_GIVEN
+Bharti AXA Life Insurance	COMPANY_GIVEN
+Bharti Airtel	COMPANY_GIVEN
+Bharti Infratel	COMPANY_GIVEN
+Bharti Walmart	COMPANY_GIVEN
+Bigshoebazaar	COMPANY_GIVEN
+Bikanervala Foods	COMPANY_GIVEN
+Bilt Paper B.V.	COMPANY_GIVEN
+Biocon	COMPANY_GIVEN
+Birlasoft	COMPANY_GIVEN
+Blue Dart Express	COMPANY_GIVEN
+Blue Star	COMPANY_GIVEN
+Bombay Stock Exchange	COMPANY_GIVEN
+BookMyShow	COMPANY_GIVEN
+Bosch	COMPANY_GIVEN
+Bosch India Software	COMPANY_GIVEN
+Brahmaputra Group	COMPANY_GIVEN
+Brillio Technologies	COMPANY_GIVEN
+Britannia Industries	COMPANY_GIVEN
+British Telecom	COMPANY_GIVEN
+Broadcom	COMPANY_GIVEN
+Broadridge Financial Solution	COMPANY_GIVEN
+Brocade Comm. Systems	COMPANY_GIVEN
+Brunel	COMPANY_GIVEN
+Bureau Veritas	COMPANY_GIVEN
+C&S Electric	COMPANY_GIVEN
+C.Krishniah Chetty Sons	COMPANY_GIVEN
+CBay Systems	COMPANY_GIVEN
+CEAT Tyres	COMPANY_GIVEN
+CGI Group Inc.	COMPANY_GIVEN
+CH2M	COMPANY_GIVEN
+CH2M Hill	COMPANY_GIVEN
+CLAAS	COMPANY_GIVEN
+CMC	COMPANY_GIVEN
+CMS Info Systems	COMPANY_GIVEN
+CNO IT services India	COMPANY_GIVEN
+CPA Global Support	COMPANY_GIVEN
+CPM India Sales	COMPANY_GIVEN
+CSC	COMPANY_GIVEN
+CSG International	COMPANY_GIVEN
+CSS Corp	COMPANY_GIVEN
+CTCI Group	COMPANY_GIVEN
+Cactus Communications	COMPANY_GIVEN
+Cadence	COMPANY_GIVEN
+Cadila Healthcare	COMPANY_GIVEN
+Cadila Pharmaceuticals	COMPANY_GIVEN
+Café Coffee Day	COMPANY_GIVEN
+California Software	COMPANY_GIVEN
+Calsoft Labs	COMPANY_GIVEN
+Canadian Natural	COMPANY_GIVEN
+Capco Technologies	COMPANY_GIVEN
+Capgemini	COMPANY_GIVEN
+Capita	COMPANY_GIVEN
+Capital First	COMPANY_GIVEN
+Capital IQ	COMPANY_GIVEN
+Cargill	COMPANY_GIVEN
+Carlson Wagonlit Travel	COMPANY_GIVEN
+Caterpillar	COMPANY_GIVEN
+CavinKare	COMPANY_GIVEN
+Celebi Holding	COMPANY_GIVEN
+Centum Learning	COMPANY_GIVEN
+Centurylink Technologies	COMPANY_GIVEN
+Cerner Corporation	COMPANY_GIVEN
+Chemplast Sanmar	COMPANY_GIVEN
+Chetu	COMPANY_GIVEN
+Ciber Global Solutions	COMPANY_GIVEN
+Ciena Corporation	COMPANY_GIVEN
+Cipla	COMPANY_GIVEN
+Cisco Systems	COMPANY_GIVEN
+Citius IT Solutions	COMPANY_GIVEN
+Citrix	COMPANY_GIVEN
+Claris Lifesciences	COMPANY_GIVEN
+Clear2Pay	COMPANY_GIVEN
+Cleartrip	COMPANY_GIVEN
+Cogent Data Solutions	COMPANY_GIVEN
+Cognizant Technology	COMPANY_GIVEN
+Collabera Technologies	COMPANY_GIVEN
+Columbia Asia	COMPANY_GIVEN
+Compass Group	COMPANY_GIVEN
+Compuage Infocom	COMPANY_GIVEN
+Computer Age Services	COMPANY_GIVEN
+Comverse Network	COMPANY_GIVEN
+Concentrix Daksh	COMPANY_GIVEN
+Concentrix Technologies	COMPANY_GIVEN
+Contact KOREA	COMPANY_GIVEN
+Continental Automotive	COMPANY_GIVEN
+Continental Engineering	COMPANY_GIVEN
+Convergys	COMPANY_GIVEN
+Copal Research	COMPANY_GIVEN
+Corbus	COMPANY_GIVEN
+Corporate Manpower	COMPANY_GIVEN
+Cosmic Structures	COMPANY_GIVEN
+Cox & Kings	COMPANY_GIVEN
+Cummins	COMPANY_GIVEN
+Cvent	COMPANY_GIVEN
+Cybage Software	COMPANY_GIVEN
+Cyient	COMPANY_GIVEN
+Cypress Semiconductor	COMPANY_GIVEN
+DCM Shriram	COMPANY_GIVEN
+DHFL Pramarica Life	COMPANY_GIVEN
+DHL	COMPANY_GIVEN
+DHL Lemuir Logistics	COMPANY_GIVEN
+DLF	COMPANY_GIVEN
+DS Group	COMPANY_GIVEN
+Dabur India	COMPANY_GIVEN
+Dainik Bhaskar Group	COMPANY_GIVEN
+Damco Solutions	COMPANY_GIVEN
+Dar Al Riyadh	COMPANY_GIVEN
+Datamatics Financial	COMPANY_GIVEN
+Datamatics Ltd	COMPANY_GIVEN
+Datamatics Software	COMPANY_GIVEN
+Deepak Fertiliser	COMPANY_GIVEN
+Dell	COMPANY_GIVEN
+Dell International	COMPANY_GIVEN
+Deloitte	COMPANY_GIVEN
+Deloitte Shared Services	COMPANY_GIVEN
+Delta Corp	COMPANY_GIVEN
+Delta Technology	COMPANY_GIVEN
+Designco	COMPANY_GIVEN
+Dewan Housing Finance	COMPANY_GIVEN
+Dhanlaxmi Bank	COMPANY_GIVEN
+Dimension Data	COMPANY_GIVEN
+Directi	COMPANY_GIVEN
+DishTV	COMPANY_GIVEN
+Doosan Power Systems	COMPANY_GIVEN
+Dr. Reddys Labs	COMPANY_GIVEN
+Dreamz Infra	COMPANY_GIVEN
+Dresser-Rand	COMPANY_GIVEN
+E I DuPont	COMPANY_GIVEN
+EA Games	COMPANY_GIVEN
+EMC Data Storage	COMPANY_GIVEN
+EMC Software Services	COMPANY_GIVEN
+EXFO Electro-Optical	COMPANY_GIVEN
+EXL Services.com	COMPANY_GIVEN
+Earth Infrastructures	COMPANY_GIVEN
+Eaton Technologies	COMPANY_GIVEN
+Ebusinessware	COMPANY_GIVEN
+Ecomnets Technologies	COMPANY_GIVEN
+Educomp Solutions	COMPANY_GIVEN
+Elecon Engineering	COMPANY_GIVEN
+Eleme Petrochemicals	COMPANY_GIVEN
+Eli Research	COMPANY_GIVEN
+Elico Health Care	COMPANY_GIVEN
+Embassy of Saudi Arabia	COMPANY_GIVEN
+Emco	COMPANY_GIVEN
+Emcure Pharmaceutical	COMPANY_GIVEN
+Emerson Information	COMPANY_GIVEN
+Emerson Innovation	COMPANY_GIVEN
+Encore Capital Group	COMPANY_GIVEN
+Enercon	COMPANY_GIVEN
+Enrich IT Services	COMPANY_GIVEN
+Era Group	COMPANY_GIVEN
+Ericsson	COMPANY_GIVEN
+Ernst & Young	COMPANY_GIVEN
+Escorts	COMPANY_GIVEN
+Esolser	COMPANY_GIVEN
+Espire Infolabs	COMPANY_GIVEN
+Essar	COMPANY_GIVEN
+Eureka Forbes	COMPANY_GIVEN
+Evalueserve	COMPANY_GIVEN
+Everest Industries	COMPANY_GIVEN
+ExcelaCom Technologies	COMPANY_GIVEN
+Exide Industries	COMPANY_GIVEN
+Exide Life Insurance	COMPANY_GIVEN
+Expedia	COMPANY_GIVEN
+Extramarks.com	COMPANY_GIVEN
+F.L.Smidth	COMPANY_GIVEN
+FAG Bearings India Ltd	COMPANY_GIVEN
+FCS Software	COMPANY_GIVEN
+FIITJEE	COMPANY_GIVEN
+FIS Global Business	COMPANY_GIVEN
+FLAME University	COMPANY_GIVEN
+FNF BPO Services	COMPANY_GIVEN
+Facebook	COMPANY_GIVEN
+FactSet Systems India	COMPANY_GIVEN
+Fast Track Software	COMPANY_GIVEN
+Fedders Lloyd Corp.	COMPANY_GIVEN
+Feedback Infra	COMPANY_GIVEN
+Fidelity Business	COMPANY_GIVEN
+Fidelity India	COMPANY_GIVEN
+Fidelity Investments	COMPANY_GIVEN
+Financial Software	COMPANY_GIVEN
+Finecure Pharma	COMPANY_GIVEN
+Finolex	COMPANY_GIVEN
+Firestar Diamond	COMPANY_GIVEN
+First American Corp.	COMPANY_GIVEN
+Fiserv	COMPANY_GIVEN
+Flextronics	COMPANY_GIVEN
+Flipkart	COMPANY_GIVEN
+Flora Hospitality	COMPANY_GIVEN
+Fluor Daniel	COMPANY_GIVEN
+Focus Energy	COMPANY_GIVEN
+Food Panda	COMPANY_GIVEN
+Ford	COMPANY_GIVEN
+Fortis Healthcare	COMPANY_GIVEN
+Forun Express	COMPANY_GIVEN
+Fosroc Chemicals	COMPANY_GIVEN
+Foton Motors	COMPANY_GIVEN
+Franchise India	COMPANY_GIVEN
+Frankfinn	COMPANY_GIVEN
+Frontier International	COMPANY_GIVEN
+Frontline Consulting	COMPANY_GIVEN
+Fun Multiplex	COMPANY_GIVEN
+Future Retail	COMPANY_GIVEN
+G-Cube Webwide	COMPANY_GIVEN
+G4S Corporate Services	COMPANY_GIVEN
+GAP International	COMPANY_GIVEN
+GE	COMPANY_GIVEN
+GE Capital BPM	COMPANY_GIVEN
+GE IIPL	COMPANY_GIVEN
+GE India Technology	COMPANY_GIVEN
+GEIIPL-Division MSD	COMPANY_GIVEN
+GMR Infrastructure	COMPANY_GIVEN
+GS Engg & Construction	COMPANY_GIVEN
+GVK Biosciences	COMPANY_GIVEN
+Gammon	COMPANY_GIVEN
+General Motors	COMPANY_GIVEN
+General Motors India	COMPANY_GIVEN
+Genpact	COMPANY_GIVEN
+Geometric	COMPANY_GIVEN
+Global Edge Software	COMPANY_GIVEN
+Global Energy	COMPANY_GIVEN
+Global Health	COMPANY_GIVEN
+Global Talent Track	COMPANY_GIVEN
+GlobalEdge Software	COMPANY_GIVEN
+GlobalLogic Technologies	COMPANY_GIVEN
+Globallogic	COMPANY_GIVEN
+Go Airlines	COMPANY_GIVEN
+Godfrey Phillips	COMPANY_GIVEN
+Godrej	COMPANY_GIVEN
+Godrej Infotech	COMPANY_GIVEN
+Godrej and Boyce Mfg.	COMPANY_GIVEN
+GoldSquare Sales	COMPANY_GIVEN
+Goldman Sachs	COMPANY_GIVEN
+Granada Services	COMPANY_GIVEN
+Greenage Griha Nirmaan	COMPANY_GIVEN
+Greenpeace India	COMPANY_GIVEN
+Groupon	COMPANY_GIVEN
+H.R Johnson	COMPANY_GIVEN
+HCL Infosystems	COMPANY_GIVEN
+HCL Technologies	COMPANY_GIVEN
+HDB Financial Services Ltd	COMPANY_GIVEN
+HDFC Bank	COMPANY_GIVEN
+HDFC ERGO	COMPANY_GIVEN
+HDFC Std Life	COMPANY_GIVEN
+HSBC Electronic Data	COMPANY_GIVEN
+HSBC Investdirect	COMPANY_GIVEN
+HTC Global Services	COMPANY_GIVEN
+Hackett Group	COMPANY_GIVEN
+Haier Appliances	COMPANY_GIVEN
+Harbinger Systems	COMPANY_GIVEN
+Harman International	COMPANY_GIVEN
+Headstrong	COMPANY_GIVEN
+Headstrong (Gempact)	COMPANY_GIVEN
+HealthAsyst	COMPANY_GIVEN
+Helios Matheson	COMPANY_GIVEN
+Here	COMPANY_GIVEN
+Heritage Foods	COMPANY_GIVEN
+Hero Corp. Services	COMPANY_GIVEN
+Hettich	COMPANY_GIVEN
+Hewitt Associates	COMPANY_GIVEN
+Hewlett-Packard	COMPANY_GIVEN
+Hexaware BPS	COMPANY_GIVEN
+Hexaware Technologies	COMPANY_GIVEN
+Hi-Tech Outsourcing	COMPANY_GIVEN
+Hilton Hotel Management	COMPANY_GIVEN
+Himachal Futuristic	COMPANY_GIVEN
+Hindalco Industries	COMPANY_GIVEN
+Hinduja Global	COMPANY_GIVEN
+Hindustan Coca Cola	COMPANY_GIVEN
+Hindustan Construction	COMPANY_GIVEN
+Hindustan Dorr Oliver	COMPANY_GIVEN
+Hindustan Latex	COMPANY_GIVEN
+Hindustan Unilever	COMPANY_GIVEN
+Hiranandani Developers	COMPANY_GIVEN
+Hitachi Consulting	COMPANY_GIVEN
+Homeshop18	COMPANY_GIVEN
+Homeward Residential	COMPANY_GIVEN
+Honda Cars	COMPANY_GIVEN
+Honda Motorcycle	COMPANY_GIVEN
+Honeywell	COMPANY_GIVEN
+Honeywell Technology	COMPANY_GIVEN
+Hospira Healthcare	COMPANY_GIVEN
+Huawei Technologies	COMPANY_GIVEN
+Huawei Telecomm.	COMPANY_GIVEN
+Hurix Systems	COMPANY_GIVEN
+Hyatt Regency Delhi	COMPANY_GIVEN
+Hyundai Motor	COMPANY_GIVEN
+IAP Company	COMPANY_GIVEN
+IBM India	COMPANY_GIVEN
+ICICI Bank	COMPANY_GIVEN
+ICICI Lombard	COMPANY_GIVEN
+ICICI Prudential	COMPANY_GIVEN
+ICON Clinical Research	COMPANY_GIVEN
+ICT Consultants	COMPANY_GIVEN
+IDBI Capital	COMPANY_GIVEN
+IDBI Federal Life	COMPANY_GIVEN
+IDFC	COMPANY_GIVEN
+IGATE	COMPANY_GIVEN
+IGT Solutions	COMPANY_GIVEN
+IHG IT Services	COMPANY_GIVEN
+IHS	COMPANY_GIVEN
+IIPM	COMPANY_GIVEN
+IKS Health	COMPANY_GIVEN
+ION Trading	COMPANY_GIVEN
+IONNOR Solutions	COMPANY_GIVEN
+IPsoft	COMPANY_GIVEN
+ISGEC Heavy Engg	COMPANY_GIVEN
+ITC	COMPANY_GIVEN
+ITC Hotels	COMPANY_GIVEN
+ITC Infotech	COMPANY_GIVEN
+ITM Group	COMPANY_GIVEN
+IVRCL	COMPANY_GIVEN
+Idea Cellular	COMPANY_GIVEN
+Idha Soft	COMPANY_GIVEN
+Impetus Infotech	COMPANY_GIVEN
+Inatech Infosolutions	COMPANY_GIVEN
+Indecomm Technology	COMPANY_GIVEN
+Indegene LifeSystems	COMPANY_GIVEN
+India Glycols	COMPANY_GIVEN
+India Infoline	COMPANY_GIVEN
+India Yamaha Motor	COMPANY_GIVEN
+IndiaMART	COMPANY_GIVEN
+Indiabulls Real Estate	COMPANY_GIVEN
+Indiabulls Technology	COMPANY_GIVEN
+Indian Hotels Company	COMPANY_GIVEN
+Indian Immunologicals	COMPANY_GIVEN
+Inditex	COMPANY_GIVEN
+Indus Towers	COMPANY_GIVEN
+IndusInd Bank	COMPANY_GIVEN
+Infineon	COMPANY_GIVEN
+Infinite Computing	COMPANY_GIVEN
+Infinite Solutions	COMPANY_GIVEN
+Infiniti Retail	COMPANY_GIVEN
+Info Edge	COMPANY_GIVEN
+Infocom Network	COMPANY_GIVEN
+Infogain	COMPANY_GIVEN
+Infogix	COMPANY_GIVEN
+Informatica	COMPANY_GIVEN
+Information Systems RC	COMPANY_GIVEN
+Infosys BPO	COMPANY_GIVEN
+Infosys Technologies	COMPANY_GIVEN
+Ing Vysya Bank	COMPANY_GIVEN
+Ingram Micro	COMPANY_GIVEN
+Intas Pharmaceuticals	COMPANY_GIVEN
+Intec Capital	COMPANY_GIVEN
+Intel Technology	COMPANY_GIVEN
+Intellect Design Arena	COMPANY_GIVEN
+Intelliswift Software	COMPANY_GIVEN
+InterContinental Hotels	COMPANY_GIVEN
+InterGlobe Technologies	COMPANY_GIVEN
+Interglobe Enterprises	COMPANY_GIVEN
+International Tractors	COMPANY_GIVEN
+Intuit	COMPANY_GIVEN
+Invensys	COMPANY_GIVEN
+Invesco	COMPANY_GIVEN
+Investors Clinic	COMPANY_GIVEN
+IonIdea	COMPANY_GIVEN
+Ireo	COMPANY_GIVEN
+Iris Software	COMPANY_GIVEN
+Ishi Systems Inc.	COMPANY_GIVEN
+JDA Software	COMPANY_GIVEN
+JHM Interstate Hotels	COMPANY_GIVEN
+JK Technosoft	COMPANY_GIVEN
+JLL Meghraj	COMPANY_GIVEN
+JPMorgan	COMPANY_GIVEN
+Jade e services	COMPANY_GIVEN
+Jaguar Overseas	COMPANY_GIVEN
+Jaiprakash Associates	COMPANY_GIVEN
+Jasper Infotech	COMPANY_GIVEN
+Jindal Aluminium	COMPANY_GIVEN
+Jindal Drilling	COMPANY_GIVEN
+Jindal Saw	COMPANY_GIVEN
+Jindal Stainless	COMPANY_GIVEN
+Jindal Steel Power	COMPANY_GIVEN
+Jubilant Foodworks	COMPANY_GIVEN
+Jubilant Life Sciences	COMPANY_GIVEN
+Juniper Networks	COMPANY_GIVEN
+K Raheja Corp	COMPANY_GIVEN
+KDK Group	COMPANY_GIVEN
+KPIT Technologies	COMPANY_GIVEN
+KPMG	COMPANY_GIVEN
+KSB Pumps	COMPANY_GIVEN
+Karvy Stock Broking	COMPANY_GIVEN
+Kennametal	COMPANY_GIVEN
+Kingfisher Airlines	COMPANY_GIVEN
+Kirloskar	COMPANY_GIVEN
+Kotak Life Insurance	COMPANY_GIVEN
+Kotak Securities	COMPANY_GIVEN
+Kronos Solutions	COMPANY_GIVEN
+L&T Infotech	COMPANY_GIVEN
+LG Electronics	COMPANY_GIVEN
+LG Soft	COMPANY_GIVEN
+LOREAL	COMPANY_GIVEN
+LPU	COMPANY_GIVEN
+LSC Infratech	COMPANY_GIVEN
+LSI India R&D	COMPANY_GIVEN
+Labh Group	COMPANY_GIVEN
+Lafarge	COMPANY_GIVEN
+Lahmeyer Group	COMPANY_GIVEN
+Lakshmi Machine Works	COMPANY_GIVEN
+Lanco Infratech	COMPANY_GIVEN
+Lanco Power	COMPANY_GIVEN
+Landis Gyr	COMPANY_GIVEN
+Larsen & Toubro	COMPANY_GIVEN
+Lavya Associates	COMPANY_GIVEN
+Leighton Holdings Group	COMPANY_GIVEN
+Leyland Deere	COMPANY_GIVEN
+Lifestyle	COMPANY_GIVEN
+Lionbridge Technologies	COMPANY_GIVEN
+Lodha Group	COMPANY_GIVEN
+Logica	COMPANY_GIVEN
+Lupin	COMPANY_GIVEN
+MAADEN	COMPANY_GIVEN
+MEIL	COMPANY_GIVEN
+MFI Group	COMPANY_GIVEN
+MSCI	COMPANY_GIVEN
+MSN Laboratories	COMPANY_GIVEN
+MSPL	COMPANY_GIVEN
+MTS	COMPANY_GIVEN
+Macquarie Group	COMPANY_GIVEN
+Maersk Group	COMPANY_GIVEN
+Mahindra Automotive	COMPANY_GIVEN
+Mahindra Engg Services	COMPANY_GIVEN
+Mahindra Engineering Services	COMPANY_GIVEN
+Mahindra Logistics	COMPANY_GIVEN
+Mahindra Tractors	COMPANY_GIVEN
+Maintec Technologies	COMPANY_GIVEN
+Majestic Hotels	COMPANY_GIVEN
+MakeMyTrip	COMPANY_GIVEN
+Manik Travels	COMPANY_GIVEN
+Manipal Group	COMPANY_GIVEN
+Marico	COMPANY_GIVEN
+Markit	COMPANY_GIVEN
+Maruti	COMPANY_GIVEN
+Marvell	COMPANY_GIVEN
+Mastek	COMPANY_GIVEN
+Master Card	COMPANY_GIVEN
+Max Bupa	COMPANY_GIVEN
+Max Healthcare	COMPANY_GIVEN
+Max Life Insurance	COMPANY_GIVEN
+Maxima IT Consulting	COMPANY_GIVEN
+McAfee	COMPANY_GIVEN
+McKinsey	COMPANY_GIVEN
+McKinsey Global Services	COMPANY_GIVEN
+Media.net	COMPANY_GIVEN
+Medline Industries	COMPANY_GIVEN
+Mercedes Benz R & D	COMPANY_GIVEN
+Metenere	COMPANY_GIVEN
+MetricStream Infotech	COMPANY_GIVEN
+Metropolis Healthcare	COMPANY_GIVEN
+Meyer Organics	COMPANY_GIVEN
+Micro Labs	COMPANY_GIVEN
+Microland	COMPANY_GIVEN
+Microsemi Corp.	COMPANY_GIVEN
+Microsoft India (R&D)	COMPANY_GIVEN
+Minacs	COMPANY_GIVEN
+Minda-MMSL	COMPANY_GIVEN
+Mindteck	COMPANY_GIVEN
+Mindtree	COMPANY_GIVEN
+Mirah Hospitality	COMPANY_GIVEN
+Miraj Group	COMPANY_GIVEN
+Misys	COMPANY_GIVEN
+Mitsui O.S.K. Lines	COMPANY_GIVEN
+Modern Vidya Niketan	COMPANY_GIVEN
+Monnet Ispat & Energy	COMPANY_GIVEN
+Moolchand Medcity	COMPANY_GIVEN
+Morgan Stanley	COMPANY_GIVEN
+Morningstar	COMPANY_GIVEN
+Motherson Sumi Systems	COMPANY_GIVEN
+Motorola Mobility	COMPANY_GIVEN
+Mphasis	COMPANY_GIVEN
+Mu Sigma	COMPANY_GIVEN
+Mukand	COMPANY_GIVEN
+Murugappa	COMPANY_GIVEN
+Muthoot Finance	COMPANY_GIVEN
+Muthoot Group	COMPANY_GIVEN
+Mylan Laboratories	COMPANY_GIVEN
+N.D. Enterprises	COMPANY_GIVEN
+NAPC	COMPANY_GIVEN
+NCC	COMPANY_GIVEN
+NCR Corporation	COMPANY_GIVEN
+NDS Group	COMPANY_GIVEN
+NEC Technologies	COMPANY_GIVEN
+NIIT	COMPANY_GIVEN
+NIIT Technologies	COMPANY_GIVEN
+NJ IndiaInvest	COMPANY_GIVEN
+NTL Electronics	COMPANY_GIVEN
+NTT DATA	COMPANY_GIVEN
+NTT Global Delivery	COMPANY_GIVEN
+Nalco	COMPANY_GIVEN
+Naprod Life Science	COMPANY_GIVEN
+Narayana Health	COMPANY_GIVEN
+Naukri CS	COMPANY_GIVEN
+Naukri.com	COMPANY_GIVEN
+Navis	COMPANY_GIVEN
+Neilsoft	COMPANY_GIVEN
+Ness Technologies	COMPANY_GIVEN
+Nestle	COMPANY_GIVEN
+Net Solutions	COMPANY_GIVEN
+NetApp	COMPANY_GIVEN
+Network18 Media	COMPANY_GIVEN
+Newgen Software	COMPANY_GIVEN
+Newt Global	COMPANY_GIVEN
+Nichepro Technologies	COMPANY_GIVEN
+Nielsen	COMPANY_GIVEN
+Nihilent Technologies	COMPANY_GIVEN
+Nokia	COMPANY_GIVEN
+Nokia Networks	COMPANY_GIVEN
+Nokia Siemens	COMPANY_GIVEN
+North Shore Technologies	COMPANY_GIVEN
+Novartis Healthcare	COMPANY_GIVEN
+Novell	COMPANY_GIVEN
+Nucleus Software	COMPANY_GIVEN
+Nvidia Corporation	COMPANY_GIVEN
+O&G SKILLS	COMPANY_GIVEN
+ONWARD	COMPANY_GIVEN
+ORCC Solutions	COMPANY_GIVEN
+Oakton GTSCI	COMPANY_GIVEN
+Oberoi Realty	COMPANY_GIVEN
+OculusIT	COMPANY_GIVEN
+Ocwen Financial Corp.	COMPANY_GIVEN
+Ola Cabs	COMPANY_GIVEN
+Onicra	COMPANY_GIVEN
+Onkar Infotech	COMPANY_GIVEN
+Opentext Technologies	COMPANY_GIVEN
+Optum	COMPANY_GIVEN
+a UnitedHealth Group Company	COMPANY_GIVEN
+Opus Software	COMPANY_GIVEN
+Oracle	COMPANY_GIVEN
+Orchid Hotel	COMPANY_GIVEN
+Organic Garden	COMPANY_GIVEN
+Overseas Infrastructure	COMPANY_GIVEN
+OYO	COMPANY_GIVEN
+PACL	COMPANY_GIVEN
+PAREXEL	COMPANY_GIVEN
+PCS Technology	COMPANY_GIVEN
+PMC Sierra	COMPANY_GIVEN
+PNB MetLife	COMPANY_GIVEN
+POSCO esi	COMPANY_GIVEN
+PTC Software	COMPANY_GIVEN
+PVR	COMPANY_GIVEN
+Packt Publishing	COMPANY_GIVEN
+Panasonic	COMPANY_GIVEN
+Panoramic Universal	COMPANY_GIVEN
+Parle	COMPANY_GIVEN
+Parle Agro	COMPANY_GIVEN
+Path Infotech	COMPANY_GIVEN
+Patni	COMPANY_GIVEN
+Paytm	COMPANY_GIVEN
+Pegasystems Inc.	COMPANY_GIVEN
+People Interactive	COMPANY_GIVEN
+PepsiCo	COMPANY_GIVEN
+Persistent Systems	COMPANY_GIVEN
+Philips Software Centre	COMPANY_GIVEN
+Photon Interactive	COMPANY_GIVEN
+Pidilite	COMPANY_GIVEN
+Pipavav	COMPANY_GIVEN
+Piramal Enterprises	COMPANY_GIVEN
+Platinum Support Services	COMPANY_GIVEN
+Plintron	COMPANY_GIVEN
+Polaris Consulting	COMPANY_GIVEN
+Porteck Corporation	COMPANY_GIVEN
+Practo Technologies	COMPANY_GIVEN
+Pratibha Industries	COMPANY_GIVEN
+Praxis i-Technologies	COMPANY_GIVEN
+Prithvi Info Solutions	COMPANY_GIVEN
+Progressive Digital Media	COMPANY_GIVEN
+Progressive Infotech	COMPANY_GIVEN
+Prokarma Softech	COMPANY_GIVEN
+Punj Lloyd	COMPANY_GIVEN
+PwC	COMPANY_GIVEN
+PwC SDC Bangalore	COMPANY_GIVEN
+PwC SDC Kolkata	COMPANY_GIVEN
+Pyrotech Workspace	COMPANY_GIVEN
+Q3 Technologies	COMPANY_GIVEN
+Qatar Airways	COMPANY_GIVEN
+Qlogic	COMPANY_GIVEN
+QuEST Global	COMPANY_GIVEN
+Qualcomm	COMPANY_GIVEN
+Quality Group	COMPANY_GIVEN
+Quick Heal	COMPANY_GIVEN
+Quintiles	COMPANY_GIVEN
+QuisLex Legal	COMPANY_GIVEN
+Quota 4 Company	COMPANY_GIVEN
+R K Swamy Hansa Group	COMPANY_GIVEN
+R Systems	COMPANY_GIVEN
+RBS India Development	COMPANY_GIVEN
+RJ Corp	COMPANY_GIVEN
+RMS Risk Mangement	COMPANY_GIVEN
+RMSI	COMPANY_GIVEN
+RR Donnelley	COMPANY_GIVEN
+RSB Group	COMPANY_GIVEN
+Radisson	COMPANY_GIVEN
+Ranbaxy Laboratories	COMPANY_GIVEN
+Raqmiyat	COMPANY_GIVEN
+Ratnakar Bank	COMPANY_GIVEN
+Redcentric Solutions	COMPANY_GIVEN
+Reliance Capital	COMPANY_GIVEN
+Reliance Comm.	COMPANY_GIVEN
+Reliance Industries	COMPANY_GIVEN
+Reliance Infra.	COMPANY_GIVEN
+Reliance Power	COMPANY_GIVEN
+Religare Services	COMPANY_GIVEN
+Religare Technologies	COMPANY_GIVEN
+Renault Nissan Tech	COMPANY_GIVEN
+Replicon Software	COMPANY_GIVEN
+Rockwell Automation	COMPANY_GIVEN
+Rolta	COMPANY_GIVEN
+Royal Enfield	COMPANY_GIVEN
+SABMiller	COMPANY_GIVEN
+SAP India	COMPANY_GIVEN
+SAP Labs	COMPANY_GIVEN
+SBI Life Insurance	COMPANY_GIVEN
+SDG Software	COMPANY_GIVEN
+SEL Manufacturing	COMPANY_GIVEN
+SKP Group	COMPANY_GIVEN
+SKP e-Solutions	COMPANY_GIVEN
+SLK Software	COMPANY_GIVEN
+SMC Global Securities	COMPANY_GIVEN
+SMERA Ratings	COMPANY_GIVEN
+SRL	COMPANY_GIVEN
+SRM Technologies	COMPANY_GIVEN
+Sabre	COMPANY_GIVEN
+SafeNet Infotech	COMPANY_GIVEN
+Safran Engineering	COMPANY_GIVEN
+Sahara India Pariwar	COMPANY_GIVEN
+Saipem	COMPANY_GIVEN
+Samsung	COMPANY_GIVEN
+Samsung Software Ops	COMPANY_GIVEN
+Sandhar Technologies	COMPANY_GIVEN
+Sandisk	COMPANY_GIVEN
+Sandvik Asia	COMPANY_GIVEN
+Sandvine Technologies	COMPANY_GIVEN
+Sandy Machinery Tools	COMPANY_GIVEN
+Sapient Consulting	COMPANY_GIVEN
+Sasken Communication	COMPANY_GIVEN
+Satyam BPO	COMPANY_GIVEN
+Saxo IT	COMPANY_GIVEN
+Schindler	COMPANY_GIVEN
+Schneider Electric	COMPANY_GIVEN
+Schwing Stetter	COMPANY_GIVEN
+Scientific Publishing	COMPANY_GIVEN
+Seclore Technology	COMPANY_GIVEN
+Secure Meters	COMPANY_GIVEN
+Serendipity	COMPANY_GIVEN
+Shahi Exports	COMPANY_GIVEN
+Shapoorji Pallonji	COMPANY_GIVEN
+Sharekhan	COMPANY_GIVEN
+Shell India Markets	COMPANY_GIVEN
+Shell Infotech	COMPANY_GIVEN
+Shell Services Centre	COMPANY_GIVEN
+Shoppers Stop	COMPANY_GIVEN
+Shree Cement	COMPANY_GIVEN
+Shree Shubham Logistics	COMPANY_GIVEN
+Shreyas Technologies	COMPANY_GIVEN
+Siemens	COMPANY_GIVEN
+Siemens Industry Software	COMPANY_GIVEN
+Sierra-Cedar	COMPANY_GIVEN
+Sify	COMPANY_GIVEN
+Silver Atena	COMPANY_GIVEN
+Simplex Infrastructure	COMPANY_GIVEN
+Simplex Infrastructures	COMPANY_GIVEN
+Simplilearn	COMPANY_GIVEN
+Sitel	COMPANY_GIVEN
+Siti Cable Network	COMPANY_GIVEN
+Siyaram	COMPANY_GIVEN
+Smart Value Products	COMPANY_GIVEN
+SmartPlay Technologies	COMPANY_GIVEN
+Snapdeal	COMPANY_GIVEN
+Sobha Developers	COMPANY_GIVEN
+Societe Generale Global	COMPANY_GIVEN
+Sodexo Food Solutions	COMPANY_GIVEN
+Sofomation	COMPANY_GIVEN
+Software AG	COMPANY_GIVEN
+Software Paradigms	COMPANY_GIVEN
+Sonata Software	COMPANY_GIVEN
+Sony	COMPANY_GIVEN
+Sopra Group	COMPANY_GIVEN
+SourceHOV	COMPANY_GIVEN
+South Eastern Roadways	COMPANY_GIVEN
+Span Systems	COMPANY_GIVEN
+Sparsh BPO	COMPANY_GIVEN
+Spaze Towers	COMPANY_GIVEN
+Spencers	COMPANY_GIVEN
+Spice Jet	COMPANY_GIVEN
+Srei Infra Finance	COMPANY_GIVEN
+Star India	COMPANY_GIVEN
+Steria	COMPANY_GIVEN
+Sterling And Wilson	COMPANY_GIVEN
+Sterling Information	COMPANY_GIVEN
+Subex	COMPANY_GIVEN
+Suguna Foods	COMPANY_GIVEN
+SumTotal Systems	COMPANY_GIVEN
+Sun Life India	COMPANY_GIVEN
+Sun Pharmaceutical	COMPANY_GIVEN
+SunGard Solutions	COMPANY_GIVEN
+Sundaram Finance Grp	COMPANY_GIVEN
+Sunrise Systems	COMPANY_GIVEN
+Sutherland Global	COMPANY_GIVEN
+Suzlon Energy	COMPANY_GIVEN
+Suzuki Motorcycle	COMPANY_GIVEN
+Swiggy	COMPANY_GIVEN
+Symantec Software	COMPANY_GIVEN
+Symphony Teleca	COMPANY_GIVEN
+Synchrony International	COMPANY_GIVEN
+Synechron Technologies	COMPANY_GIVEN
+Synergy	COMPANY_GIVEN
+Syngene International	COMPANY_GIVEN
+Syniverse Technologies	COMPANY_GIVEN
+Synophic Systems	COMPANY_GIVEN
+Synopsys	COMPANY_GIVEN
+Syntel	COMPANY_GIVEN
+Sysbiz Technologies	COMPANY_GIVEN
+Syscom Corporation	COMPANY_GIVEN
+Systems Technology Grp	COMPANY_GIVEN
+TATA AIG General Insurance	COMPANY_GIVEN
+TBEA Energy	COMPANY_GIVEN
+TCS	COMPANY_GIVEN
+TE Connectivity	COMPANY_GIVEN
+TESCO Hindustan	COMPANY_GIVEN
+TGS ECOM	COMPANY_GIVEN
+TIBCO Software	COMPANY_GIVEN
+TLG	COMPANY_GIVEN
+TPG Software	COMPANY_GIVEN
+TRIDENT	COMPANY_GIVEN
+TSYS	COMPANY_GIVEN
+TUV SUD South Asia	COMPANY_GIVEN
+TVS	COMPANY_GIVEN
+TVS Next Pvt Ltd	COMPANY_GIVEN
+Tagros Chemicals	COMPANY_GIVEN
+Tangoe India Softek	COMPANY_GIVEN
+TaraSpan Solutions	COMPANY_GIVEN
+Tata AIA Life	COMPANY_GIVEN
+Tata Advanced Materials	COMPANY_GIVEN
+Tata Autocomp	COMPANY_GIVEN
+Tata Bluescope Steel	COMPANY_GIVEN
+Tata Capital	COMPANY_GIVEN
+Tata Chemicals	COMPANY_GIVEN
+Tata Communications	COMPANY_GIVEN
+Tata Consulting Engineers	COMPANY_GIVEN
+Tata Elxsi	COMPANY_GIVEN
+Tata Interactive Sys	COMPANY_GIVEN
+Tata Motors	COMPANY_GIVEN
+Tata Power Company	COMPANY_GIVEN
+Tata Projects	COMPANY_GIVEN
+Tata Steel	COMPANY_GIVEN
+Tata Tea	COMPANY_GIVEN
+Tata Technologies	COMPANY_GIVEN
+Tata Teleservices	COMPANY_GIVEN
+TaxiForSure	COMPANY_GIVEN
+Tech Mahindra	COMPANY_GIVEN
+TechMBS	COMPANY_GIVEN
+Techbooks Intl	COMPANY_GIVEN
+Technicolor	COMPANY_GIVEN
+Techno Brain Global	COMPANY_GIVEN
+Technosoft Global	COMPANY_GIVEN
+Techs to Suit Inc	COMPANY_GIVEN
+Tecnimont ICB	COMPANY_GIVEN
+Tecnotree	COMPANY_GIVEN
+Teleperformance	COMPANY_GIVEN
+Teradata	COMPANY_GIVEN
+Textron Global	COMPANY_GIVEN
+Thakral One Solutions	COMPANY_GIVEN
+The Bombay Dyeing	COMPANY_GIVEN
+The Linde Group	COMPANY_GIVEN
+Theorem Clinical Research	COMPANY_GIVEN
+Thermax	COMPANY_GIVEN
+Thiess	COMPANY_GIVEN
+Thinksoft	COMPANY_GIVEN
+Thomas Cook	COMPANY_GIVEN
+Thomson Reuters	COMPANY_GIVEN
+Thyrocare Technologies	COMPANY_GIVEN
+Tieto Software	COMPANY_GIVEN
+Times Centre For Learning	COMPANY_GIVEN
+Timken Engg & Research	COMPANY_GIVEN
+Tiny Owl	COMPANY_GIVEN
+Titan	COMPANY_GIVEN
+Toluna	COMPANY_GIVEN
+TomTom	COMPANY_GIVEN
+Torrent Pharmaceuticals	COMPANY_GIVEN
+Torrent Power	COMPANY_GIVEN
+Toshiba	COMPANY_GIVEN
+Total	COMPANY_GIVEN
+	COMPANY_GIVEN
+Total Shipping & Logistics	COMPANY_GIVEN
+Toyota Kirloskar Motor	COMPANY_GIVEN
+Tractebel Engineering	COMPANY_GIVEN
+Tractors & Farm Equipment	COMPANY_GIVEN
+Trapti Saxena Company	COMPANY_GIVEN
+Treasure World Developers	COMPANY_GIVEN
+Trigent Software	COMPANY_GIVEN
+Trigyn Technologies	COMPANY_GIVEN
+Trivedi LLC	COMPANY_GIVEN
+Tulip Telecom	COMPANY_GIVEN
+UFO Moviez	COMPANY_GIVEN
+UPS	COMPANY_GIVEN
+URS Scott Wilson	COMPANY_GIVEN
+US Technology	COMPANY_GIVEN
+USV	COMPANY_GIVEN
+UTC Aerospace Systems	COMPANY_GIVEN
+Ubisoft Entertainment	COMPANY_GIVEN
+Uflex	COMPANY_GIVEN
+Unicon Investment	COMPANY_GIVEN
+Uninor	COMPANY_GIVEN
+Unisys	COMPANY_GIVEN
+Unitech	COMPANY_GIVEN
+United Biotech	COMPANY_GIVEN
+Unity Infraprojects	COMPANY_GIVEN
+Urban Ladder	COMPANY_GIVEN
+Utsav Fashion	COMPANY_GIVEN
+V2 Retail	COMPANY_GIVEN
+V2Soft	COMPANY_GIVEN
+VERTEX	COMPANY_GIVEN
+VFS Global	COMPANY_GIVEN
+VLCC	COMPANY_GIVEN
+VVF	COMPANY_GIVEN
+Valtech	COMPANY_GIVEN
+ValueLabs	COMPANY_GIVEN
+Vasan Health Care	COMPANY_GIVEN
+Vascon Engineers	COMPANY_GIVEN
+Vatika Group	COMPANY_GIVEN
+Vayama	COMPANY_GIVEN
+Veljan Investments	COMPANY_GIVEN
+Verizon	COMPANY_GIVEN
+Videocon Industries	COMPANY_GIVEN
+Videocon Telecomm.	COMPANY_GIVEN
+Vigneshwara Group	COMPANY_GIVEN
+Viom	COMPANY_GIVEN
+Virtela	COMPANY_GIVEN
+Virtusa Consulting	COMPANY_GIVEN
+Vmware	COMPANY_GIVEN
+Vodafone	COMPANY_GIVEN
+Voltas	COMPANY_GIVEN
+Voltech	COMPANY_GIVEN
+Vyom Labs	COMPANY_GIVEN
+WNS	COMPANY_GIVEN
+Walmart	COMPANY_GIVEN
+Weavetex Overseas	COMPANY_GIVEN
+Wells Fargo	COMPANY_GIVEN
+Welspun	COMPANY_GIVEN
+Williams Lea	COMPANY_GIVEN
+Willis Processing Services	COMPANY_GIVEN
+Wipro	COMPANY_GIVEN
+Wipro BPS	COMPANY_GIVEN
+Wipro Infotech	COMPANY_GIVEN
+Wital See Marketing	COMPANY_GIVEN
+Wockhardt Hospitals	COMPANY_GIVEN
+World-Wide Visas	COMPANY_GIVEN
+XL Dynamics	COMPANY_GIVEN
+Xavient Software	COMPANY_GIVEN
+Xchanging	COMPANY_GIVEN
+Xerox	COMPANY_GIVEN
+Xilinx	COMPANY_GIVEN
+Xinthe Technologies	COMPANY_GIVEN
+Xoriant Solutions	COMPANY_GIVEN
+YFC Projects	COMPANY_GIVEN
+Yahoo Software Development	COMPANY_GIVEN
+Yash Technologies	COMPANY_GIVEN
+Yatra	COMPANY_GIVEN
+Yes Bank	COMPANY_GIVEN
+Yodlee Infotech	COMPANY_GIVEN
+ZS Associates	COMPANY_GIVEN
+ZTE Telecom	COMPANY_GIVEN
+Zee	COMPANY_GIVEN
+Zen3 InfoSolutions	COMPANY_GIVEN
+Zenith Infotech	COMPANY_GIVEN
+Zensar Technologies	COMPANY_GIVEN
+Zodiac Clothing	COMPANY_GIVEN
+Zomato	COMPANY_GIVEN
+Zuari Cement	COMPANY_GIVEN
+Zydex Industries	COMPANY_GIVEN
+e-Nxt Financials	COMPANY_GIVEN
+eClerx Services	COMPANY_GIVEN
+eInfochips	COMPANY_GIVEN
+iEnergizer	COMPANY_GIVEN
+iNautix Technologies	COMPANY_GIVEN
+iYogi Tech. Services	COMPANY_GIVEN
+ibibo	COMPANY_GIVEN
+inVentiv International	COMPANY_GIVEN
+vCustomer	COMPANY_GIVEN
+vivo Mobile	COMPANY_GIVEN
+worklinehr	COMPANY_GIVEN
+Workline HR	COMPANY_GIVEN
+iComm Technologies	COMPANY_GIVEN

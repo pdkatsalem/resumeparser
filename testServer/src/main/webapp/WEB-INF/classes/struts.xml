@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+<struts>
+	<constant name="struts.devMode" value="true" />
+
+	<constant name="struts.action.extension" value="xhtml,,xml,json,action" />
+
+	<constant name="struts.enable.DynamicMethodInvocation" value="FALSE" />
+	<constant name="struts.strictMethodInvocation.methodRegex" value="([A-Za-z0-9_$]*)"/>
+
+	<constant name="struts.mapper.class" value="org.apache.struts2.dispatcher.mapper.PrefixBasedActionMapper" />
+	<constant name="struts.mapper.prefixMapping" value="/api:rest,:struts" />
+
+	<constant name="struts.rest.content.restrictToGET" value="false" />
+	<constant name="struts.rest.namespace" value="/api" />
+
+	<constant name="struts.convention.action.suffix" value="Controller" />
+	<constant name="struts.convention.action.mapAllMatches" value="true" />
+	<constant name="struts.convention.package.locators" value="webclient" />
+	<constant name="struts.convention.default.parent.package" value="rest-default" />
+	<constant name="struts.convention.action.includeJars" value=".*resumeparser.*" />
+
+	<constant name="struts.multipart.maxSize" value="1048576000" />
+
+	<package name="default" extends="struts-default" namespace="/" strict-method-invocation="false">
+         
+		<action name="index">
+			<result>/jsp/index.jsp</result>
+		</action>
+		
+		<action name="*">
+			<result>index.html</result>
+		</action>
+		
+		<action name="error">
+			<result>/templates/errors/403.html</result>
+		</action>
+	
+	</package>
+
+</struts>

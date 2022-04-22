@@ -1,0 +1,2200 @@
+AA - Associate of Arts
+AE - Associate of Engineering or Associate in Electronics Engineering Technology
+ASN - Associate of Science in Nursing
+AS - Associate of Science
+AS - Associate of Science in Accounting
+AF - Associate of Forestry
+AT - Associate of Technology
+AAA - Associate of Applied Arts
+AAB - Associate of Applied Business
+AAS - Associate of Applied Science or Associate of Arts and Sciences
+AAT - Associate of Arts in Teaching
+ABA - Associate of Business Administration
+ABS - Associate of Baccalaureate Studies
+ADN - Associate Degree in Nursing
+AES - Associate of Engineering Science
+AET - Associate in Engineering Technology
+AFA - Associate of Fine Arts
+AGS - Associate of General Studies
+AIT - Associate of Industrial Technology
+AOS - Associate of Occupational Studies
+AOT - Associate in Occupational Technology
+APE - Associate of Pre-Engineering
+APS - Associate of Political Science or Associate of Public Service
+ASPT-APT - Associate in Physical Therapy
+Bachelor of Architecture (BArch)
+Bachelor of Design (BDes, or SDes in Indonesia)
+Bachelor of Arts (BA, AB, BS, BSc, SB, ScB)
+Bachelor of Applied Arts (BAA)
+Bachelor of Applied Arts and Science (BAAS)
+Bachelor of Engineering (BEng, BE, BSE, BESc, BSEng, BASc, BTech, BSc(Eng), AMIE,GradIETE)
+Bachelor of Technology (B.Tech. or B.Tech.)
+Bachelor of Engineering Technology (BSET)
+Bachelor of Business Administration (BBA)
+International Business Economics (BIBE)
+Bachelor of Science in Business (BSBA)
+Bachelor of Management Studies (BMS)
+Bachelor of Administrative Studies
+Bachelor of International Business Economics (BIBE)
+Bachelor of Commerce (BCom, or BComm)
+Bachelor of Business (BBus or BBus)
+Bachelor of Management and Organizational Studies (BMOS)
+Bachelor of Business Science (BBusSc)
+Bachelor of Accountancy (B.Acy. or B.Acc. or B. Accty)
+Bachelor of Comptrolling (B.Acc.Sci. or B.Compt.)
+Bachelor of Economics (BEc, BEconSc; sometimes BA(Econ) or BSc(Econ))
+Bachelor of Arts in Organizational Management (BAOM)
+Bachelor of Computing (BComp)
+Bachelor of Computer Science (BCompSc)
+Bachelor of Science in Information Technology (BSc IT)
+Bachelor of Computer Applications (BCA)
+Bachelor of Applied Science in Information Technology (BAppSc(IT))
+Bachelor of Business Information Systems (BBIS)
+Intercalated Bachelor of Science (BSc)
+Bachelor of Medical Science (BMedSci)
+Bachelor of Medical Biology (BMedBiol)
+Doctorate of Dental Surgery (DDS)
+Bachelor of Science in Nursing (BN, BNSc, BScN, BSN, BNurs, BSN, BHSc.)
+Bachelor of Science in Public Health (BSPH)
+Bachelor of Health Science (BHS & BHSc)
+Bachelor of Science in Human Biology (BSc)
+Bachelor of Kinesiology (BKin, BSc(Kin), BHK)
+Bachelor of Aviation (BAvn)
+Bachelor of Divinity (BD or BDiv)
+Bachelor of Theology (B.Th.; Th.B. or BTheol)
+Bachelor of Religious Studies (BRS)
+Bachelor of Religious Education (BRE)
+Bachelor of Fine Arts (BFA)
+Bachelor of Film and Television (BF&TV)
+Bachelor of Integrated studies (BIS)
+Bachelor of Journalism (BJ, BAJ, BSJ or BJourn)
+Bachelor of Landscape Architecture (BLArch)
+Bachelor of Liberal Arts (B.L.A.; occasionally A.L.B.)
+Bachelor of General Studies (BGS, BSGS)
+Bachelor of Applied Studies (BAS)
+Bachelor of Liberal Studies
+Bachelor of Professional Studies (BPS)
+Bachelor of Library Science (B.L.S., B.Lib.)
+Bachelor of Library and Information Science (B.L.I.S.)
+Bachelor of Music (BM or BMus)
+Bachelor of Art in Music (BA in Music)
+Bachelor of Music Education (BME)
+Bachelor of Mortuary Science (BMS)
+Bachelor of Philosophy (BPhil, PhB)
+Bachelor of Arts in Psychology (BAPSY)
+Bachelor of Science in Psychology (BSc(Psych)
+Bachelor of Science in Education (BSE, BS in Ed)
+Bachelor of Science in Finance
+Bachelor of Arts for Teaching (BAT)
+Bachelor of Science and/with education degree (BScEd)
+Bachelor of Science in Forestry (B.S.F. or B.Sc.F.)
+Bachelor of Applied Science (BASc)
+Bachelor of Science in Law (BSL)
+Bachelor of Social Science (BSocSc)
+Bachelor of Arts in Social Work (BSW or BASW)
+Bachelor of Technology (B.Tech)
+Bachelor of Talmudic Law (BTL)
+Bachelor of Tourism Studies (BTS)
+Bachelor of Mathematics (BMath)
+Bachelor of Mathematical Sciences (BMathSc)
+Bachelor of Urban and Regional Planning (BURP and BPlan)
+Bachelor of Public Affairs and Policy Management (BPAPM)
+Master of Accountancy (MAcc, MAc, or MAcy)
+Master of Advanced Study (M.A.S.)
+Master of Economics (M.Econ)
+Master of Applied Science (MASc, MAppSc, MApplSc, M.A.Sc. and MAS.)
+Master of Architecture (M.Arch.)
+Master of Arts (M.A., MA, A.M., or AM)
+Master of Arts in Teaching (MAT)
+Master of Arts in Liberal Studies (MA, ALM, MLA, MLS or MALS)
+Master of Business Administration (MBA or M.B.A.)
+Master of Business (MBus)
+Master of Business Informatics (MBI)
+Master of Chemistry (MChem)
+Master of City Planning
+Master of Commerce (MCom or MComm)
+Master of Computational Finance (or Quantitative Finance)
+Master of Computer Applications (MCA)
+Master of Criminal Justice (MCJ)
+Master in Creative Technologies
+Master of Design (MDes, M.Des. or M.Design)
+Master of Divinity (M.Div.)
+Master of Economics (M.Econ.)
+Master of Education (M.Ed., MEd, Ed.M., M.A.Ed., M.S.Ed., M.S.E., or M.Ed.L)
+Master of Engineering (M.Eng., ME or MEng)
+Master of Engineering Management (MEM)
+Master of Enterprise (M.Ent.)
+Master of European Law (LL.M. Eur)
+Master of Finance (M.Fin.)
+Master of Financial Economics
+Master of Financial Engineering (Master of Quantitative Finance)
+Master of Financial Mathematics (Master of Quantitative Finance)
+Master of Fine Arts (MFA, M.F.A.)
+Master of Health Administration (MHA)
+Master of Health Science (MHS)
+Master of Humanities (MH)
+Master of Industrial and Labor Relations (MILR)
+Master of International Affairs
+Master of International Business
+Masters in International Economics
+Master of International Studies (MIS)
+Master of Information System Management (abbreviated M.ISM, MS.IM, M.IS or similar)
+Master of IT (abbreviated MSIT, MScIT, M.Sc.IT, MSc.IT or M.Sc IT.)
+Master of Jurisprudence (M.J. or M.Jur)
+Master of Laws (LL.M. or LLM)
+Master of Studies in Law (M.S.L.)
+Master of Landscape Architecture (M.Arch.)
+Master of Letters (MLitt)
+Master of Liberal Arts (MA, ALM, MLA, MLS or MALS)
+Master of Library and Information Science (MLIS)
+Master of Management (MM)
+Master of Mathematical Finance
+Master of Mathematics (or MMath)
+Master of Medical Science
+Master of Music (M.M. or M.Mus.)
+Master of Occupational Therapy (OT)
+Master of Pharmacy (MPharm or MPharm)
+Master of Philosophy (M.Phil.)
+Master of Physician Assistant Studies
+Master of Physics (MPhys)
+Master of Political Science
+Master of Professional Studies (MPS or M.P.S.)
+Master of Public Administration (MPA)
+Master of Public Affairs (M.P.Aff.)
+Master of Public Health (M.P.H.)
+Master of Public Policy (M.P.P.)
+Master of Public Management
+Master of Quantitative Finance
+Master of Rabbinic Studies (MRb)
+Master of Real Estate Development
+Master of Religious Education
+Master of Research - MSc(R)
+Master of Sacred Music (MSM)
+Master of Sacred Theology (S.T.M.)
+Master of Science (M.Sc., MSc, M.Sci., M.Si., Sc.M., M.S., MSHS, MS, Mag., Mg., Mgr, S.M., or SM)
+Master of Science in Education
+Master of Science in Engineering (MSE)
+Master of Science in Finance (M.Fin.)
+Master of Science in Human Resource Development (HRD or MSHRD)
+Master of Science in Information Systems (MSIS)
+Master of Science in Information Systems Management (MSMIS)
+Master of Science in Information Technology (MSIT, MScIT, M.Sc.IT, MSc.IT or M.Sc IT.)
+Master of Science in Leadership (MSL)
+Master of Science in Management (MSc or MSM)
+Master of Science in Nursing (MSN)
+Master of Science in Project Management (M.S.P.M.)
+Master of Science in Supply Chain Management (SCM or MSSCM)
+Master of Science in Teaching (MST)
+Master of Science in Taxation
+Master of Social Science (MSSc)
+Master of Social Work (MSW)
+Master of Studies (M.St. or MSt)
+Master of Surgery (Ch.M. or M.S., as well as M.Ch. and M.Chir.)
+Master of Theological Studies (M.T.S.)
+Master of Theology (Th.M. or M.Th.)
+Master of Urban Planning
+Master of Veterinary Science (MVSC or MVSc)
+BE
+B.E
+B.E.
+BTech
+B.Tech
+B.Tech.
+B.Arch.
+B.Arch
+BArch
+B.Des.
+B.Des
+BDes
+B.Pharm
+B.Pharm.
+BPharm
+LL.B
+LL.B.
+LLB
+BSc
+B.Sc.
+B.Sc
+BCom
+B.Com
+B.Com.
+BBA
+B.B.A
+B.B.A.
+B.Sc. + LL.B.
+B.Com. + LL.B.
+BBA + LL.B.
+BMS
+B.M.S
+B.M.S.
+BHM
+B.H.M
+B.H.M.
+MBA
+M.B.A
+M.B.A.
+MBBS
+M.B.B.S
+M.B.B.S.
+BDS
+B.D.S
+B.D.S.
+BAMS
+B.A.M.S
+B.A.M.S.
+BHMS
+B.H.M.S
+B.H.M.S.
+B.Sc. (Agriculture)
+B.Arch.
+B.A.
+B.A.M.S.
+B.B.A.
+B.Com.
+B.C.A.
+B.Sc. (Computer Science)
+B.D.S.
+B.Des. -  B.D.
+B.Ed.
+B.E./B.Tech.
+BFA - BVA
+B.F.Sc. - B.Sc. (Fisheries)
+B.A. - B.Sc. (Home Science)
+B.H.M.S.
+L.L.B.
+B.Lib. - B.Lib.Sc.
+B.M.C. - B.M.M.
+M.B.B.S.
+B.Sc. (Nursing)
+B.Pharm.
+B.P.Ed.
+B.P.T.
+B.Sc.
+BSW or B.A. (SW)
+B.V.Sc.
+M.D.
+M.D. (Homoeopathy)
+M.A. - M.Sc. (Home Science)
+M.Arch.
+M.A.
+M.B.A.
+M.Ch.
+M.Com.
+M.C.A.
+M.D.S.
+M.Des. -  M.Design.
+M.Ed.
+M.E./M.Tech.
+MFA - MVA
+M.F.Sc. - M.Sc. (Fisheries)
+L.L.M.
+M.Lib. - M.Lib.Sc.
+M.M.C - M.M.M.
+M.Pharm
+M.Phil.
+M.P.Ed. -  M.P.E.
+M.P.T.
+M.Sc.
+M.Sc. (Agriculture)
+M.S.W. or M.A. (SW)
+M.S.
+M.V.Sc.
+Pharm.D
+Ph.D.
+D.M.
+PGDIS
+D.H.R.M.
+PGDT
+PGDIT
+PGDHRM
+DHCM
+PGDSW
+PGDRM
+PGDHSE
+DIA
+PGDCR
+PGDHM
+PGDEL
+PGDEM
+PGDSM
+PGPFMB
+P.G.D.Ed.M.
+PGDMLM
+PGDMBA
+PGDSLM
+DLL & LW
+PGDBL
+PGDCL
+PGDCCA
+PGDMLE
+PGDTL
+PGDTP
+PGDIPRL
+ADCHN
+APGDCA
+DCHN
+PGDFSQM
+PGDIM
+D.Ed.
+NTT
+DMLT
+DHA
+D.H.L.S.
+DOA
+DRT
+G.N.M.
+D.A.C.
+PGDIS
+D.H.R.M.
+PGDT
+PGDIT
+PGDHRM
+DHCM
+PGDSW
+PGDRM
+PGDHSE
+DIA
+PGDCR
+PGDHM
+PGDEL
+PGDEM
+PGDSM
+PGPFMB
+P.G.D.Ed.M.
+PGDMLM
+PGDMBA
+PGDSLM
+DLL & LW
+PGDBL
+PGDCL
+PGDCCA
+PGDMLE
+PGDTL
+PGDTP
+PGDIPRL
+ADCHN
+APGDCA
+DCHN
+PGDFSQM
+PGDIM
+PGDBM
+PGDAS
+DBJCC
+PGPBM
+PGDCP
+PGSCS
+PGDIFA
+PGDPA
+PGDBFM
+PGDCA
+PGDM
+D.G.O.
+PGDBI
+PGDIB
+PGDJMC
+PGDP
+D.L.O.
+D.I.H.
+DCH
+D.Ortho.
+DPTD.Ed.
+NTT
+DMLT
+DHA
+D.H.L.S.
+DOA
+DRT
+G.N.M.
+D.A.C.
+DOTT
+DMLT
+DHLS
+EEE
+IT
+PGDIS
+D.H.R.M.
+PGDT
+PGDIT
+PGDHRM
+DHCM
+PGDSW
+PGDRM
+PGDHSE
+DIA
+PGDCR
+PGDHM
+PGDEL
+PGDEM
+PGDSM
+PGPFMB
+P.G.D.Ed.M.
+PGDMLM
+PGDMBA
+PGDSLM
+DLL & LW
+PGDBL
+PGDCL
+PGDCCA
+PGDMLE
+PGDTL
+PGDTP
+PGDIPRL
+ADCHN
+APGDCA
+DCHN
+PGDFSQM
+PGDIM
+Executive
+D.Ed.
+NTT
+DMLT
+DHA
+D.H.L.S.
+DOA
+DRT
+G.N.M.
+D.A.C.
+Advanced Diploma
+Advanced PG Diploma
+ATD
+B.A.S.L.P
+B.Ed
+D.B.A
+D.B.Ed
+D.C.B.R
+D.E.C.C.E
+D.E.C.S.E
+D.E.E
+D.E.Ed
+D.E.I.E
+D.Ed
+D.Ed.Q
+D.F.Tech
+D.G.P
+D.H.A.R.E.M.T
+D.H.L.S
+D.H.L.S
+D.H.L.S
+D.I.S.L.I
+D.I.T
+D.M.L.T
+D.M.P.B
+D.P.E
+D.P.Ed 
+D.P.O
+D.Pharm
+D.R.T
+D.S.E
+D.T.E
+D.T.Ed
+D.T.Ed AI
+D.T.Y
+D.V.R
+D.V.T.E 
+D.V.T.E
+D.Y.Ed
+Diploma
+HDFT
+I.D.H.M
+Jr.Diploma
+M.A.S.L.P
+M.B.B.S
+M.Ed
+M.Phil
+P. G. Diploma
+P.G.D.B.M
+P.G.D.C.A
+P.G.D.D.R.M
+P.G.D.M
+P.G.D.M
+P.G.D.S.E
+PG Diploma
+PGDCM
+PGDHRM
+PGDM
+Sr.Diploma
+U.G.D.P.Ed
+B.Sc. Agriculture
+B.Sc. Horticulture
+B.Sc. Forestry
+B.Sc. IT
+B.Sc. Computer Science
+B.Sc. Chemistry
+B.Sc. Mathematics
+B.Sc. Physics
+B.Sc. Hotel Management
+B.Sc. Nautical Science
+B.Sc. Electronics
+B.Sc. Electronics and Communication
+B.Sc. Biotechnology
+B.Sc. Geology
+B.Sc. Sports & Health Education
+B.Sc. Animation and Multimedia
+B.Sc. Hospitality
+B.Sc. Mass Communication
+Integrated BBA + MBA
+B.El.Ed.
+Integrated B.Ed. program
+Diploma in Elementary Education
+B.P.Ed.
+BPE
+D.El.Ed.
+D.Ed.
+NTTE
+ECCE
+JBT
+Mass Communication and Journalism
+Animation and Multimedia
+Performing Arts
+Diploma in Retail Management
+Diploma in Education Technology
+Diploma in Hotel Management
+Diploma in Fire Safety and Technology
+Diploma in Film Making and Video Editing
+Diploma in Event Management
+Bachelor of Statistics
+BA
+CMA
+CA
+Actuarial Science
+GNM
+ANM
+DNHE
+Diploma in Nursing Care Assistant
+Diploma in Dairy Technology
+B.Sc. in Operation Theatre Technology
+B.Sc. in X Ray Technology
+B.Sc. in Radiography and Medical Imaging
+B.Sc. in Dialysis Technology
+B.Sc. in Medical Record Technology
+B.Sc. in Medical Laboratory Technology
+B.Sc. in Ophthalmic Technology
+Bachelor of Occupational Therapy
+Bachelor of Physiotherapy
+B.Sc. in Speech Therapy
+BASLP Course
+B.Sc. in Audiology
+B.Sc. in Anaesthesia Technology
+B.Sc. in Audiology and Speech Therapy
+B.Sc. in Optometry
+Diploma in Operation Theatre Technology 
+Diploma in X Ray Technology
+Diploma in Radiography and Medical Imaging
+Diploma in ECG Technology
+Diploma in Dialysis Technology
+Diploma in Medical Record Technology
+Diploma in Medical Laboratory Technology 
+Diploma in Ophthalmic Technology
+Diploma in Physiotherapy
+Diploma in Anaesthesia Technology
+Diploma in Nursing Care Assistant
+Diploma in Sanitary Inspector
+Diploma in Hearing Language and Speech 
+Diploma in Dental Hygienist
+Diploma in Audiometry Technician
+Diploma in Audiology and Speech Therapy
+X-Ray/Radiology Assistant
+X-Ray/Radiology Technician
+Medical Laboratory Assistant
+Operation Theatre Assistant
+Nursing Care Assistant
+ECG Assistant
+Dental Assistant
+Ophthalmic Assistant
+CT Scan Technician
+Dialysis Technician
+MRI Technician
+BA in History and Archaeology
+BA in Hindi
+BA in Humanities
+BA in Finance
+BA in Foreign Languages 
+BA in Regional Languages 
+BA in Journalism and Mass Communication
+BA in Visual Communication
+BA in Literature
+BA in Philosophy
+BA in Music
+BA in Theatre
+BA in Yoga and Naturopathy
+BA in Tourism and Hospitality Management
+BA in Library Science
+BA in Photography
+BA in Applied Science
+BA in Advertising
+BA in Fine Arts
+BA in Mathematics
+BA in Retail Management
+BA in Fashion Merchandising
+BA in Culinary Sciences
+BA in Anthropology
+BA in Home Science
+BA in Hotel Management
+BA in Computer Applications
+BA in Finance and Insurance
+BA in Interior Designing
+BA in Psychology
+BA in Economics
+BA in Animation and Multimedia
+Diploma in Interior Design
+Diploma in Fashion Design
+Diploma in Jewellery Design
+Diploma in Event Management
+Diploma in Health & Applied Sciences
+Diploma in Web Designing
+Diploma in Software Engineering
+Diploma in Food Technology
+Diploma in Audio Engineering
+Diploma in Beauty Culture
+Diploma in ITES & Management
+Diploma in Office Management & Secretarial Practice
+Diploma in Plastics Mould Technology
+Diploma in Computer Application
+Diploma in Home Science
+Diploma in Hotel Management
+Diploma in Professional Makeup
+Diploma in Fish Products Technology
+Diploma in Tourism Studies
+Diploma in Watershed Management
+Diploma in Hardware & Networking
+Diploma in Computer Hardware Maintenance
+Diploma in Wood and Paper Technology
+Diploma in Agriculture
+Diploma in Hospitality Management
+Diploma in Urdu
+Diploma in Visual Communication
+Diploma in Printing Technology
+Diploma in Architectural Assistantship
+Diploma in Rubber Technology
+Diploma in Electrical and Electronics Engineering 
+Diploma in Power Electronics
+Diploma in Ceramic Engineering
+Diploma in Nursing Care Assistant Course in India
+Diploma in Biomedical Engineering
+Diploma in Plastic Engineering
+Diploma in Business Management
+Diploma in Mining Engineering
+Diploma in Metallurgical Engineering
+Diploma in Mechatronics Engineering
+Diploma in Environmental Engineering
+Diploma in Textile Engineering
+Diploma in EC 
+Diploma in Mechanical Engineering
+Diploma in Chemical Engineering
+Diploma in Electrical Engineering
+Diploma in Ophthalmic Technology
+Diploma in Aeronautical Engineering
+Diploma in IC 
+Diploma in Marine Engineering
+Diploma in Physiotherapy
+Diploma in Civil Engineering
+Diploma in Computer Engineering
+Diploma in Information Technology 
+Diploma in Automobile Engineering
+Post Graduate Diploma in Computer Applications
+P.G. Diploma in Information Security 
+Diploma in Mechanical Engineering
+Diploma in Business Administration
+Post Graduate Diploma in Bank Management
+Post Graduate Diploma in Accounting Software
+Diploma in Civil Engineering
+Diploma in Management
+Diploma in Information Technology
+Post Graduate Programme in Management
+Post Graduate Diploma in Management
+Diploma in Hotel Management
+Diploma in Taxation
+Commercial Pilot Licence
+Diploma in Photography
+Diploma in Early Childhood Education
+Diploma in English
+Diploma in Fine Arts
+Diploma in Electrical Engineering
+Diploma in Financial Management
+Diploma in Human Resource Management 
+Diploma in Computer Engineering
+P.G. Diploma in Child Health
+Post Graduate Diploma in Translation 
+Post Graduate Diploma in Information Technology 
+Diploma in Interior Design
+Diploma  in Dermatology
+Diploma in Electronics
+Diploma in Journalism
+Post Graduate Diploma in Human Resource Management 
+Diploma in Aeronautical Engineering
+Diploma in Public Health
+Diploma in Retail Management
+Post Graduate Diploma in Business Administration
+Post Graduate Diploma in Business Management
+Diploma in Hospitality Management
+Diploma in Event Management
+Diploma in Chemical Engineering
+Diploma in Electronics and Communication Engineering
+Diploma in Marine Engineering
+Post Graduate Diploma in Financial Management
+Diploma in Hotel and Catering Management 
+E.T.T
+Diploma in Library Science
+Diploma in Theology
+Diploma in Software Engineering
+Diploma in Food Technology
+Diploma in Marketing Management
+Diploma in Insurance
+Diploma in Criminology
+Diploma in Hospital Management
+Diploma in French
+Diploma in Office Management
+Diploma in Child Psychology
+Diploma in Diabetology
+Diploma in Spanish
+Diploma in Yoga
+Diploma in Hospital Administration
+Diploma in Fashion Design
+Post Graduate Diploma in Social Work 
+Post Graduate Diploma in Counselling Psychology
+Post Graduate Diploma in Nanotechnology
+Diploma in Occupational Therapy
+Post Graduate Diploma in Rural Management 
+Diploma in Web Designing
+Diploma in Aviation Management
+Diploma in Computer Technology
+Diploma in Optometry
+Diploma in Human Rights
+Diploma in Mining Engineering
+Diploma in Petroleum Engineering
+Diploma in Physical Education
+Post Graduate Diploma in Construction Management
+Post Graduate Diploma in Health, Safety and Environment 
+Diploma in Mechatronics
+Diploma in Astrology 
+P.G. Diploma in Gynaecology & Obstetrics
+Post Graduate Diploma in Clinical Research 
+Diploma in Ophthalmology
+Post Graduate Diploma in Bioinformatics
+Diploma in Commercial Practice
+Diploma in Export Management
+Post Graduate Diploma in Financial Planning
+Post Graduate Diploma in International Business
+Post Graduate Diploma in Hospital Management 
+Advanced Diploma in Information Technology
+Post Graduate Diploma in Environmental Law 
+Diploma in Dance
+Post Graduate Diploma in Economics
+Diploma in Textile Technology
+D.N.B.
+Diploma in Counselling Psychology
+Diploma in Export and Import Management
+Post Graduate Diploma in Environmental Management 
+Diploma in Materials Management
+Post Graduate Diploma in Sports Management 
+Post Graduate Diploma in Intellectual Property Rights
+Diploma in Dairy Technology
+Diploma in Cyber Security
+Diploma in Secretarial Practice
+Diploma in Cosmetology
+Post Graduate Program in Family Managed Business 
+Post Graduate Diploma in Event Management
+Post Graduate Diploma in Export-Import & International Finance
+Post Graduate Diploma in Foreign Trade
+Post graduate Diploma in International Marketing
+Post Graduate Diploma in Education Management 
+Post Graduate Diploma in Clinical Data Management
+International Diploma in Hotel Management
+Post Graduate Diploma in Disaster Management
+Post  Graduate Diploma in  Hospital and Health Management
+Post Graduate Diploma in Operations Management
+Post Graduate Diploma in Personnel Management
+Post Graduate Diploma in Business Finance
+Post Graduate Diploma in Marketing Management
+Post Graduate Diploma in Materials and Logistics Management 
+Post Graduate Diploma in Management & Business Administration 
+Diploma in Mass Media
+Diploma in Advertising and Public Relations
+Diploma in Film Editing
+Diploma in Business Journalism & Corporate Communication
+Diploma in Mass Communication
+Diploma in Video Editing
+Post Graduate Programme in Business Management
+Post Graduate Diploma in Pharmaceutical Management
+Post Graduate Diploma in Retail Management
+Post Graduate Diploma in Rural Development
+Post Graduate Diploma in Rural Development and Management
+Post Graduate Diploma in School Leadership and Management 
+Post Graduate Diploma in Teaching and Research in Management
+Post Graduate Diploma in Advertising
+Executive Post Graduate Diploma in International Business
+Diploma in Aquaculture
+Advanced Diploma in International Business
+Diploma in Agribusiness Management
+Diploma in Business Management
+Diploma in Commodities Market
+Diploma in Computer Management
+P.G. Diploma in Analytical Chemistry
+Post Graduate Diploma in Microbiology
+Post Graduate Diploma in Geo Informatics
+Diploma in Environmental Law
+Diploma in Home Science
+Diploma in Nautical Science
+Post Graduate Diploma in Dietetics
+Diploma in Investment Management
+Diploma in Modern Office Management
+Diploma in Sales and Marketing Management
+Diploma in Insurance and Risk Management
+Diploma in Industrial Relations and Personnel Management
+Diploma in Food Production
+Diploma in Foreign Trade Management
+Diploma in Hotel Management and Catering Technology
+Faculty Development Programme
+Post Graduate Diploma in Embedded Systems
+Diploma in Labour Laws and Labour Welfare 
+Diploma in Medical Jurisprudence
+Diploma in Taxation Laws & Practice
+Post Graduate Diploma in Business Law 
+Post Graduate Diploma in Corporate Law 
+Post Graduate Diploma in Cyber Law
+Post Graduate Diploma in IPR and Patent Law
+Diploma in Cyber Law
+Diploma in Business Law
+Post Graduate Diploma in Computer Commercial Application 
+Post Graduate Diploma in Computer Programming
+Post Graduate Diploma in e-Governance
+Post Graduate Diploma in Web Designing
+Post Graduate Diploma in Cyber Security
+Post Graduate Diploma in Medical Law and Ethics 
+Post Graduate Diploma in Taxation Law 
+Post Graduate Diploma in Taxation Practice 
+Diploma in Textile Design
+Post Graduate Diploma in Fashion Designing
+Diploma in Aviation Hospitality and Travel Management
+Advanced Diploma in  3D Animation
+Advanced Diploma in Animation
+Diploma in 3D Animation
+Diploma in Apparel Merchandising
+Advanced Diploma in Interior Design
+Post Graduate Diploma in Intellectual Property Rights Law 
+Diploma in Beauty Culture
+Diploma in Mobile Repairing
+Diploma in Videography
+Diploma in Animation Film Making
+Honours Diploma in Computer Application
+Post Graduate Diploma in Journalism
+Post Graduate Diploma in Company Secretaryship
+Post Graduate Diploma in Investment & Financial Analysis
+Post Graduate Diploma in Professional Accounting
+Diploma in Footwear Technology
+Diploma in Gemology
+Diploma in Intellectual Property Law
+Post Graduate Diploma in Banking and Financial Management
+Post Graduate Diploma in Journalism and Mass Communication
+Post Graduate Diploma in Mass Communication
+Diploma in Banking and Insurance
+Advanced Diploma in Taxation
+Diploma in Banking Management
+Diploma in e-Commerce
+Diploma in Tally Software
+Diploma in Visual Merchandising
+Advance Diploma in Computer Hardware and Networking 
+Advanced Diploma in Computer Application
+Advanced Post Graduate Diploma in Computer Application 
+Diploma in Computer Hardware and Networking 
+Diploma in Computer Accounting
+Post Graduate Diploma in Food Safety and Quality Management 
+Diploma in Watershed Management
+Diploma in Food Processing
+Post Graduate Diploma in Insurance Management 
+Post Graduate Diploma in Management 
+Post Graduate Diploma in Photography - PGDP
+Diploma in Agriculture
+Diploma in Animal Husbandry
+Post  Graduate Diploma in  Higher Education
+Post Graduate Diploma in Public Administration
+Post Graduate Diploma in Public Relations
+Post Graduate Diploma in Rehabilitation Psychology
+Post Graduate Diploma in Special Education
+Post Graduate Diploma in Travel & Tourism Management
+Post Graduate Diploma in Yoga
+Post Graduate Diploma in Library Automation and Networking
+Post Graduate Diploma in Instructional Design
+Post Graduate Diploma in English
+Post Graduate Diploma in  Instrumentation
+P.G. Diploma in Actuarial Science
+Post Graduate Diploma in Archaeology
+Post Graduate Diploma in Clinical Psychology
+Post Graduate Diploma in Distance Education
+Post Graduate Diploma in Educational Technology
+Post Graduate Diploma in Environment and Sustainable Development
+Diploma in Automobile Engineering
+Diploma in Biomedical Engineering
+Diploma in Electrical & Electronics Engineering
+Diploma in Environmental Engineering
+Diploma in Fashion Technology
+Diploma in Fire Engineering
+Diploma in Fire Safety Engineering
+Diploma in Digital Electronics
+Diploma in Architecture Engineering
+Diploma in Automation
+Diploma in Cement Technology
+Diploma in Ceramic Technology
+Diploma in Computer Science and Technology
+Diploma in Computer Science and Engineering
+H.D.C.M
+Advanced Diploma in French
+Diploma in Acting
+Diploma in Art and Craft
+Diploma in Commercial Art
+Diploma in Graphic Design
+Diploma in Counseling
+Diploma in Creative Writing in English
+Diploma in Creative Writing in Hindi
+Diploma in Drawing and Painting
+Diploma in Education 
+Diploma in Fire and Safety Management
+Diploma in Hindi
+Diploma in HIV and Family Education
+Diploma in Jewellery Design
+Diploma in Library and Information Science
+Diploma in Linguistics
+Diploma in Music
+Diploma in Numerology
+Diploma in Nursery Teacher Training 
+Diploma in Philosophy
+Diploma in Police Administration
+Diploma in Rural Development
+Diploma in Sanskrit
+Diploma in Tamil
+Diploma in Tourism Studies
+Diploma in Urdu
+Diploma in Foundry Technology
+Diploma in Industrial Electronics
+Diploma in Instrumentation Engineering
+Diploma in Metallurgical Engineering
+Diploma in Medical Electronics
+Diploma in Modern Office Practice
+Diploma in Petrochemical Engineering
+Diploma in Plastics Technology
+Diploma in Production Engineering
+Diploma in Robotics
+Diploma in Rubber Technology
+Diploma in Telecommunication Engineering
+Diploma in Sugar Technology
+Diploma in Welding Technology
+Post Graduate Diploma in Thermal Power Plant Engineering
+Post Graduate Diploma in Industrial Safety
+Diploma in Anaesthesiology
+Diploma in Medical Laboratory Technology 
+Diploma  in Vetrinary Pharmacy
+Diploma in Dental Mechanics
+Diploma in Dietetics and Nutrition
+Diploma in Dietetics and Applied Nutrition
+Diploma in E.N.T.
+Diploma in Forensic Medicine
+Diploma in Health Administration
+Diploma in Health Assistant 
+Diploma in Hearing Language and Speech 
+Diploma in Herbal Medicine
+Diploma in Industrial Health
+Diploma in Industrial Hygiene
+Diploma in Medical Imaging Technology
+Diploma in Medical Record Technology
+Diploma in Nursing Administration
+Diploma in Operation Theatre Techniques
+Diploma in Ophthalmic Assistant 
+Diploma in Panchkarma
+Post Graduate Diploma in Paediatrics
+P.G. Diploma in Orthopaedics
+Diploma in Pharmaceutical Management
+Diploma in Psychiatric Nursing
+Diploma in Physiotherapy
+Diploma in Psychological Medicine
+Diploma in Radiological Technology 
+Diploma in Veterinary Pharmacy
+Diploma in X-Ray Technology
+Diploma in General Nursing and Midwifery
+Post Graduate Diploma in Clinical Pathology
+Post Graduate Diploma in Pharmacovigilance
+Post Graduate Diploma in Medico Legal Systems
+Post Graduate Diploma in Guidance & Counselling
+Post Graduate Diploma in NGO Management
+Post Graduate Diploma in Tourism
+Post Graduate Diploma in Renewable Energy
+PG Diploma in VLSI Design
+Post Graduate Diploma in Geriatric Medicine
+Post Graduate Diploma in Acupuncture
+Advanced Diploma in Bioinformatics
+Advanced Diploma in Software Development
+Diploma in Food and Nutrition
+Diploma in Advanced Computing 
+Advanced Diploma
+Advanced Post Graduate Diploma
+Arts Teacher Diploma
+Bachelor of Arts
+Bachelor of Education
+Diploma in Banking Administration
+Community Based Rehabilitation
+Diploma in Early Childhood Care & Education
+Diploma in Electrical Engineering
+Diploma in Embedded Electronics Design
+Diploma in Electronics & instrumentation Engineering
+Diploma in Education
+Diploma in Film Technology
+Dynamic Graphics Project
+Diploma in Hearing Aid Repair and Ear Mould Technology
+Department of Human Services-Teleconference Mode
+Diploma in Hearing Language and Speech
+Diploma in Hearing, Language and Speech
+Indian Sign lang Interpreting
+Diploma in International Trade
+Diploma in Medical Laboratory Technology
+Diploma in Media Planning and Buying
+Diploma in Primary Education
+Diploma in Physical Education
+Diploma in Prosthetics and Orthotics
+Diploma in Pharmacy
+Drug Rehabilitation Therapy
+Diploma in Special Education
+Diploma in Technical Education
+Diploma in Teacher Education
+Diploma in Hearing Handicapped
+Diploma in Vocational Rehabilitation 
+Diploma in Vocational Training and Employment
+Diploma in Yoga Education
+Diploma Courses
+Diploma in Construction Safety and Health
+Diploma in Fire Safety Management
+Diploma in Metallurgy
+Diploma in Ministry of Manpower
+Diploma in SQC and OR
+Diploma in Special Education
+Higher Diploma in Footwear Technology
+International Diploma in Hotel Management
+Junior Diploma
+Master of Arts
+Bachelor of Medicine and Bachelor of Surgery
+Master of Education
+Master of Philosophy
+Post Graduate Diploma in Business Management
+Post Graduate Diploma in Computer Application
+Post graduate diploma in management
+Post Graduate Diploma
+POST GRADUATE DIPLOMA IN COMPUTER AIDED MANAGEMENT
+POST GRADUATE DIPLOMA IN HUMAN RESOURCE MANAGEMENT
+Post graduate diploma in management
+Senior Diploma
+Under Graduate Diploma in Physical Education
+
+Mechanical Engineering
+Electrical Engineering
+Civil Engineering
+Chemical Engineering
+Computer Science Engineering
+IT Engineering
+IC Engineering
+EC Engineering
+Electronics Engineering
+Electronics and Telecommunication Engineering
+Petroleum Engineering
+Aeronautical Engineering
+Aerospace Engineering
+Automobile Engineering
+Mining Engineering
+Biotechnology Engineering
+Genetic Engineering
+Plastics Engineering
+Food Processing and Technology
+Agricultural Engineering
+Dairy Technology and Engineering
+Agricultural Information Technology
+Power Engineering
+Production Engineering
+Infrastructure Engineering
+Motorsport Engineering
+Metallurgy Engineering
+Textile Engineering
+Environmental Engineering
+Marine Engineering
+Naval Architecture
+
+
+
+Post Graduate Diploma in Computer Applications - PGDCA
+P.G. Diploma in Information Security (PGDIS)
+Diploma in Mechanical Engineering
+Diploma in Business Administration
+PGDBM - Post Graduate Diploma in Bank Management
+PGDAS - Post Graduate Diploma in Accounting Software
+Diploma in Civil Engineering
+Diploma in Management
+Diploma in Information Technology
+Post Graduate Programme in Management
+Post Graduate Diploma in Management - PGDM
+Diploma in Hotel Management
+Diploma in Taxation
+Commercial Pilot Licence
+Diploma in Photography
+Diploma in Early Childhood Education
+Diploma in English
+Diploma in Fine Arts
+Diploma in Electrical Engineering
+Diploma in Financial Management
+Diploma in Human Resource Management (D.H.R.M.)
+Diploma in Computer Engineering
+P.G. Diploma in Child Health
+Post Graduate Diploma in Translation (PGDT)
+Post Graduate Diploma in Information Technology (PGDIT)
+Diploma in Interior Design
+Diploma  in Dermatology
+Diploma in Electronics
+Diploma in Journalism
+Post Graduate Diploma in Human Resource Management (PGDHRM)
+Diploma in Aeronautical Engineering
+Diploma in Public Health
+Diploma in Retail Management
+Post Graduate Diploma in Business Administration
+Post Graduate Diploma in Business Management - PGDBM
+Diploma in Hospitality Management
+Diploma in Event Management
+Diploma in Chemical Engineering
+Diploma in Electronics and Communication Engineering
+Diploma in Marine Engineering
+Post Graduate Diploma in Financial Management
+Diploma in Hotel and Catering Management (DHCM)
+E.T.T
+Diploma in Library Science
+Diploma in Theology
+Diploma in Software Engineering
+Diploma in Food Technology
+Diploma in Marketing Management
+Diploma in Insurance
+Diploma in Criminology
+Diploma in Hospital Management
+Diploma in French
+Diploma in Office Management
+Diploma in Child Psychology
+Diploma in Diabetology
+Diploma in Spanish
+Diploma in Yoga
+Diploma in Hospital Administration
+Diploma in Fashion Design
+Post Graduate Diploma in Social Work (PGDSW)
+Post Graduate Diploma in Counselling Psychology
+Post Graduate Diploma in Nanotechnology
+Diploma in Occupational Therapy
+Post Graduate Diploma in Rural Management (PGDRM)
+Diploma in Web Designing
+Diploma in Aviation Management
+Diploma in Computer Technology
+Diploma in Optometry
+Diploma in Human Rights
+Diploma in Mining Engineering
+Diploma in Petroleum Engineering
+Diploma in Physical Education
+Post Graduate Diploma in Construction Management
+Post Graduate Diploma in Health, Safety and Environment (PGDHSE)
+Diploma in Mechatronics
+Diploma in Astrology (DIA)
+P.G. Diploma in Gynaecology & Obstetrics - D.G.O.
+Post Graduate Diploma in Clinical Research (PGDCR)
+Diploma in Ophthalmology
+Post Graduate Diploma in Bioinformatics - PGDBI
+Diploma in Commercial Practice
+Diploma in Export Management
+Post Graduate Diploma in Financial Planning
+Post Graduate Diploma in International Business - PGDIB
+Post Graduate Diploma in Hospital Management (PGDHM)
+Advanced Diploma in Information Technology
+Post Graduate Diploma in Environmental Law (PGDEL)
+Diploma in Dance
+Post Graduate Diploma in Economics
+Diploma in Textile Technology
+D.N.B.
+Diploma in Counselling Psychology
+Diploma in Export and Import Management
+Post Graduate Diploma in Environmental Management (PGDEM)
+Diploma in Materials Management
+Post Graduate Diploma in Sports Management (PGDSM)
+Post Graduate Diploma in Intellectual Property Rights
+Diploma in Dairy Technology
+Diploma in Cyber Security
+Diploma in Secretarial Practice
+Diploma in Cosmetology
+Post Graduate Program in Family Managed Business (PGPFMB)
+Post Graduate Diploma in Event Management
+Post Graduate Diploma in Export-Import & International Finance
+Post Graduate Diploma in Foreign Trade
+Post graduate Diploma in International Marketing
+Post Graduate Diploma in Education Management (P.G.D.Ed.M.)
+Post Graduate Diploma in Clinical Data Management
+International Diploma in Hotel Management
+Post Graduate Diploma in Disaster Management
+Post  Graduate Diploma in  Hospital and Health Management
+Post Graduate Diploma in Operations Management
+Post Graduate Diploma in Personnel Management
+Post Graduate Diploma in Business Finance
+Post Graduate Diploma in Marketing Management
+Post Graduate Diploma in Materials and Logistics Management (PGDMLM)
+Post Graduate Diploma in Management & Business Administration (PGDMBA)
+Diploma in Mass Media
+Diploma in Advertising and Public Relations
+Diploma in Film Editing
+DBJCC - Diploma in Business Journalism & Corporate Communication
+Diploma in Mass Communication
+Diploma in Video Editing
+PGPBM - Post Graduate Programme in Business Management
+Post Graduate Diploma in Pharmaceutical Management
+Post Graduate Diploma in Retail Management
+Post Graduate Diploma in Rural Development
+Post Graduate Diploma in Rural Development and Management
+Post Graduate Diploma in School Leadership and Management (PGDSLM)
+Post Graduate Diploma in Teaching and Research in Management
+Post Graduate Diploma in Advertising
+Executive Post Graduate Diploma in International Business
+Diploma in Aquaculture
+Advanced Diploma in International Business
+Diploma in Agribusiness Management
+Diploma in Business Management
+Diploma in Commodities Market
+Diploma in Computer Management
+P.G. Diploma in Analytical Chemistry
+Post Graduate Diploma in Microbiology
+Post Graduate Diploma in Geo Informatics
+Diploma in Environmental Law
+Diploma in Home Science
+Diploma in Nautical Science
+Post Graduate Diploma in Dietetics
+Diploma in Investment Management
+Diploma in Modern Office Management
+Diploma in Sales and Marketing Management
+Diploma in Insurance and Risk Management
+Diploma in Industrial Relations and Personnel Management
+Diploma in Food Production
+Diploma in Foreign Trade Management
+Diploma in Hotel Management and Catering Technology
+Faculty Development Programme
+Post Graduate Diploma in Embedded Systems
+Diploma in Labour Laws and Labour Welfare (DLL & LW)
+Diploma in Medical Jurisprudence
+Diploma in Taxation Laws & Practice
+Post Graduate Diploma in Business Law (PGDBL)
+Post Graduate Diploma in Corporate Law (PGDCL)
+Post Graduate Diploma in Cyber Law
+Post Graduate Diploma in IPR and Patent Law
+Diploma in Cyber Law
+Diploma in Business Law
+Post Graduate Diploma in Computer Commercial Application (PGDCCA)
+PGDCP - Post Graduate Diploma in Computer Programming
+Post Graduate Diploma in e-Governance
+Post Graduate Diploma in Web Designing
+Post Graduate Diploma in Cyber Security
+Post Graduate Diploma in Medical Law and Ethics (PGDMLE)
+Post Graduate Diploma in Taxation Law (PGDTL)
+Post Graduate Diploma in Taxation Practice (PGDTP)
+Diploma in Textile Design
+Post Graduate Diploma in Fashion Designing
+Diploma in Aviation Hospitality and Travel Management
+Advanced Diploma in  3D Animation
+Advanced Diploma in Animation
+Diploma in 3D Animation
+Diploma in Apparel Merchandising
+Advanced Diploma in Interior Design
+Post Graduate Diploma in Intellectual Property Rights Law (PGDIPRL)
+Diploma in Beauty Culture
+Diploma in Mobile Repairing
+Diploma in Videography
+Diploma in Animation Film Making
+Honours Diploma in Computer Application
+Post Graduate Diploma in Journalism
+PGSCS - Post Graduate Diploma in Company Secretaryship
+PGDIFA - Post Graduate Diploma in Investment & Financial Analysis
+PGDPA - Post Graduate Diploma in Professional Accounting
+Diploma in Footwear Technology
+Diploma in Gemology
+Diploma in Intellectual Property Law
+PGDBFM - Post Graduate Diploma in Banking and Financial Management
+Post Graduate Diploma in Journalism and Mass Communication - PGDJMC
+Post Graduate Diploma in Mass Communication
+Diploma in Banking and Insurance
+Advanced Diploma in Taxation
+Diploma in Banking Management
+Diploma in e-Commerce
+Diploma in Tally Software
+Diploma in Visual Merchandising
+Advance Diploma in Computer Hardware and Networking (ADCHN)
+Advanced Diploma in Computer Application
+Advanced Post Graduate Diploma in Computer Application (APGDCA)
+Diploma in Computer Hardware and Networking (DCHN)
+Diploma in Computer Accounting
+Post Graduate Diploma in Food Safety and Quality Management (PGDFSQM)
+Diploma in Watershed Management
+Diploma in Food Processing
+Post Graduate Diploma in Insurance Management (PGDIM)
+Post Graduate Diploma in Management (Executive)
+Post Graduate Diploma in Photography - PGDP
+Diploma in Agriculture
+Diploma in Animal Husbandry
+Post  Graduate Diploma in  Higher Education
+Post Graduate Diploma in Public Administration
+Post Graduate Diploma in Public Relations
+Post Graduate Diploma in Rehabilitation Psychology
+Post Graduate Diploma in Special Education
+Post Graduate Diploma in Travel & Tourism Management
+Post Graduate Diploma in Yoga
+Post Graduate Diploma in Library Automation and Networking
+Post Graduate Diploma in Instructional Design
+Post  Graduate Diploma in English
+Post Graduate Diploma in  Instrumentation
+P.G. Diploma in Actuarial Science
+Post Graduate Diploma in Archaeology
+Post Graduate Diploma in Clinical Psychology
+Post Graduate Diploma in Distance Education
+Post Graduate Diploma in Educational Technology
+Post Graduate Diploma in Environment and Sustainable Development
+Diploma in Automobile Engineering
+Diploma in Biomedical Engineering
+Diploma in Electrical & Electronics Engineering
+Diploma in Environmental Engineering
+Diploma in Fashion Technology
+Diploma in Fire Engineering
+Diploma in Fire Safety Engineering
+Diploma in Digital Electronics
+Diploma in Architecture Engineering
+Diploma in Automation
+Diploma in Cement Technology
+Diploma in Ceramic Technology
+Diploma in Computer Science and Technology
+Diploma in Computer Science and Engineering
+H.D.C.M
+Advanced Diploma in French
+Diploma in Acting
+Diploma in Art and Craft
+Diploma in Commercial Art
+Diploma in Graphic Design
+Diploma in Counseling
+Diploma in Creative Writing in English
+Diploma in Creative Writing in Hindi
+Diploma in Drawing and Painting
+Diploma in Education (D.Ed.)
+Diploma in Fire and Safety Management
+Diploma in Hindi
+Diploma in HIV and Family Education
+Diploma in Jewellery Design
+Diploma in Library and Information Science
+Diploma in Linguistics
+Diploma in Music
+Diploma in Numerology
+Diploma in Nursery Teacher Training (NTT)
+Diploma in Philosophy
+Diploma in Police Administration
+Diploma in Rural Development
+Diploma in Sanskrit
+Diploma in Tamil
+Diploma in Tourism Studies
+Diploma in Urdu
+Diploma in Foundry Technology
+Diploma in Industrial Electronics
+Diploma in Instrumentation Engineering
+Diploma in Metallurgical Engineering
+Diploma in Medical Electronics
+Diploma in Modern Office Practice
+Diploma in Petrochemical Engineering
+Diploma in Plastics Technology
+Diploma in Production Engineering
+Diploma in Robotics
+Diploma in Rubber Technology
+Diploma in Telecommunication Engineering
+Diploma in Sugar Technology
+Diploma in Welding Technology
+Post Graduate Diploma in Thermal Power Plant Engineering
+Post Graduate Diploma in Industrial Safety
+Diploma in Anaesthesiology
+Diploma in Medical Laboratory Technology (DMLT)
+Diploma  in Vetrinary Pharmacy
+Diploma in Dental Mechanics
+Diploma in Dietetics and Nutrition
+Diploma in Dietetics and Applied Nutrition
+Diploma in E.N.T. - D.L.O.
+Diploma in Forensic Medicine
+Diploma in Health Administration
+Diploma in Health Assistant (DHA)
+Diploma in Hearing Language and Speech (D.H.L.S.)
+Diploma in Herbal Medicine
+Diploma in Industrial Health - D.I.H.
+Diploma in Industrial Hygiene
+Diploma in Medical Imaging Technology
+Diploma in Medical Record Technology
+Diploma in Nursing Administration
+Diploma in Operation Theatre Techniques
+Diploma in Ophthalmic Assistant (DOA)
+Diploma in Panchkarma
+Post Graduate Diploma in Paediatrics - DCH
+P.G. Diploma in Orthopaedics - D.Ortho.
+Diploma in Pharmaceutical Management
+Diploma in Psychiatric Nursing
+Diploma in Physiotherapy - DPT
+Diploma in Psychological Medicine
+Diploma in Radiological Technology (DRT)
+Diploma in Veterinary Pharmacy
+Diploma in X-Ray Technology
+Diploma in General Nursing and Midwifery (G.N.M.)
+Post Graduate Diploma in Clinical Pathology
+Post Graduate Diploma in Pharmacovigilance
+Post Graduate Diploma in Medico Legal Systems
+Post Graduate Diploma in Guidance & Counselling
+Post Graduate Diploma in NGO Management
+Post Graduate Diploma in Tourism
+Post Graduate Diploma in Renewable Energy
+PG Diploma in VLSI Design
+Post Graduate Diploma in Geriatric Medicine
+Post Graduate Diploma in Acupuncture
+Advanced Diploma in Bioinformatics
+Advanced Diploma in Software Development
+Diploma in Food and Nutrition
+Diploma in Advanced Computing (D.A.C.)
+
+Diploma in Advanced Computing 
+Advanced Diploma
+Advanced Post Graduate Diploma
+Arts Teacher Diploma
+Bachelor of Arts
+Bachelor of Education
+Diploma in Banking Administration
+Community Based Rehabilitation
+Diploma in Early Childhood Care & Education
+Diploma in Electrical Engineering
+Diploma in Embedded Electronics Design
+Diploma in Electronics & instrumentation Engineering
+Diploma in Education
+Diploma in Film Technology
+Dynamic Graphics Project
+Diploma in Hearing Aid Repair and Ear Mould Technology
+Department of Human Services-Teleconference Mode
+Diploma in Hearing Language and Speech
+Diploma in Hearing, Language and Speech
+Indian Sign lang Interpreting
+Diploma in International Trade
+Diploma in Medical Laboratory Technology
+Diploma in Media Planning and Buying
+Diploma in Primary Education
+Diploma in Physical Education
+Diploma in Prosthetics and Orthotics
+Diploma in Pharmacy
+Drug Rehabilitation Therapy
+Diploma in Special Education
+Diploma in Technical Education
+Diploma in Teacher Education
+Diploma in Hearing Handicapped
+Diploma in Vocational Rehabilitation 
+Diploma in Vocational Training and Employment
+Diploma in Yoga Education
+Diploma Courses
+Diploma in Construction Safety and Health
+Diploma in Fire Safety Management
+Diploma in Metallurgy
+Diploma in Ministry of Manpower
+Part-time Certificate/Diploma course in SQC and OR
+Diploma in Special Education
+Higher Diploma in Footwear Technology
+International Diploma in Hotel Management
+Junior Diploma
+Master of Arts
+Bachelor of Medicine and Bachelor of Surgery
+Master of Education
+Master of Philosophy
+Post Graduate Diploma in Business Management
+Post Graduate Diploma in Computer Application
+Post graduate diploma in management
+Post Graduate Diploma
+POST GRADUATE DIPLOMA IN COMPUTER AIDED MANAGEMENT
+POST GRADUATE DIPLOMA IN HUMAN RESOURCE MANAGEMENT
+Post graduate diploma in management
+Senior Diploma
+Under Graduate Diploma in Physical Education
+
+
+
+Diploma in Advanced Computing (D.A.C.)
+Advanced Diploma (Advanced Diploma)
+Advanced Post Graduate Diploma (Advanced PG Diploma)
+Arts Teacher Diploma (ATD)
+Bachelor of Arts (B.A.S.L.P)
+Bachelor of Education (B.Ed)
+Bachelor of Education (B.Ed.Spl.Ed.(MD))
+Diploma in Banking Administration (D.B.A)
+Diploma in Education (D.B.Ed)
+Community Based Rehabilitation (D.C.B.R)
+Diploma in Early Childhood Care & Education (D.E.C.C.E)
+(D.E.C.S.E)
+Diploma in Electrical Engineering (D.E.E)
+Diploma in Embedded Electronics Design (D.E.Ed)
+Diploma in Electronics & instrumentation Engineering (D.E.I.E)
+Diploma in Education (D.Ed)
+Diploma in Education (D.Ed(MR))
+Diploma in Education (D.Ed.(ASD))
+Diploma in Education (D.Ed.Q)
+Diploma in Education (D.Ed.Spl.Ed.(Db))
+Diploma in Education (D.Ed.Spl.Ed.(DHH))
+Diploma in Education (D.Ed.Spl.Ed.(VI))
+Diploma in Film Technology (D.F.Tech)
+Dynamic Graphics Project (D.G.P)
+Diploma in Hearing Aid Repair and Ear Mould Technology (D.H.A.R.E.M.T)
+Department of Human Services-Teleconference Mode (D.H.L.S)
+Diploma in Hearing Language and Speech (D.H.L.S)
+Diploma in Hearing, Language and Speech (D.H.L.S)
+Indian Sign lang Interpreting (D.I.S.L.I)
+Diploma in International Trade (D.I.T)
+Diploma in Medical Laboratory Technology (D.M.L.T)
+Diploma in Media Planning and Buying (D.M.P.B)
+Diploma in Primary Education (D.P.E)
+Diploma in Physical Education (D.P.Ed )
+Diploma in Prosthetics and Orthotics (D.P.O)
+Diploma in Pharmacy (D.Pharm)
+Drug Rehabilitation Therapy (D.R.T)
+Diploma in Special Education (D.S.E)
+Diploma in Special Education (D.S.E (HI))
+Diploma in Technical Education (D.T.E)
+Diploma in Teacher Education (D.T.Ed)
+Diploma in Teacher Education (D.T.Ed AI)
+Diploma in Hearing Handicapped (D.T.Y.(DHH))
+Diploma in Vocational Rehabilitation (Mental Retardation) (D.V.R.(MR))
+Diploma in Vocational Training and Employment (D.V.T.E )
+(D.V.T.E)
+Diploma in Yoga Education (D.Y.Ed)
+Diploma Courses (Diploma)
+Diploma in Construction Safety and Health (Diploma)
+Diploma in Fire Safety Management (Diploma)
+Diploma in Metallurgy (Diploma)
+Diploma in Ministry of Manpower (Diploma)
+Part-time Certificate/Diploma course in SQC and OR (Diploma)
+Diploma in Special Education (Diploma in Special Education)
+Higher Diploma in Footwear Technology (HDFT)
+International Diploma in Hotel Management (I.D.H.M)
+Junior Diploma (Jr.Diploma)
+Master of Arts (M.A.S.L.P)
+Bachelor of Medicine and Bachelor of Surgery (M.B.B.S)
+Master of Education (M.Ed)
+Master of Philosophy (M.Phil.(R.P.))
+Post Graduate Diploma (P. G. Diploma)
+Post Graduate Diploma in Business Management (P.G.D.B.M)
+Post Graduate Diploma in Computer Application (P.G.D.C.A)
+Post Graduate Diploma (P.G.D.D.R.M)
+Post Graduate Diploma (P.G.D.M)
+post graduate diploma in management (P.G.D.M)
+Post Graduate Diploma (P.G.D.S.E.(MD:P&N))
+Post Graduate Diploma (PG Diploma)
+POST GRADUATE DIPLOMA IN COMPUTER AIDED MANAGEMENT (PGDCM)
+POST GRADUATE DIPLOMA IN HUMAN RESOURCE MANAGEMENT (PGDHRM)
+post graduate diploma in management (PGDM)
+Senior Diploma (Sr.Diploma)
+Under Graduate Diploma in Physical Education (U.G.D.P.Ed)
+Diploma in Operation Theatre Technology (DOTT)
+Diploma in X Ray Technology
+Diploma in Radiography and Medical Imaging
+Diploma in ECG Technology
+Diploma in Dialysis Technology
+Diploma in Medical Record Technology
+Diploma in Medical Laboratory Technology (DMLT)
+Diploma in Ophthalmic Technology
+Diploma in Physiotherapy
+Diploma in Anaesthesia Technology
+Diploma in Nursing Care Assistant
+Diploma in Sanitary Inspector
+Diploma in Hearing Language and Speech (DHLS)
+Diploma in Dental Hygienist
+Diploma in Audiometry Technician
+Diploma in Audiology and Speech Therapy
+X-Ray/Radiology Assistant
+X-Ray/Radiology Technician
+Medical Laboratory Assistant
+Operation Theatre Assistant
+Nursing Care Assistant
+ECG Assistant
+Dental Assistant
+Ophthalmic Assistant
+CT Scan Technician
+Dialysis Technician
+MRI Technician
+BA in History and Archaeology
+BA in Hindi
+BA in Humanities
+BA in Finance
+BA in Foreign Languages (example- French)
+BA in Regional Languages (example- Malayalam)
+BA in Journalism and Mass Communication
+BA in Visual Communication
+BA in Literature
+BA in Philosophy
+BA in Music
+BA in Theatre
+BA in Yoga and Naturopathy
+BA in Tourism and Hospitality Management
+BA in Library Science
+BA in Photography
+BA in Applied Science
+BA in Advertising
+BA in Fine Arts
+BA in Mathematics
+BA in Retail Management
+BA in Fashion Merchandising
+BA in Culinary Sciences
+BA in Anthropology
+BA in Home Science
+BA in Hotel Management
+BA in Computer Applications
+BA in Finance and Insurance
+BA in Interior Designing
+BA in Psychology
+BA in Economics
+BA in Animation and Multimedia
+Diploma in Interior Design
+Diploma in Fashion Design
+Diploma in Jewellery Design
+Diploma in Event Management
+Diploma in Health & Applied Sciences
+Diploma in Web Designing
+Diploma in Software Engineering
+Diploma in Food Technology
+Diploma in Audio Engineering
+Diploma in Beauty Culture
+Diploma in ITES & Management
+Diploma in Office Management & Secretarial Practice
+Diploma in Plastics Mould Technology
+Diploma in Computer Application
+Diploma in Home Science
+Diploma in Hotel Management
+Diploma in Professional Makeup
+Diploma in Fish Products Technology
+Diploma in Tourism Studies
+Diploma in Watershed Management
+Diploma in Hardware & Networking
+Diploma in Computer Hardware Maintenance
+Diploma in Wood and Paper Technology
+Diploma in Agriculture
+Diploma in Hospitality Management
+Diploma in Urdu
+Diploma in Visual Communication
+Diploma in Printing Technology
+Diploma in Architectural Assistantship
+Diploma in Rubber Technology
+Diploma in Electrical and Electronics Engineering (EEE)
+Diploma in Power Electronics
+Diploma in Ceramic Engineering
+Diploma in Nursing Care Assistant Course in India
+Diploma in Biomedical Engineering
+Diploma in Plastic Engineering
+Diploma in Business Management
+Diploma in Mining Engineering
+Diploma in Metallurgical Engineering
+Diploma in Mechatronics Engineering
+Diploma in Environmental Engineering
+Diploma in Textile Engineering
+Diploma in EC (Electronics and Communication) Engineering
+Diploma in Mechanical Engineering
+Diploma in Chemical Engineering
+Diploma in Electrical Engineering
+Diploma in Ophthalmic Technology
+Diploma in Aeronautical Engineering
+Diploma in IC (Instrumentation and Control) Engineering
+Diploma in Marine Engineering
+Diploma in Physiotherapy
+Diploma in Civil Engineering
+Diploma in Computer Engineering
+Diploma in Information Technology (IT)
+Diploma in Automobile Engineering
+Post Graduate Diploma in Computer Applications - PGDCA
+P.G. Diploma in Information Security (PGDIS)
+Diploma in Mechanical Engineering
+Diploma in Business Administration
+PGDBM - Post Graduate Diploma in Bank Management
+PGDAS - Post Graduate Diploma in Accounting Software
+Diploma in Civil Engineering
+Diploma in Management
+Diploma in Information Technology
+Post Graduate Programme in Management
+Post Graduate Diploma in Management - PGDM
+Diploma in Hotel Management
+Diploma in Taxation
+Commercial Pilot Licence
+Diploma in Photography
+Diploma in Early Childhood Education
+Diploma in English
+Diploma in Fine Arts
+Diploma in Electrical Engineering
+Diploma in Financial Management
+Diploma in Human Resource Management (D.H.R.M.)
+Diploma in Computer Engineering
+P.G. Diploma in Child Health
+Post Graduate Diploma in Translation (PGDT)
+Post Graduate Diploma in Information Technology (PGDIT)
+Diploma in Interior Design
+Diploma  in Dermatology
+Diploma in Electronics
+Diploma in Journalism
+Post Graduate Diploma in Human Resource Management (PGDHRM)
+Diploma in Aeronautical Engineering
+Diploma in Public Health
+Diploma in Retail Management
+Post Graduate Diploma in Business Administration
+Post Graduate Diploma in Business Management - PGDBM
+Diploma in Hospitality Management
+Diploma in Event Management
+Diploma in Chemical Engineering
+Diploma in Electronics and Communication Engineering
+Diploma in Marine Engineering
+Post Graduate Diploma in Financial Management
+Diploma in Hotel and Catering Management (DHCM)
+E.T.T
+Diploma in Library Science
+Diploma in Theology
+Diploma in Software Engineering
+Diploma in Food Technology
+Diploma in Marketing Management
+Diploma in Insurance
+Diploma in Criminology
+Diploma in Hospital Management
+Diploma in French
+Diploma in Office Management
+Diploma in Child Psychology
+Diploma in Diabetology
+Diploma in Spanish
+Diploma in Yoga
+Diploma in Hospital Administration
+Diploma in Fashion Design
+Post Graduate Diploma in Social Work (PGDSW)
+Post Graduate Diploma in Counselling Psychology
+Post Graduate Diploma in Nanotechnology
+Diploma in Occupational Therapy
+Post Graduate Diploma in Rural Management (PGDRM)
+Diploma in Web Designing
+Diploma in Aviation Management
+Diploma in Computer Technology
+Diploma in Optometry
+Diploma in Human Rights
+Diploma in Mining Engineering
+Diploma in Petroleum Engineering
+Diploma in Physical Education
+Post Graduate Diploma in Construction Management
+Post Graduate Diploma in Health, Safety and Environment (PGDHSE)
+Diploma in Mechatronics
+Diploma in Astrology (DIA)
+P.G. Diploma in Gynaecology & Obstetrics - D.G.O.
+Post Graduate Diploma in Clinical Research (PGDCR)
+Diploma in Ophthalmology
+Post Graduate Diploma in Bioinformatics - PGDBI
+Diploma in Commercial Practice
+Diploma in Export Management
+Post Graduate Diploma in Financial Planning
+Post Graduate Diploma in International Business - PGDIB
+Post Graduate Diploma in Hospital Management (PGDHM)
+Advanced Diploma in Information Technology
+Post Graduate Diploma in Environmental Law (PGDEL)
+Diploma in Dance
+Post Graduate Diploma in Economics
+Diploma in Textile Technology
+D.N.B.
+Diploma in Counselling Psychology
+Diploma in Export and Import Management
+Post Graduate Diploma in Environmental Management (PGDEM)
+Diploma in Materials Management
+Post Graduate Diploma in Sports Management (PGDSM)
+Post Graduate Diploma in Intellectual Property Rights
+Diploma in Dairy Technology
+Diploma in Cyber Security
+Diploma in Secretarial Practice
+Diploma in Cosmetology
+Post Graduate Program in Family Managed Business (PGPFMB)
+Post Graduate Diploma in Event Management
+Post Graduate Diploma in Export-Import & International Finance
+Post Graduate Diploma in Foreign Trade
+Post graduate Diploma in International Marketing
+Post Graduate Diploma in Education Management (P.G.D.Ed.M.)
+Post Graduate Diploma in Clinical Data Management
+International Diploma in Hotel Management
+Post Graduate Diploma in Disaster Management
+Post  Graduate Diploma in  Hospital and Health Management
+Post Graduate Diploma in Operations Management
+Post Graduate Diploma in Personnel Management
+Post Graduate Diploma in Business Finance
+Post Graduate Diploma in Marketing Management
+Post Graduate Diploma in Materials and Logistics Management (PGDMLM)
+Post Graduate Diploma in Management & Business Administration (PGDMBA)
+Diploma in Mass Media
+Diploma in Advertising and Public Relations
+Diploma in Film Editing
+DBJCC - Diploma in Business Journalism & Corporate Communication
+Diploma in Mass Communication
+Diploma in Video Editing
+PGPBM - Post Graduate Programme in Business Management
+Post Graduate Diploma in Pharmaceutical Management
+Post Graduate Diploma in Retail Management
+Post Graduate Diploma in Rural Development
+Post Graduate Diploma in Rural Development and Management
+Post Graduate Diploma in School Leadership and Management (PGDSLM)
+Post Graduate Diploma in Teaching and Research in Management
+Post Graduate Diploma in Advertising
+Executive Post Graduate Diploma in International Business
+Diploma in Aquaculture
+Advanced Diploma in International Business
+Diploma in Agribusiness Management
+Diploma in Business Management
+Diploma in Commodities Market
+Diploma in Computer Management
+P.G. Diploma in Analytical Chemistry
+Post Graduate Diploma in Microbiology
+Post Graduate Diploma in Geo Informatics
+Diploma in Environmental Law
+Diploma in Home Science
+Diploma in Nautical Science
+Post Graduate Diploma in Dietetics
+Diploma in Investment Management
+Diploma in Modern Office Management
+Diploma in Sales and Marketing Management
+Diploma in Insurance and Risk Management
+Diploma in Industrial Relations and Personnel Management
+Diploma in Food Production
+Diploma in Foreign Trade Management
+Diploma in Hotel Management and Catering Technology
+Faculty Development Programme
+Post Graduate Diploma in Embedded Systems
+Diploma in Labour Laws and Labour Welfare (DLL & LW)
+Diploma in Medical Jurisprudence
+Diploma in Taxation Laws & Practice
+Post Graduate Diploma in Business Law (PGDBL)
+Post Graduate Diploma in Corporate Law (PGDCL)
+Post Graduate Diploma in Cyber Law
+Post Graduate Diploma in IPR and Patent Law
+Diploma in Cyber Law
+Diploma in Business Law
+Post Graduate Diploma in Computer Commercial Application (PGDCCA)
+PGDCP - Post Graduate Diploma in Computer Programming
+Post Graduate Diploma in e-Governance
+Post Graduate Diploma in Web Designing
+Post Graduate Diploma in Cyber Security
+Post Graduate Diploma in Medical Law and Ethics (PGDMLE)
+Post Graduate Diploma in Taxation Law (PGDTL)
+Post Graduate Diploma in Taxation Practice (PGDTP)
+Diploma in Textile Design
+Post Graduate Diploma in Fashion Designing
+Diploma in Aviation Hospitality and Travel Management
+Advanced Diploma in  3D Animation
+Advanced Diploma in Animation
+Diploma in 3D Animation
+Diploma in Apparel Merchandising
+Advanced Diploma in Interior Design
+Post Graduate Diploma in Intellectual Property Rights Law (PGDIPRL)
+Diploma in Beauty Culture
+Diploma in Mobile Repairing
+Diploma in Videography
+Diploma in Animation Film Making
+Honours Diploma in Computer Application
+Post Graduate Diploma in Journalism
+PGSCS - Post Graduate Diploma in Company Secretaryship
+PGDIFA - Post Graduate Diploma in Investment & Financial Analysis
+PGDPA - Post Graduate Diploma in Professional Accounting
+Diploma in Footwear Technology
+Diploma in Gemology
+Diploma in Intellectual Property Law
+PGDBFM - Post Graduate Diploma in Banking and Financial Management
+Post Graduate Diploma in Journalism and Mass Communication - PGDJMC
+Post Graduate Diploma in Mass Communication
+Diploma in Banking and Insurance
+Advanced Diploma in Taxation
+Diploma in Banking Management
+Diploma in e-Commerce
+Diploma in Tally Software
+Diploma in Visual Merchandising
+Advance Diploma in Computer Hardware and Networking (ADCHN)
+Advanced Diploma in Computer Application
+Advanced Post Graduate Diploma in Computer Application (APGDCA)
+Diploma in Computer Hardware and Networking (DCHN)
+Diploma in Computer Accounting
+Post Graduate Diploma in Food Safety and Quality Management (PGDFSQM)
+Diploma in Watershed Management
+Diploma in Food Processing
+Post Graduate Diploma in Insurance Management (PGDIM)
+Post Graduate Diploma in Management (Executive)
+Post Graduate Diploma in Photography - PGDP
+Diploma in Agriculture
+Diploma in Animal Husbandry
+Post  Graduate Diploma in  Higher Education
+Post Graduate Diploma in Public Administration
+Post Graduate Diploma in Public Relations
+Post Graduate Diploma in Rehabilitation Psychology
+Post Graduate Diploma in Special Education
+Post Graduate Diploma in Travel & Tourism Management
+Post Graduate Diploma in Yoga
+Post Graduate Diploma in Library Automation and Networking
+Post Graduate Diploma in Instructional Design
+Post  Graduate Diploma in English
+Post Graduate Diploma in  Instrumentation
+P.G. Diploma in Actuarial Science
+Post Graduate Diploma in Archaeology
+Post Graduate Diploma in Clinical Psychology
+Post Graduate Diploma in Distance Education
+Post Graduate Diploma in Educational Technology
+Post Graduate Diploma in Environment and Sustainable Development
+Diploma in Automobile Engineering
+Diploma in Biomedical Engineering
+Diploma in Electrical & Electronics Engineering
+Diploma in Environmental Engineering
+Diploma in Fashion Technology
+Diploma in Fire Engineering
+Diploma in Fire Safety Engineering
+Diploma in Digital Electronics
+Diploma in Architecture Engineering
+Diploma in Automation
+Diploma in Cement Technology
+Diploma in Ceramic Technology
+Diploma in Computer Science and Technology
+Diploma in Computer Science and Engineering
+H.D.C.M
+Advanced Diploma in French
+Diploma in Acting
+Diploma in Art and Craft
+Diploma in Commercial Art
+Diploma in Graphic Design
+Diploma in Counseling
+Diploma in Creative Writing in English
+Diploma in Creative Writing in Hindi
+Diploma in Drawing and Painting
+Diploma in Education (D.Ed.)
+Diploma in Fire and Safety Management
+Diploma in Hindi
+Diploma in HIV and Family Education
+Diploma in Jewellery Design
+Diploma in Library and Information Science
+Diploma in Linguistics
+Diploma in Music
+Diploma in Numerology
+Diploma in Nursery Teacher Training (NTT)
+Diploma in Philosophy
+Diploma in Police Administration
+Diploma in Rural Development
+Diploma in Sanskrit
+Diploma in Tamil
+Diploma in Tourism Studies
+Diploma in Urdu
+Diploma in Foundry Technology
+Diploma in Industrial Electronics
+Diploma in Instrumentation Engineering
+Diploma in Metallurgical Engineering
+Diploma in Medical Electronics
+Diploma in Modern Office Practice
+Diploma in Petrochemical Engineering
+Diploma in Plastics Technology
+Diploma in Production Engineering
+Diploma in Robotics
+Diploma in Rubber Technology
+Diploma in Telecommunication Engineering
+Diploma in Sugar Technology
+Diploma in Welding Technology
+Post Graduate Diploma in Thermal Power Plant Engineering
+Post Graduate Diploma in Industrial Safety
+Diploma in Anaesthesiology
+Diploma in Medical Laboratory Technology (DMLT)
+Diploma  in Vetrinary Pharmacy
+Diploma in Dental Mechanics
+Diploma in Dietetics and Nutrition
+Diploma in Dietetics and Applied Nutrition
+Diploma in E.N.T. - D.L.O.
+Diploma in Forensic Medicine
+Diploma in Health Administration
+Diploma in Health Assistant (DHA)
+Diploma in Hearing Language and Speech (D.H.L.S.)
+Diploma in Herbal Medicine
+Diploma in Industrial Health - D.I.H.
+Diploma in Industrial Hygiene
+Diploma in Medical Imaging Technology
+Diploma in Medical Record Technology
+Diploma in Nursing Administration
+Diploma in Operation Theatre Techniques
+Diploma in Ophthalmic Assistant (DOA)
+Diploma in Panchkarma
+Post Graduate Diploma in Paediatrics - DCH
+P.G. Diploma in Orthopaedics - D.Ortho.
+Diploma in Pharmaceutical Management
+Diploma in Psychiatric Nursing
+Diploma in Physiotherapy - DPT
+Diploma in Psychological Medicine
+Diploma in Radiological Technology (DRT)
+Diploma in Veterinary Pharmacy
+Diploma in X-Ray Technology
+Diploma in General Nursing and Midwifery (G.N.M.)
+
+(PGDIS)
+(D.H.R.M.)
+(PGDT)
+(PGDIT)
+(PGDHRM)
+(DHCM)
+(PGDSW)
+(PGDRM)
+(PGDHSE)
+(DIA)
+(PGDCR)
+(PGDHM)
+(PGDEL)
+(PGDEM)
+(PGDSM)
+(PGPFMB)
+(P.G.D.Ed.M.)
+(PGDMLM)
+(PGDMBA)
+(PGDSLM)
+(DLL & LW)
+(PGDBL)
+(PGDCL)
+(PGDCCA)
+(PGDMLE)
+(PGDTL)
+(PGDTP)
+(PGDIPRL)
+(ADCHN)
+(APGDCA)
+(DCHN)
+(PGDFSQM)
+(PGDIM
+(D.Ed.)
+(NTT)
+(DMLT)
+(DHA)
+(D.H.L.S.)
+(DOA)
+(DRT)
+(G.N.M.)
+(D.A.C.)
+(DOTT)
+(DMLT)
+(DHLS)
+(EEE)
+(IT)
+(PGDIS)
+(D.H.R.M.)
+(PGDT)
+(PGDIT)
+(PGDHRM)
+(DHCM)
+(PGDSW)
+(PGDRM)
+(PGDHSE)
+(DIA)
+(PGDCR)
+(PGDHM)
+(PGDEL)
+(PGDEM)
+(PGDSM)
+(PGPFMB)
+(P.G.D.Ed.M.)
+(PGDMLM)
+(PGDMBA)
+(PGDSLM)
+(DLL & LW)
+(PGDBL)
+(PGDCL)
+(PGDCCA)
+(PGDMLE)
+(PGDTL)
+(PGDTP)
+(PGDIPRL)
+(ADCHN)
+(APGDCA)
+(DCHN)
+(PGDFSQM)
+(PGDIM)
+(Executive)
+(D.Ed.)
+(NTT)
+(DMLT)
+(DHA)
+(D.H.L.S.)
+(DOA)
+(DRT)
+(G.N.M.)
+(D.A.C.)
+(Advanced Diploma)
+(Advanced PG Diploma)
+(ATD)
+(B.A.S.L.P)
+(B.Ed)
+(B.Ed.Spl.Ed.(MD))
+(D.B.A)
+(D.B.Ed)
+(D.C.B.R)
+(D.E.C.C.E)
+(D.E.C.S.E)
+(D.E.E)
+(D.E.Ed)
+(D.E.I.E)
+(D.Ed)
+(D.Ed(MR))
+(D.Ed.(ASD))
+(D.Ed.Q)
+(D.Ed.Spl.Ed.(Db))
+(D.Ed.Spl.Ed.(DHH))
+(D.Ed.Spl.Ed.(VI))
+(D.F.Tech)
+(D.G.P)
+(D.H.A.R.E.M.T)
+(D.H.L.S)
+(D.H.L.S)
+(D.H.L.S)
+(D.I.S.L.I)
+(D.I.T)
+(D.M.L.T)
+(D.M.P.B)
+(D.P.E)
+(D.P.Ed )
+(D.P.O)
+(D.Pharm)
+(D.R.T)
+(D.S.E)
+(D.S.E (HI))
+(D.T.E)
+(D.T.Ed)
+(D.T.Ed AI)
+(D.T.Y.(DHH))
+(D.V.R.(MR))
+(D.V.T.E )
+(D.V.T.E)
+(D.Y.Ed)
+(Diploma)
+(HDFT)
+(I.D.H.M)
+(Jr.Diploma)
+(M.A.S.L.P)
+(M.B.B.S)
+(M.Ed)
+(M.Phil.(R.P.))
+(P. G. Diploma)
+(P.G.D.B.M)
+(P.G.D.C.A)
+(P.G.D.D.R.M)
+(P.G.D.M)
+(P.G.D.M)
+(P.G.D.S.E.(MD:P&N))
+(PG Diploma)
+(PGDCM)
+(PGDHRM)
+(PGDM)
+(Sr.Diploma)
+(U.G.D.P.Ed)
+
+PGDBM
+PGDAS
+DBJCC
+PGPBM
+PGDCP
+PGSCS
+PGDIFA
+PGDPA
+PGDBFM
+PGDCA
+PGDM
+D.G.O.
+PGDBI
+PGDIB
+PGDJMC
+PGDP
+D.L.O.
+D.I.H.
+DCH
+D.Ortho.
+DPT

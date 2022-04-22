@@ -1,0 +1,48 @@
+ner = { type: "CLASS", value: "edu.stanford.nlp.ling.CoreAnnotations$NamedEntityTagAnnotation" }
+tokens = { type: "CLASS", value: "edu.stanford.nlp.ling.CoreAnnotations$TokensAnnotation" }
+
+$FATHERNAME="/(father|fathers)/"
+$MOTHERNAME="/(mother|mothers)/"
+$NATIONALITY="/nationality/"
+$DATEOFBIRTH="/(dateofbirth|dob|d.o.b.|d.o.b|date.of.birth|date.of.birth.)/"
+$DEGREEBASE="/(Advanced|Associate|Bachelor|Diploma|Doctor|Doctorate|Executive|Higher|Honorary|Honours|Integrated|International|Jr|Junior|Mass|Master|Post|Senior|Sr|Under)/"
+$DEGREEINTER="/(in|of)/"
+$ORGENDINGS="/(inc|inc.|ltd|ltd.|limited|limited.|solutions|communications|technologies|tech|tech.|corp|corp.|corporation|services|systems)/"
+$DURATIONINTER="/(to|-)/"
+$DURATIONEND="/(current|present|now|till)/"
+
+{ ruleType: "tokens", pattern: (([{ner:"DEGREE"}] [{ner:"DEGREE"}]+[{ner:"DEGREE"}])|([{ner:"DEGREE"}])), result: "DEGREE_RESULT" }
+
+{ ruleType: "tokens", pattern: ([{ner:"SKILLSET"}]+), result: "SKILLSET_RESULT" }
+
+{ ruleType: "tokens", pattern: ([{ner:"ORGANIZATION"}]+ [{ner:"ORGANIZATION"} && {word:$ORGENDINGS}]), result: "ORG_RESULT" }
+
+{ ruleType: "tokens", pattern: ([{ner:"COMPANY_GIVEN"}]+), result: "ORG_RESULT_CNF" }
+
+{ ruleType: "tokens", pattern: ([{ner:"DESIGNATION"}]+), result: "DESIGNATION_GIVEN" }
+
+{ ruleType: "tokens", pattern: ([{word:/name/}]/:/?[{ner:"PERSON"}]), result: "NAME_PERSONAL" }
+
+{ ruleType: "tokens", pattern: ([{ner:"GIVEN_NAME"}]+), result: "NAME_GIVEN_PERSONAL" }
+
+{ ruleType: "tokens",
+pattern: (((([{word:/date|d/}]/./?[{word:/of|o/}]/./?[{word:/birth|b/}])|([{word:/birth/}]/./?[{word:/date/}]))|([{word:$DATEOFBIRTH}]))/:/?/-/?(([{ner:DATE}]+)|([{ner:NUMBER}])|([{ner:O} && {word:/[a-zA-Z0-9]+( |\/|-)[a-zA-Z0-9]+( |\/|-)[a-zA-Z0-9]+/}]))),
+result: "DATE_OF_BIRTH_FULL" }
+
+{ ruleType: "tokens",
+pattern:
+([{word:$FATHERNAME}][{word:/'s/}]?/'/?([{word:/name/}]|[{word:/sname/}])/:/?(([{ner:O} && {tag:NNP}]([{ner:PERSON}]|[{tag:NN}]|[{tag:NNP}]&[!{word:$DATEOFBIRTH}]){1})|([{ner:PERSON}]|[{tag:NN}]|[{tag:NNP}]&[!{word:$DATEOFBIRTH}]){0,2})),
+result: "FATHER_NAME" }
+
+{ ruleType: "tokens",
+pattern:
+([{word:$MOTHERNAME}][{word:/'s/}]?/'/?([{word:/name/}]|[{word:/sname/}])/:/?(([{ner:O} && {tag:NNP}]([{ner:PERSON}]|[{tag:NN}]|[{tag:NNP}]&[!{word:$DATEOFBIRTH}]){1})|([{ner:PERSON}]|[{tag:NN}]|[{tag:NNP}]&[!{word:$DATEOFBIRTH}]){0,2})),
+result: "MOTHER_NAME" }
+
+{ ruleType: "tokens", pattern: ([{word:/marital/}][{word:/status/}]/:/?([{tag:JJ}]|[{tag:NNP}]|[{tag:NN}])), result: "MARITAL_STATUS" }
+
+{ ruleType: "tokens", pattern: ([{word:$NATIONALITY}]/:/?(([{ner:COUNTRY}])|([{ner:O}])|([{ner:NATIONALITY}]))), result: "NATIONALITY_GIVEN" }
+
+{ ruleType: "tokens",
+pattern: ([{ner:"DATE"}]{1,3} [{tag: "TO"} || {word:$DURATIONINTER} || {ner: "O"} || {ner:"DATE"} || {tag:"JJ"}]? ([{ner:"DATE"}]{1,3} || ([{word:"till"}] [{word:"date"}]) || [{word:$DURATIONEND}])),
+result: "DURATION_PERIOD" }
